@@ -1,0 +1,9 @@
+{
+ "正在使用非标配充电器充电": "Non-standard charger in use",
+ "您的充电器不是官方充电器，可能会造成充电速度慢、充电口过热、断充等问题。": "This is not an official charger. It may charge slowly, overheat the port or stop charging.",
+ "我知道了": "Got it",
+ "<!-- 基本构成-通知标题和关闭按钮 -->": "<!-- title and close button -->",
+ "<!-- 内容构成 -->": "<!-- content -->",
+ "<!-- 只有内容描述 -->": "<!-- description only -->",
+ "<!-- 基本构成-按钮 -->": "<!-- buttons -->"
+}

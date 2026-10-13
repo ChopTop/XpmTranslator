@@ -1,0 +1,3326 @@
+[
+{
+"zh": "请选择日期",
+"ctx": ",a.default)({placeholder:"
+},
+{
+"zh": "请选择年份",
+"ctx": "5\\u671f\",yearPlaceholder:"
+},
+{
+"zh": "请选择季度",
+"ctx": "4efd\",quarterPlaceholder:"
+},
+{
+"zh": "请选择月份",
+"ctx": "\\u5ea6\",monthPlaceholder:"
+},
+{
+"zh": "请选择周",
+"ctx": "8\\u4efd\",weekPlaceholder:"
+},
+{
+"zh": "开始日期",
+"ctx": "u5468\",rangePlaceholder:["
+},
+{
+"zh": "结束日期",
+"ctx": "u5f00\\u59cb\\u65e5\\u671f\","
+},
+{
+"zh": "开始年份",
+"ctx": "\"],rangeYearPlaceholder:["
+},
+{
+"zh": "结束年份",
+"ctx": "u5f00\\u59cb\\u5e74\\u4efd\","
+},
+{
+"zh": "开始月份",
+"ctx": "],rangeMonthPlaceholder:["
+},
+{
+"zh": "结束月份",
+"ctx": "u5f00\\u59cb\\u6708\\u4efd\","
+},
+{
+"zh": "开始周",
+"ctx": "\"],rangeWeekPlaceholder:["
+},
+{
+"zh": "结束周",
+"ctx": "er:[\"\\u5f00\\u59cb\\u5468\","
+},
+{
+"zh": "确 定",
+"ctx": "{},o.default)};s.lang.ok="
+},
+{
+"zh": "请选择时间",
+"ctx": "oid 0;var r={placeholder:"
+},
+{
+"zh": "开始时间",
+"ctx": "u95f4\",rangePlaceholder:["
+},
+{
+"zh": "结束时间",
+"ctx": "u5f00\\u59cb\\u65f6\\u95f4\","
+},
+{
+"zh": "${label}不是一个有效的${type}",
+"ctx": "=r(n(278)),s=r(n(641)),c="
+},
+{
+"zh": "请选择",
+"ctx": "ault,global:{placeholder:"
+},
+{
+"zh": "筛选",
+"ctx": "2e9\"},Table:{filterTitle:"
+},
+{
+"zh": "确定",
+"ctx": "b5b\\u9009\",filterConfirm:"
+},
+{
+"zh": "重置",
+"ctx": "u786e\\u5b9a\",filterReset:"
+},
+{
+"zh": "无筛选项",
+"ctx": "d\\u7f6e\",filterEmptyText:"
+},
+{
+"zh": "全选当页",
+"ctx": "b\\u9009\\u9879\",selectAll:"
+},
+{
+"zh": "反选当页",
+"ctx": "5f53\\u9875\",selectInvert:"
+},
+{
+"zh": "清空所有",
+"ctx": "\\u5f53\\u9875\",selectNone:"
+},
+{
+"zh": "全选所有",
+"ctx": "6240\\u6709\",selectionAll:"
+},
+{
+"zh": "排序",
+"ctx": "9\\u6240\\u6709\",sortTitle:"
+},
+{
+"zh": "展开行",
+"ctx": "le:\"\\u6392\\u5e8f\",expand:"
+},
+{
+"zh": "关闭行",
+"ctx": "55\\u5f00\\u884c\",collapse:"
+},
+{
+"zh": "点击降序",
+"ctx": "u95ed\\u884c\",triggerDesc:"
+},
+{
+"zh": "点击升序",
+"ctx": "\\u964d\\u5e8f\",triggerAsc:"
+},
+{
+"zh": "取消排序",
+"ctx": "\\u5347\\u5e8f\",cancelSort:"
+},
+{
+"zh": "取消",
+"ctx": "\\u786e\\u5b9a\",cancelText:"
+},
+{
+"zh": "知道了",
+"ctx": "\\u53d6\\u6d88\",justOkText:"
+},
+{
+"zh": "请输入搜索内容",
+"ctx": "nsfer:{searchPlaceholder:"
+},
+{
+"zh": "项",
+"ctx": "22\\u5185\\u5bb9\",itemUnit:"
+},
+{
+"zh": "删除",
+"ctx": "temsUnit:\"\\u9879\",remove:"
+},
+{
+"zh": "删除当页",
+"ctx": "f53\\u9875\",removeCurrent:"
+},
+{
+"zh": "删除全部",
+"ctx": "9\\u6240\\u6709\",removeAll:"
+},
+{
+"zh": "文件上传中",
+"ctx": "9875\"},Upload:{uploading:"
+},
+{
+"zh": "删除文件",
+"ctx": "\\u4f20\\u4e2d\",removeFile:"
+},
+{
+"zh": "上传错误",
+"ctx": "u6587\\u4ef6\",uploadError:"
+},
+{
+"zh": "预览文件",
+"ctx": "u9519\\u8bef\",previewFile:"
+},
+{
+"zh": "下载文件",
+"ctx": "6587\\u4ef6\",downloadFile:"
+},
+{
+"zh": "暂无数据",
+"ctx": "ef6\"},Empty:{description:"
+},
+{
+"zh": "图标",
+"ctx": "u6570\\u636e\"},Icon:{icon:"
+},
+{
+"zh": "编辑",
+"ctx": "u56fe\\u6807\"},Text:{edit:"
+},
+{
+"zh": "复制",
+"ctx": "edit:\"\\u7f16\\u8f91\",copy:"
+},
+{
+"zh": "复制成功",
+"ctx": "py:\"\\u590d\\u5236\",copied:"
+},
+{
+"zh": "展开",
+"ctx": "5236\\u6210\\u529f\",expand:"
+},
+{
+"zh": "返回",
+"ctx": "u5f00\"},PageHeader:{back:"
+},
+{
+"zh": "（可选）",
+"ctx": "4\\u56de\"},Form:{optional:"
+},
+{
+"zh": "字段验证错误${label}",
+"ctx": "alidateMessages:{default:"
+},
+{
+"zh": "请输入${label}",
+"ctx": "\\u8bef${label}\",required:"
+},
+{
+"zh": "${label}必须是其中一个[${enum}]",
+"ctx": "8f93\\u5165${label}\",enum:"
+},
+{
+"zh": "${label}不能为空字符",
+"ctx": "e2a[${enum}]\",whitespace:"
+},
+{
+"zh": "${label}日期格式无效",
+"ctx": "5b57\\u7b26\",date:{format:"
+},
+{
+"zh": "${label}不能转换为日期",
+"ctx": "u5f0f\\u65e0\\u6548\",parse:"
+},
+{
+"zh": "${label}是一个无效日期",
+"ctx": "e3a\\u65e5\\u671f\",invalid:"
+},
+{
+"zh": "${label}须为${len}个字符",
+"ctx": "url:c,hex:c},string:{len:"
+},
+{
+"zh": "${label}最少${min}个字符",
+"ctx": "}\\u4e2a\\u5b57\\u7b26\",min:"
+},
+{
+"zh": "${label}最多${max}个字符",
+"ctx": "}\\u4e2a\\u5b57\\u7b26\",max:"
+},
+{
+"zh": "${label}须在${min}-${max}字符之间",
+"ctx": "u4e2a\\u5b57\\u7b26\",range:"
+},
+{
+"zh": "${label}必须等于${len}",
+"ctx": "4e4b\\u95f4\"},number:{len:"
+},
+{
+"zh": "${label}最小值为${min}",
+"ctx": "b\\u7b49\\u4e8e${len}\",min:"
+},
+{
+"zh": "${label}最大值为${max}",
+"ctx": "f\\u503c\\u4e3a${min}\",max:"
+},
+{
+"zh": "${label}须在${min}-${max}之间",
+"ctx": "u503c\\u4e3a${max}\",range:"
+},
+{
+"zh": "须为${len}个${label}",
+"ctx": "u4e4b\\u95f4\"},array:{len:"
+},
+{
+"zh": "最少${min}个${label}",
+"ctx": "{len}\\u4e2a${label}\",min:"
+},
+{
+"zh": "最多${max}个${label}",
+"ctx": "{min}\\u4e2a${label}\",max:"
+},
+{
+"zh": "${label}数量须在${min}-${max}之间",
+"ctx": "ax}\\u4e2a${label}\",range:"
+},
+{
+"zh": "${label}与模式不匹配${pattern}",
+"ctx": "95f4\"},pattern:{mismatch:"
+},
+{
+"zh": "预览",
+"ctx": "tern}\"}}},Image:{preview:"
+},
+{
+"zh": "一月_二月_三月_四月_五月_六月_七月_八月_九月_十月_十一月_十二月",
+"ctx": "neLocale(\"zh-cn\",{months:"
+},
+{
+"zh": "1月_2月_3月_4月_5月_6月_7月_8月_9月_10月_11月_12月",
+"ctx": "\".split(\"_\"),monthsShort:"
+},
+{
+"zh": "星期日_星期一_星期二_星期三_星期四_星期五_星期六",
+"ctx": "708\".split(\"_\"),weekdays:"
+},
+{
+"zh": "周日_周一_周二_周三_周四_周五_周六",
+"ctx": "split(\"_\"),weekdaysShort:"
+},
+{
+"zh": "日_一_二_三_四_五_六",
+"ctx": "\".split(\"_\"),weekdaysMin:"
+},
+{
+"zh": "YYYY年M月D日",
+"ctx": "mm:ss\",L:\"YYYY/MM/DD\",LL:"
+},
+{
+"zh": "YYYY年M月D日Ah点mm分",
+"ctx": "u5e74M\\u6708D\\u65e5\",LLL:"
+},
+{
+"zh": "YYYY年M月D日ddddAh点mm分",
+"ctx": "e5Ah\\u70b9mm\\u5206\",LLLL:"
+},
+{
+"zh": "YYYY年M月D日 HH:mm",
+"ctx": "u5e74M\\u6708D\\u65e5\",lll:"
+},
+{
+"zh": "YYYY年M月D日dddd HH:mm",
+"ctx": "u6708D\\u65e5 HH:mm\",llll:"
+},
+{
+"zh": "凌晨",
+"ctx": ",t){return 12===e&&(e=0),"
+},
+{
+"zh": "早上",
+"ctx": "e=0),\"\\u51cc\\u6668\"===t||"
+},
+{
+"zh": "上午",
+"ctx": "==t||\"\\u65e9\\u4e0a\"===t||"
+},
+{
+"zh": "下午",
+"ctx": "=t||\"\\u4e0a\\u5348\"===t?e:"
+},
+{
+"zh": "晚上",
+"ctx": "=t?e:\"\\u4e0b\\u5348\"===t||"
+},
+{
+"zh": "中午",
+"ctx": "30?\"\\u4e0a\\u5348\":r<1230?"
+},
+{
+"zh": "[今天]LT",
+"ctx": "4e0a\"},calendar:{sameDay:"
+},
+{
+"zh": "[明天]LT",
+"ctx": "\\u4eca\\u5929]LT\",nextDay:"
+},
+{
+"zh": "[下]dddLT",
+"ctx": "n e.week()!==this.week()?"
+},
+{
+"zh": "[本]dddLT",
+"ctx": "s.week()?\"[\\u4e0b]dddLT\":"
+},
+{
+"zh": "[昨天]LT",
+"ctx": "\"[\\u672c]dddLT\"},lastDay:"
+},
+{
+"zh": "[上]dddLT",
+"ctx": "n this.week()!==e.week()?"
+},
+{
+"zh": "日",
+"ctx": "se\"D\":case\"DDD\":return e+"
+},
+{
+"zh": "月",
+"ctx": "\\u65e5\";case\"M\":return e+"
+},
+{
+"zh": "周",
+"ctx": "case\"w\":case\"W\":return e+"
+},
+{
+"zh": "%s后",
+"ctx": "e}},relativeTime:{future:"
+},
+{
+"zh": "%s前",
+"ctx": ":{future:\"%s\\u540e\",past:"
+},
+{
+"zh": "几秒",
+"ctx": "u540e\",past:\"%s\\u524d\",s:"
+},
+{
+"zh": "%d 秒",
+"ctx": "24d\",s:\"\\u51e0\\u79d2\",ss:"
+},
+{
+"zh": "1 分钟",
+"ctx": "\\u79d2\",ss:\"%d \\u79d2\",m:"
+},
+{
+"zh": "%d 分钟",
+"ctx": "2\",m:\"1 \\u5206\\u949f\",mm:"
+},
+{
+"zh": "1 小时",
+"ctx": "\",mm:\"%d \\u5206\\u949f\",h:"
+},
+{
+"zh": "%d 小时",
+"ctx": "f\",h:\"1 \\u5c0f\\u65f6\",hh:"
+},
+{
+"zh": "1 天",
+"ctx": "\",hh:\"%d \\u5c0f\\u65f6\",d:"
+},
+{
+"zh": "%d 天",
+"ctx": "f\\u65f6\",d:\"1 \\u5929\",dd:"
+},
+{
+"zh": "1 周",
+"ctx": "\\u5929\",dd:\"%d \\u5929\",w:"
+},
+{
+"zh": "%d 周",
+"ctx": " \\u5929\",w:\"1 \\u5468\",ww:"
+},
+{
+"zh": "1 个月",
+"ctx": "\\u5468\",ww:\"%d \\u5468\",M:"
+},
+{
+"zh": "%d 个月",
+"ctx": "8\",M:\"1 \\u4e2a\\u6708\",MM:"
+},
+{
+"zh": "1 年",
+"ctx": "\",MM:\"%d \\u4e2a\\u6708\",y:"
+},
+{
+"zh": "%d 年",
+"ctx": "a\\u6708\",y:\"1 \\u5e74\",yy:"
+},
+{
+"zh": "条/页",
+"ctx": ".default={items_per_page:"
+},
+{
+"zh": "跳至",
+"ctx": ":\"\\u6761/\\u9875\",jump_to:"
+},
+{
+"zh": "页",
+"ctx": "firm:\"\\u786e\\u5b9a\",page:"
+},
+{
+"zh": "上一页",
+"ctx": ",page:\"\\u9875\",prev_page:"
+},
+{
+"zh": "下一页",
+"ctx": "a\\u4e00\\u9875\",next_page:"
+},
+{
+"zh": "向前 5 页",
+"ctx": "4e0b\\u4e00\\u9875\",prev_5:"
+},
+{
+"zh": "向后 5 页",
+"ctx": "1\\u524d 5 \\u9875\",next_5:"
+},
+{
+"zh": "向前 3 页",
+"ctx": "1\\u540e 5 \\u9875\",prev_3:"
+},
+{
+"zh": "向后 3 页",
+"ctx": "1\\u524d 3 \\u9875\",next_3:"
+},
+{
+"zh": "今天",
+"ctx": " r={locale:\"zh_CN\",today:"
+},
+{
+"zh": "此刻",
+"ctx": "today:\"\\u4eca\\u5929\",now:"
+},
+{
+"zh": "返回今天",
+"ctx": "u6b64\\u523b\",backToToday:"
+},
+{
+"zh": "选择时间",
+"ctx": "\\u786e\\u5b9a\",timeSelect:"
+},
+{
+"zh": "选择日期",
+"ctx": "\\u65f6\\u95f4\",dateSelect:"
+},
+{
+"zh": "选择周",
+"ctx": "\\u65e5\\u671f\",weekSelect:"
+},
+{
+"zh": "清除",
+"ctx": "u9009\\u62e9\\u5468\",clear:"
+},
+{
+"zh": "年",
+"ctx": "664\",month:\"\\u6708\",year:"
+},
+{
+"zh": "上个月 (翻页上键)",
+"ctx": "r:\"\\u5e74\",previousMonth:"
+},
+{
+"zh": "下个月 (翻页下键)",
+"ctx": "\\u4e0a\\u952e)\",nextMonth:"
+},
+{
+"zh": "选择月份",
+"ctx": "4e0b\\u952e)\",monthSelect:"
+},
+{
+"zh": "选择年份",
+"ctx": "\\u6708\\u4efd\",yearSelect:"
+},
+{
+"zh": "选择年代",
+"ctx": "5e74\\u4efd\",decadeSelect:"
+},
+{
+"zh": "YYYY年",
+"ctx": "\\u5e74\\u4ee3\",yearFormat:"
+},
+{
+"zh": "D日",
+"ctx": "t:\"YYYY\\u5e74\",dayFormat:"
+},
+{
+"zh": "YYYY年M月D日 HH时mm分ss秒",
+"ctx": "8D\\u65e5\",dateTimeFormat:"
+},
+{
+"zh": "上一年 (Control键加左方向键)",
+"ctx": "06ss\\u79d2\",previousYear:"
+},
+{
+"zh": "下一年 (Control键加右方向键)",
+"ctx": "9\\u5411\\u952e)\",nextYear:"
+},
+{
+"zh": "上一年代",
+"ctx": "1\\u952e)\",previousDecade:"
+},
+{
+"zh": "下一年代",
+"ctx": "\\u5e74\\u4ee3\",nextDecade:"
+},
+{
+"zh": "上一世纪",
+"ctx": "4\\u4ee3\",previousCentury:"
+},
+{
+"zh": "下一世纪",
+"ctx": "u4e16\\u7eaa\",nextCentury:"
+},
+{
+"zh": "一",
+"ctx": "ue+t.deco:\"\"}new Map([[1,"
+},
+{
+"zh": "二",
+"ctx": "new Map([[1,\"\\u4e00\"],[2,"
+},
+{
+"zh": "三",
+"ctx": "\\u4e00\"],[2,\"\\u4e8c\"],[3,"
+},
+{
+"zh": "四",
+"ctx": "\\u4e8c\"],[3,\"\\u4e09\"],[4,"
+},
+{
+"zh": "五",
+"ctx": "\\u4e09\"],[4,\"\\u56db\"],[5,"
+},
+{
+"zh": "六",
+"ctx": "\\u56db\"],[5,\"\\u4e94\"],[6,"
+},
+{
+"zh": "七",
+"ctx": "\\u4e94\"],[6,\"\\u516d\"],[7,"
+},
+{
+"zh": "八",
+"ctx": "\\u516d\"],[7,\"\\u4e03\"],[8,"
+},
+{
+"zh": "九",
+"ctx": "\\u4e03\"],[8,\"\\u516b\"],[9,"
+},
+{
+"zh": "正常",
+"ctx": "mal\",{type:\"normal\",text:"
+},
+{
+"zh": "修复",
+"ctx": "\\u5e38\"}],[\"abnormal\",pe("
+},
+{
+"zh": "启用",
+"ctx": "rimary\")],[\"disabled\",pe("
+},
+{
+"zh": "更新",
+"ctx": "ary\")],[\"out_of_date\",pe("
+},
+{
+"zh": "下载中",
+"ctx": "ary\")],[\"downloading\",he("
+},
+{
+"zh": "启用中",
+"ctx": "mal\",!1)],[\"enabling\",he("
+},
+{
+"zh": "修复中",
+"ctx": "al\",!0)],[\"repairing\",he("
+},
+{
+"zh": "更新中",
+"ctx": "mal\",!0)],[\"updating\",he("
+},
+{
+"zh": "获取失败",
+"ctx": ",!0)],[\"fetch_failed\",he("
+},
+{
+"zh": "下载失败",
+"ctx": ")],[\"download_failed\",he("
+},
+{
+"zh": "安装完成",
+"ctx": "or\",!1)],[\"installed\",he("
+},
+{
+"zh": "安装失败",
+"ctx": "1)],[\"install_failed\",he("
+},
+{
+"zh": "正在取消",
+"ctx": "or\",!1)],[\"canceling\",he("
+},
+{
+"zh": "取消完毕",
+"ctx": "mal\",!1)],[\"canceled\",he("
+},
+{
+"zh": "重启生效",
+"ctx": "1)],[\"pending_reboot\",he("
+},
+{
+"zh": "等待中",
+"ctx": "l\",!1)],[\"downloaded\",pe("
+},
+{
+"zh": "修复成功",
+"ctx": "\")],[\"repair_success\",he("
+},
+{
+"zh": "修复失败",
+"ctx": "!1)],[\"repair_failed\",he("
+},
+{
+"zh": "启用成功",
+"ctx": "1)],[\"enable_success\",he("
+},
+{
+"zh": "启用失败",
+"ctx": "!1)],[\"enable_failed\",he("
+},
+{
+"zh": "更新成功",
+"ctx": "1)],[\"update_success\",he("
+},
+{
+"zh": "更新失败",
+"ctx": "!1)],[\"update_failed\",he("
+},
+{
+"zh": "无线网卡",
+"ctx": "end:q.RepairEnd},ye={WLC:"
+},
+{
+"zh": "有线网卡",
+"ctx": "e0\\u7ebf\\u7f51\\u5361\",WC:"
+},
+{
+"zh": "集成显卡",
+"ctx": "9\\u7ebf\\u7f51\\u5361\",IGC:"
+},
+{
+"zh": "独立显卡",
+"ctx": "6\\u6210\\u663e\\u5361\",IDC:"
+},
+{
+"zh": "声卡",
+"ctx": "ec\\u7acb\\u663e\\u5361\",SC:"
+},
+{
+"zh": "蓝牙",
+"ctx": "61\",SC:\"\\u58f0\\u5361\",BT:"
+},
+{
+"zh": "生物识别设备",
+"ctx": "61\",BT:\"\\u84dd\\u7259\",FR:"
+},
+{
+"zh": "主板及芯片组",
+"ctx": "6\\u522b\\u8bbe\\u5907\",TBT:"
+},
+{
+"zh": "散热",
+"ctx": "ca\\u82af\\u7247\\u7ec4\",HR:"
+},
+{
+"zh": "磁盘",
+"ctx": "4\",HR:\"\\u6563\\u70ed\",RST:"
+},
+{
+"zh": "其他",
+"ctx": "a\\u82af\\u7247\\u7ec4\",OTS:"
+},
+{
+"zh": "NPU驱动",
+"ctx": "\",OTS:\"\\u5176\\u4ed6\",NPU:"
+},
+{
+"zh": "MEP驱动",
+"ctx": "PU:\"NPU\\u9a71\\u52a8\",MEP:"
+},
+{
+"zh": "PMT驱动",
+"ctx": "EP:\"MEP\\u9a71\\u52a8\",PMT:"
+},
+{
+"zh": "HDR驱动",
+"ctx": "MT:\"PMT\\u9a71\\u52a8\",HDR:"
+},
+{
+"zh": "NFC驱动",
+"ctx": "DR:\"HDR\\u9a71\\u52a8\",NFC:"
+},
+{
+"zh": "待修复驱动",
+"ctx": "=[{name:\"abnormal\",title:"
+},
+{
+"zh": "待升级驱动",
+"ctx": "name:\"out_of_date\",title:"
+},
+{
+"zh": "优化成功",
+"ctx": "]},{name:\"success\",title:"
+},
+{
+"zh": "优化失败",
+"ctx": "\"]},{name:\"failed\",title:"
+},
+{
+"zh": "正常驱动",
+"ctx": "\"]},{name:\"normal\",title:"
+},
+{
+"zh": "默认",
+"ctx": ",400,450,500],Da=[{label:"
+},
+{
+"zh": "暖色",
+"ctx": ",value:\"default\"},{label:"
+},
+{
+"zh": "冷色",
+"ctx": "272\",value:\"hot\"},{label:"
+},
+{
+"zh": "自定义",
+"ctx": "72\",value:\"cold\"},{label:"
+},
+{
+"zh": "启动项",
+"ctx": ");const ci={[ai.Startup]:"
+},
+{
+"zh": "系统服务",
+"ctx": "52a8\\u9879\",[ai.Service]:"
+},
+{
+"zh": "计划任务",
+"ctx": "d\\u52a1\",[ai.PlanedTask]:"
+},
+{
+"zh": "同一个tab下，同一时刻不允许展现多个拥有相同zIndex的SubPage",
+"ctx": "ex===r)))throw new Error("
+},
+{
+"zh": "当前网络异常，请检查网络情况并重试",
+"ctx": "a=!0,Ea.warning({content:"
+},
+{
+"zh": "未知",
+"ctx": "t].split(\":\")}catch(a){v="
+},
+{
+"zh": "80%（推荐）",
+"ctx": "ks:\"70\"}],[bp.One,{label:"
+},
+{
+"zh": "开",
+"ctx": "));const uh=new Map([[!0,"
+},
+{
+"zh": "关",
+"ctx": "w Map([[!0,\"\\u5f00\"],[!1,"
+},
+{
+"zh": "静谧模式",
+"ctx": "t Sh=\"nothing\",kh={label:"
+},
+{
+"zh": "静谧模式：低噪音，低发热，为您提供更静谧的使用体验。",
+"ctx": ":\"#FFA83F66\",description:"
+},
+{
+"zh": "均衡模式",
+"ctx": "\\u9a8c\\u3002\"},Eh={label:"
+},
+{
+"zh": "均衡模式：办公娱乐，均衡释放，满足您的日常需求。",
+"ctx": ":\"#36D16766\",description:"
+},
+{
+"zh": "极速模式",
+"ctx": "\\u6c42\\u3002\"},Mh={label:"
+},
+{
+"zh": "极速模式：提高性能释放，以满足您的高负载需求。",
+"ctx": ":\"#5799F966\",description:"
+},
+{
+"zh": "狂暴模式",
+"ctx": "\\u6c42\\u3002\"},Ph={label:"
+},
+{
+"zh": "狂暴模式：CPU将满载释放，为您提供极致的性能体验。移除电源连接或重启后将退出此模式。",
+"ctx": ":\"#8482FF66\",description:"
+},
+{
+"zh": "智能模式",
+"ctx": "\\u5f0f\\u3002\"},Th={label:"
+},
+{
+"zh": "智能模式：根据使用场景智能调节性能释放，为您提供更友好的使用体验。",
+"ctx": ":\"#36D16766\",description:"
+},
+{
+"zh": "省电模式",
+"ctx": "\\u9a8c\\u3002\"},Nh={label:"
+},
+{
+"zh": "省电模式：调节设备电源模式和背光从而降低功耗延长续航，连接原装适配器后将退出此模式；此模式下，附近设备可以通过连接同一WLAN网络使用互联互通功能。",
+"ctx": ":\"#FFB21D66\",description:"
+},
+{
+"zh": "此模式下小米互传、耳机快连无法建立新的连接。此模式下OS电源模式将设置为最佳效能，键盘背光和屏幕背光会降低。",
+"ctx": "002\"},Dh={...Nh,hoverTip:"
+},
+{
+"zh": "此模式下小米互传、耳机快连无法建立新的连接。此模式下OS电源模式将设置为最佳效能，屏幕背光会降低。",
+"ctx": "002\"},Ah={...Nh,hoverTip:"
+},
+{
+"zh": "我的电脑",
+"ctx": "[{id:tp.MyComputer,label:"
+},
+{
+"zh": "我的电脑tab",
+"ctx": "mputer\",trackInfo:{value:"
+},
+{
+"zh": "设备互联",
+"ctx": ",{id:tp.Continuity,label:"
+},
+{
+"zh": "设备互联tab",
+"ctx": "uggest\",trackInfo:{value:"
+},
+{
+"zh": "会议助手",
+"ctx": "p.MeetingAssistant,label:"
+},
+{
+"zh": "会议助手tab",
+"ctx": "istant\",trackInfo:{value:"
+},
+{
+"zh": "工具箱",
+"ctx": "id:tp.Optimization,label:"
+},
+{
+"zh": "工具箱tab",
+"ctx": "olsbox\",trackInfo:{value:"
+},
+{
+"zh": "个性化",
+"ctx": "tp.Personalization,label:"
+},
+{
+"zh": "个性化tab",
+"ctx": "nalize\",trackInfo:{value:"
+},
+{
+"zh": "应用商店",
+"ctx": "0},{id:tp.AppStore,label:"
+},
+{
+"zh": "应用商店tab",
+"ctx": "_store\",trackInfo:{value:"
+},
+{
+"zh": "服务反馈",
+"ctx": "ServiceAndFeedback,label:"
+},
+{
+"zh": "服务与反馈tab",
+"ctx": "ervice\",trackInfo:{value:"
+},
+{
+"zh": "帮助引导",
+"ctx": "},{id:tp.HelpGuide,label:"
+},
+{
+"zh": "帮助引导tab",
+"ctx": "_guide\",trackInfo:{value:"
+},
+{
+"zh": "设置",
+"ctx": "!1},{id:tp.Setting,label:"
+},
+{
+"zh": "设置tab",
+"ctx": "etting\",trackInfo:{value:"
+},
+{
+"zh": "离开页面",
+"ctx": " Object(c.jsx)(IL,{title:"
+},
+{
+"zh": "请按下快捷键",
+"ctx": ",type:\"text\",placeholder:"
+},
+{
+"zh": "热键冲突",
+"ctx": ",Object(c.jsx)(IL,{title:"
+},
+{
+"zh": "仍要设置",
+"ctx": "3d6\\u6d88\",secondaryText:"
+},
+{
+"zh": "快捷键设置与小米电脑管家其他热键冲突，可能会导致某些功能无法正常使用，是否仍要设置？",
+"ctx": "modal-content\"],children:"
+},
+{
+"zh": "提醒",
+"ctx": "{visible:e.visible,title:"
+},
+{
+"zh": "仍要关闭",
+"ctx": ",secondaryText:e.okText||"
+},
+{
+"zh": "防烧屏轮播中",
+"ctx": "===Qf.SwitchState.Enable?"
+},
+{
+"zh": "轮播中",
+"ctx": "u5c4f\\u8f6e\\u64ad\\u4e2d\":"
+},
+{
+"zh": "设为桌面",
+"ctx": "desktop\")):r()},children:"
+},
+{
+"zh": "设为锁屏",
+"ctx": "Click:()=>{i()},children:"
+},
+{
+"zh": "同时设置",
+"ctx": "l\")):(r(),i())},children:"
+},
+{
+"zh": "设为桌面将关闭桌面防烧屏壁纸轮播",
+"ctx": "x,{visible:o,infoMessage:"
+},
+{
+"zh": "设为屏保",
+"ctx": "IsSpanShow(!1)},children:"
+},
+{
+"zh": "仍要开启",
+"ctx": "kText:o===b_.BeforeCheck?"
+},
+{
+"zh": "编辑屏保文字",
+"ctx": "(c.jsx)(\"span\",{children:"
+},
+{
+"zh": "图片屏保库",
+"ctx": "(c.jsx)(\"span\",{children:"
+},
+{
+"zh": "文字屏保",
+"ctx": "ragment,{})}},x_=[{label:"
+},
+{
+"zh": "图片屏保",
+"ctx": "f\\u4fdd\",value:0},{label:"
+},
+{
+"zh": "永远相信美好的事情即将发生",
+"ctx": ")((()=>n.screenSaverTip||"
+},
+{
+"zh": "选择图片",
+"ctx": "u5c4f\\u4fdd\\u6587\\u5b57\":"
+},
+{
+"zh": "保存",
+"ctx": "ancel:()=>{s(!1)},okText:"
+},
+{
+"zh": "最多输入50个字",
+"ctx": "(!0),Ea.warning({content:"
+},
+{
+"zh": "切换至图片屏保将关闭防烧屏功能",
+"ctx": "x,{visible:m,infoMessage:"
+},
+{
+"zh": "桌面壁纸",
+"ctx": "ntext)(void 0),P_=[{name:"
+},
+{
+"zh": "锁屏壁纸",
+"ctx": "Url:\"desktop.png\"},{name:"
+},
+{
+"zh": "图库",
+"ctx": "me:S_.a.divider,children:"
+},
+{
+"zh": "1分钟",
+"ctx": "Picture;const I_=[{label:"
+},
+{
+"zh": "10分钟",
+"ctx": "alEnum.OneMinute},{label:"
+},
+{
+"zh": "30分钟",
+"ctx": "alEnum.TenMinute},{label:"
+},
+{
+"zh": "1小时",
+"ctx": "valEnum.HalfHour},{label:"
+},
+{
+"zh": "6小时",
+"ctx": "rvalEnum.OneHour},{label:"
+},
+{
+"zh": "1天",
+"ctx": "rvalEnum.SixHour},{label:"
+},
+{
+"zh": "随机播放",
+"ctx": "Enum.OneDay}],F_=[{label:"
+},
+{
+"zh": "顺序播放",
+"ctx": "OrderEnum.Random},{label:"
+},
+{
+"zh": "填充",
+"ctx": "um.Sequence}],R_=[{label:"
+},
+{
+"zh": "适应",
+"ctx": "itModelEnum.Fill},{label:"
+},
+{
+"zh": "拉伸",
+"ctx": "FitModelEnum.Fit},{label:"
+},
+{
+"zh": "平铺",
+"ctx": "odelEnum.Stretch},{label:"
+},
+{
+"zh": "居中",
+"ctx": "itModelEnum.File},{label:"
+},
+{
+"zh": "跨区",
+"ctx": "ModelEnum.Center},{label:"
+},
+{
+"zh": "轮播时间",
+"ctx": ".OneDay}],H_=()=>[{label:"
+},
+{
+"zh": "播放顺序",
+"ctx": "Time\",visible:!0},{label:"
+},
+{
+"zh": "开启屏保",
+"ctx": ".a.subtitle,H_(),[{label:"
+},
+{
+"zh": "关闭防烧屏屏保将缩短屏幕的使用寿命",
+"ctx": "m:b_.Checked,infoMessage:"
+},
+{
+"zh": "屏保设置",
+"ctx": "reenSaverActive\"},{label:"
+},
+{
+"zh": "壁纸设置",
+"ctx": "ateSetting({subPageTitle:"
+},
+{
+"zh": "北京",
+"ctx": "ode:\"101010200\",province:"
+},
+{
+"zh": "小爱同学",
+"ctx": "ptions:[{value:\"0\",label:"
+},
+{
+"zh": "控制中心",
+"ctx": "u5b66\"},{value:\"1\",label:"
+},
+{
+"zh": "其他应用",
+"ctx": "\\u5fc3\"},{value:Tj,label:"
+},
+{
+"zh": "融合设备中心",
+"ctx": "tionKey;const Fj=[{title:"
+},
+{
+"zh": "实现全局设备管理，发起控制与协同",
+"ctx": "\\u5907\\u4e2d\\u5fc3\",desc:"
+},
+{
+"zh": "小米互传",
+"ctx": "fs%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "快速向目标设备传输文件",
+"ctx": "\\u7c73\\u4e92\\u4f20\",desc:"
+},
+{
+"zh": "键鼠共享",
+"ctx": "fs%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "电脑与平板跨系统共享键鼠",
+"ctx": "\\u9f20\\u5171\\u4eab\",desc:"
+},
+{
+"zh": "妙享桌面",
+"ctx": "fs%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "在电脑使用手机桌面与应用",
+"ctx": "\\u4eab\\u684c\\u9762\",desc:"
+},
+{
+"zh": "电视投屏",
+"ctx": "fs%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "将屏幕镜像至电视",
+"ctx": "\\u89c6\\u6295\\u5c4f\",desc:"
+},
+{
+"zh": "网络协同",
+"ctx": "fs%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "一键开启并连接手机热点",
+"ctx": "\\u7edc\\u534f\\u540c\",desc:"
+},
+{
+"zh": "隐藏边栏",
+"ctx": "%3c/svg%3e\"}],Rj=[{label:"
+},
+{
+"zh": "位于平板左侧",
+"ctx": ",value:\"conceal\"},{label:"
+},
+{
+"zh": "位于平板右侧",
+"ctx": "a7\",value:\"left\"},{label:"
+},
+{
+"zh": "本机",
+"ctx": "lue:\"right\"}],Vj=[{label:"
+},
+{
+"zh": "平板",
+"ctx": "value:\"pc_audio\"},{label:"
+},
+{
+"zh": "接收关闭",
+"ctx": "Zj={}));const Uj=[{label:"
+},
+{
+"zh": "开启互传服务，允许设备接收文件",
+"ctx": "\\u95ed\",value:Zj.On,desc:"
+},
+{
+"zh": "仅同账号安卓和苹果设备",
+"ctx": "536\\u6587\\u4ef6\"},{label:"
+},
+{
+"zh": "当前仅接收同账号安卓和苹果设备文件，确认小米设备系统版本为OS1.0及以上，且小米互传版本为3.0.0及以上",
+"ctx": "alue:Zj.SameAccount,desc:"
+},
+{
+"zh": "所有人",
+"ctx": "3ca\\u4ee5\\u4e0a\"},{label:"
+},
+{
+"zh": "当前可接收所有人文件",
+"ctx": "\",value:Zj.Everyone,desc:"
+},
+{
+"zh": "接收文件夹",
+"ctx": "Object(a.useRef)(null),o="
+},
+{
+"zh": "小米互传_小米互传",
+"ctx": ",{status:e}),t(lS(e)),fh("
+},
+{
+"zh": "小米互传_接收文件夹",
+"ctx": "tus&&t(gS(e.path))})),ph("
+},
+{
+"zh": "选择文件夹",
+"ctx": "\\u4ef6\\u5939\")},children:"
+},
+{
+"zh": "与电脑长宽比例保持一致",
+"ctx": "reenRatioOptions:[{label:"
+},
+{
+"zh": "与平板长宽比例保持一致",
+"ctx": "pc_screen_ratio\"},{label:"
+},
+{
+"zh": "平板在电脑左侧",
+"ctx": "rangementOptions:[{label:"
+},
+{
+"zh": "平板在电脑上方",
+"ctx": "a7\",value:\"left\"},{label:"
+},
+{
+"zh": "平板在电脑右侧",
+"ctx": "65b9\",value:\"up\"},{label:"
+},
+{
+"zh": "平板在电脑下方",
+"ctx": "7\",value:\"right\"},{label:"
+},
+{
+"zh": "您还未同意MiService隐私政策，因此无法使用设备互联服务，如需使用，请先同意MiService隐私政策",
+"ctx": "h.OfflineToast)}const gk="
+},
+{
+"zh": "无法检查更新",
+"ctx": "se\"checkUpdate\":i({title:"
+},
+{
+"zh": "去同意",
+"ctx": "67e5\\u66f4\\u65b0\",okText:"
+},
+{
+"zh": "因您未同意MiService隐私政策，无法使用软件升级功能。如需使用，请先同意MiService隐私政策",
+"ctx": "0c\\u610f\",onOK:o,content:"
+},
+{
+"zh": "无法下载",
+"ctx": "nstallMiuiPlus\":i({title:"
+},
+{
+"zh": "无法安装",
+"ctx": "nstallMiuiPlus\":i({title:"
+},
+{
+"zh": "无法更新",
+"ctx": "updateMiuiPlus\":i({title:"
+},
+{
+"zh": "MiService服务异常",
+"ctx": "tallSuggestApp\":i({title:"
+},
+{
+"zh": "MiService服务出现异常，无法下载或更新，请修复",
+"ctx": ",onOK:()=>{Wa()},content:"
+},
+{
+"zh": "MiService服务出现异常，导致无法检查更新，请修复",
+"ctx": ",onOK:()=>{Wa()},content:"
+},
+{
+"zh": "同意MiService隐私政策",
+"ctx": "e\"driverManage\":i({title:"
+},
+{
+"zh": "驱动管理功能需要使用MiService服务，使用前需要先同意MiService隐私政策",
+"ctx": "0c\\u610f\",onOK:o,content:"
+},
+{
+"zh": "进行 bios 更新",
+"ctx": "de:r=!1,remind_content:a="
+},
+{
+"zh": "安装之前，请保存好您当前的所有任务或文件，升级过程将持续数分钟。",
+"ctx": "t(c.jsxs)(\"p\",{children:["
+},
+{
+"zh": "请确保连接电源，且电池电量在",
+"ctx": "\",Object(c.jsx)(\"br\",{}),"
+},
+{
+"zh": "%以上，否则无法继续安装。",
+"ctx": "c60\\u7535\\u91cf\\u5728\",s,"
+},
+{
+"zh": "必须重启电脑才能继续，现在就重启电脑并更新吗？",
+"ctx": "ect(c.jsx)(\"p\",{children:"
+},
+{
+"zh": "必须插入电源适配器才能继续",
+"ctx": "ect(c.jsx)(\"p\",{children:"
+},
+{
+"zh": "性能模式设置失败",
+"ctx": "==mp.Success&&Ea.warning("
+},
+{
+"zh": "连接额定功率电源后开启",
+"ctx": "jsx)(IL,{visible:o,title:"
+},
+{
+"zh": "开启狂暴模式需要连接额定功率电源。",
+"ctx": "ick:()=>{s(!1)},children:"
+},
+{
+"zh": "风险提示",
+"ctx": "jsx)(IL,{visible:l,title:"
+},
+{
+"zh": "开启狂暴模式后您的笔记本可能会发热、风扇噪音增大，确定要开启吗？",
+"ctx": "ick:()=>{u(!1)},children:"
+},
+{
+"zh": "电池电量提醒",
+"ctx": "jsx)(IL,{visible:d,title:"
+},
+{
+"zh": "开启极速模式",
+"ctx": "u63d0\\u9192\",primaryText:"
+},
+{
+"zh": "坚持使用",
+"ctx": "a21\\u5f0f\",secondaryText:"
+},
+{
+"zh": "你的设备电量低于70%，狂暴模式耗电较大，建议切换到极速模式使用！",
+"ctx": "hp.Decepticon)},children:"
+},
+{
+"zh": "你的设备电量低于20%，狂暴模式耗电较大，建议切换到极速模式使用！",
+"ctx": "hp.Decepticon)},children:"
+},
+{
+"zh": "开启省电模式",
+"ctx": "jsx)(IL,{visible:v,title:"
+},
+{
+"zh": "取消(${y}s)",
+"ctx": "f00\\u542f\",secondaryText:"
+},
+{
+"zh": "开启省电模式后，仅支持连接同一WLAN网络的设备使用互联互通功能。小米互传、耳机快连将无法建立新的连接。",
+"ctx": "ick:()=>{g(!1)},children:"
+},
+{
+"zh": "安装中...",
+"ctx": "`),t===fi.Installing&&(a="
+},
+{
+"zh": "下载小米应用商店",
+"ctx": "sxs)(IL,{visible:s,title:"
+},
+{
+"zh": "下载",
+"ctx": "u5546\\u5e97\",primaryText:"
+},
+{
+"zh": "官方、正版、安全的应用下载渠道，拥有海量资源，所有资源都通过机器检测、人工亲测，提供安全可靠的应用、游戏资源下载及管理功能。",
+"ctx": "odal-tip-text\"],children:"
+},
+{
+"zh": "下载完成后自动开始安装",
+"ctx": "arget.checked)},children:"
+},
+{
+"zh": "暂时无法下载应用商店，请稍后重试",
+"ctx": "ick:()=>{d(!1)},children:"
+},
+{
+"zh": "安装小米应用商店",
+"ctx": "jsx)(IL,{visible:f,title:"
+},
+{
+"zh": "安装",
+"ctx": "u5546\\u5e97\",primaryText:"
+},
+{
+"zh": "暂不安装",
+"ctx": "b89\\u88c5\",secondaryText:"
+},
+{
+"zh": "下载完成，是否安装小米应用商店",
+"ctx": "ick:()=>{p(!1)},children:"
+},
+{
+"zh": "管理",
+"ctx": "\"popover-link\"],children:"
+},
+{
+"zh": "退出",
+"ctx": "()=>{x(!1),o()},children:"
+},
+{
+"zh": "小米电脑管家",
+"ctx": "n-area__title\"],children:"
+},
+{
+"zh": "未登录",
+"ctx": ".a.avatar__text,children:"
+},
+{
+"zh": "个)",
+"ctx": "en:[\"\\xa0\\xa0(\",a.length,"
+},
+{
+"zh": "驱动更新重启电脑提示",
+"ctx": "e)))){f(!0);si(!1,{title:"
+},
+{
+"zh": "是否立即重启",
+"ctx": "d0\\u793a\",icon:0,content:"
+},
+{
+"zh": "立即重启",
+"ctx": "\\u542f\",left_btn_content:"
+},
+{
+"zh": "当前版本：",
+"ctx": "iver-version\"],children:["
+},
+{
+"zh": "驱动异常",
+"ctx": "{case\"abnormal\":return l("
+},
+{
+"zh": "驱动被禁用",
+"ctx": ";case\"disabled\":return l("
+},
+{
+"zh": "驱动未安装",
+"ctx": "se\"not_install\":return l("
+},
+{
+"zh": "最新版本：${e.latest_version}",
+"ctx": "n:Object(c.jsx)(aN,{name:"
+},
+{
+"zh": "需重启计算机后生效",
+"ctx": "n-restart-tip\"],children:"
+},
+{
+"zh": "重启安装",
+"ctx": "er-button-tip\"],children:"
+},
+{
+"zh": "驱动下载失败，请检查网络连接后重试",
+"ctx": "ast),Ea.warning({content:"
+},
+{
+"zh": "正在从服务器获取信息",
+"ctx": "scan_type===ei.FetchInfo?"
+},
+{
+"zh": "正在扫描电脑硬件",
+"ctx": "u83b7\\u53d6\\u4fe1\\u606f\":"
+},
+{
+"zh": "扫描即将开始",
+"ctx": ";return e=0===t.progress?"
+},
+{
+"zh": "扫描即将完成",
+"ctx": "0\\u59cb\":t.progress>=100?"
+},
+{
+"zh": "正在扫描 ${t.driver_name}",
+"ctx": "u5373\\u5c06\\u5b8c\\u6210\":"
+},
+{
+"zh": "开始扫描",
+"ctx": "xs)(\"span\",{children:[n||"
+},
+{
+"zh": "，请稍候...",
+"ctx": "u5f00\\u59cb\\u626b\\u63cf\","
+},
+{
+"zh": "检测中，请稍候",
+"ctx": "ect(c.jsx)(ox,{mainTitle:"
+},
+{
+"zh": "优化中，请保持计算机正常运行",
+"ctx": "howProgress:!1,mainTitle:"
+},
+{
+"zh": "一键优化",
+"ctx": " t=(()=>{let e=ti.Warn,t="
+},
+{
+"zh": "共计${u.length}个问题需要优化，建议立即优化，否则系统可能出现未知问题",
+"ctx": ".RepairSelectedDrivers,r="
+},
+{
+"zh": "从服务器获取信息失败,请确保网络连接正常后重试",
+"ctx": "u95ee\\u9898`;return i?(r="
+},
+{
+"zh": "重新检测",
+"ctx": "e38\\u540e\\u91cd\\u8bd5\",t="
+},
+{
+"zh": "好的",
+"ctx": "vers):s&&(e=ti.Success,t="
+},
+{
+"zh": "${d.length}个驱动程序均正常，驱动状态良好，请继续保持！",
+"ctx": "84\",n=H.OpenDriverPage,r="
+},
+{
+"zh": "驱动检测完成",
+"ctx": "fdd\\u6301\\uff01`),{title:"
+},
+{
+"zh": "从服务器获取信息失败",
+"ctx": "[\"title-error\"],children:"
+},
+{
+"zh": "个驱动程序均正常",
+"ctx": "ss\"],children:d.length}),"
+},
+{
+"zh": "共计",
+"ctx": ".jsxs)(\"span\",{children:["
+},
+{
+"zh": "个问题需要优化",
+"ctx": "or\"],children:u.length}),"
+},
+{
+"zh": "请确保网络连接正常后重试",
+"ctx": "=>{let e=\"\";return i&&(e="
+},
+{
+"zh": "驱动状态良好，请继续保持！",
+"ctx": "540e\\u91cd\\u8bd5\"),s&&(e="
+},
+{
+"zh": "建议立即优化，否则系统可能出现未知问题",
+"ctx": "f01\"),u.length>0&&!i&&(e="
+},
+{
+"zh": "完成",
+"ctx": "imizationRoot)},children:"
+},
+{
+"zh": "立即安装",
+"ctx": "t t=ti.Success;let r,a,i="
+},
+{
+"zh": "即将安装BIOS驱动",
+"ctx": "allBios,s=\"\";return n?(e="
+},
+{
+"zh": "${p}个驱动优化完成，即将安装BIOS驱动...",
+"ctx": "8c5BIOS\\u9a71\\u52a8\",s=p?"
+},
+{
+"zh": "下载完成，即将安装BIOS驱动",
+"ctx": "88c5BIOS\\u9a71\\u52a8...`:"
+},
+{
+"zh": "${p}个驱动优化完成，${d}个成功，${f}个失败",
+"ctx": "IOS\\u9a71\\u52a8\"):(s=f>0?"
+},
+{
+"zh": "${p}个驱动优化完成",
+"ctx": "c${f}\\u4e2a\\u5931\\u8d25`:"
+},
+{
+"zh": "驱动优化完成",
+"ctx": "f18\\u5316\\u5b8c\\u6210`,e="
+},
+{
+"zh": "查看详情",
+"ctx": "f18\\u5316\\u5b8c\\u6210\",i="
+},
+{
+"zh": "忽略",
+"ctx": "c5\",o=H.OpenDriverPage,r="
+},
+{
+"zh": "个驱动优化完成，即将安装BIOS驱动...",
+"ctx": "[\"bios-tip\"],children:[p,"
+},
+{
+"zh": "个驱动优化完成",
+"ctx": "jsxs)(\"div\",{children:[p,"
+},
+{
+"zh": "个成功，",
+"ctx": "e-success\"],children:d}),"
+},
+{
+"zh": "个失败",
+"ctx": "tle-error\"],children:f}),"
+},
+{
+"zh": "重新安装",
+"ctx": "iconName:\"refresh\",title:"
+},
+{
+"zh": "提交反馈",
+"ctx": "Name:\"to_feedback\",title:"
+},
+{
+"zh": "搜索问题",
+"ctx": "{iconName:\"search\",title:"
+},
+{
+"zh": "驱动优化失败，您可以尝试以下操作：",
+"ctx": "Name:$T.a.title,children:"
+},
+{
+"zh": "驱动优化中，请稍候",
+"ctx": "t)return void Ea.warning("
+},
+{
+"zh": "驱动大小：",
+"ctx": "Name:XT.a.title,children:"
+},
+{
+"zh": "更新说明：",
+"ctx": "Name:XT.a.title,children:"
+},
+{
+"zh": "注意：",
+"ctx": "Name:XT.a.title,children:"
+},
+{
+"zh": "BIOS安装前请连接充电器，升级需重启并持续数分钟，请确保电池电量在",
+"ctx": "e:XT.a.content,children:["
+},
+{
+"zh": "%以上且中途勿断电！",
+"ctx": "ull!==u&&void 0!==u?u:20,"
+},
+{
+"zh": "设备名称：",
+"ctx": "Name:XT.a.title,children:"
+},
+{
+"zh": "驱动版本：",
+"ctx": "Name:XT.a.title,children:"
+},
+{
+"zh": "发布日期：",
+"ctx": "Name:XT.a.title,children:"
+},
+{
+"zh": "硬件ID：",
+"ctx": "Name:XT.a.title,children:"
+},
+{
+"zh": "更多",
+"ctx": "e]=!0,n(r)}(r)},children:"
+},
+{
+"zh": "网络异常，",
+"ctx": "a[\"scan-info\"],children:["
+},
+{
+"zh": "点击重试",
+"ctx": "an\"],onClick:ST,children:"
+},
+{
+"zh": "驱动管理",
+"ctx": "(69),xN=n.n(wN);const ON="
+},
+{
+"zh": "驱动官网",
+"ctx": "iver,!n&&xN.a.disable),d="
+},
+{
+"zh": "上次检测：",
+"ctx": "a[\"last-time\"],children:["
+},
+{
+"zh": "未检测过",
+"ctx": "jsx)(\"span\",{children:r||"
+},
+{
+"zh": "请输入您遇到问题的关键词",
+"ctx": "a.focus]:l}),placeholder:"
+},
+{
+"zh": "当前文件 ${n} 大小为0",
+"ctx": "e<=mA||(t&&0===e?Ea.info("
+},
+{
+"zh": "当前文件 ${n} 太大，只支持 100MB 以下的文件",
+"ctx": "4e3a0`):t&&e>mA&&Ea.info("
+},
+{
+"zh": "您还未登录，无法上传文件",
+"ctx": "ft\",title:0===i.is_login?"
+},
+{
+"zh": "网络错误，上传图片失败",
+"ctx": "n 0===a.result&&Ea.error("
+},
+{
+"zh": "上传图片失败",
+"ctx": "oadUrl}catch(a){Ea.error("
+},
+{
+"zh": "一次最多上传三个文件",
+"ctx": "h>3)return void Ea.error("
+},
+{
+"zh": "不支持您上传的文件格式",
+"ctx": "o.indexOf(s)<0?(Ea.error("
+},
+{
+"zh": "${t}复制",
+"ctx": "ick\",{click_element_type:"
+},
+{
+"zh": "省份/地区",
+"ctx": "[\"margin-span\"],children:"
+},
+{
+"zh": "市/区",
+"ctx": "{marginRight:0},children:"
+},
+{
+"zh": "静音",
+"ctx": "svg%3e\";const TA=[{title:"
+},
+{
+"zh": "打开/关闭投屏",
+"ctx": "'/%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "大小写切换",
+"ctx": "'/%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "音量减",
+"ctx": "'/%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "打开截图工具",
+"ctx": "'/%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "启动小爱",
+"ctx": ",jh.M54,jh.M54S]},{title:"
+},
+{
+"zh": "切换性能模式",
+"ctx": ",jh.M54,jh.M54S]},{title:"
+},
+{
+"zh": "音量加",
+"ctx": "'/%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "打开/关闭任务窗",
+"ctx": "'/%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "锁定/解锁Fn",
+"ctx": "'/%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "亮度减",
+"ctx": "'/%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "启动设置",
+"ctx": "'/%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "切换刷新率",
+"ctx": "'/%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "启动控制中心",
+"ctx": ",jh.M54,jh.M54S]},{title:"
+},
+{
+"zh": "亮度加",
+"ctx": ",jh.M54,jh.M54S]},{title:"
+},
+{
+"zh": "键盘灯亮度调节",
+"ctx": "'/%3e%3c/svg%3e\"},{title:"
+},
+{
+"zh": "启动游戏智控中心",
+"ctx": ",jh.M54,jh.M54S]},{title:"
+},
+{
+"zh": "抱歉，检测到本机热键服务被禁用！",
+"ctx": "ed?Object(c.jsx)(WN,{msg:"
+},
+{
+"zh": "点击修复",
+"ctx": "onClick:()=>r(),children:"
+},
+{
+"zh": "快捷键指南",
+"ctx": "sd-list-title\"],children:"
+},
+{
+"zh": "不同机型的按键与功能有一定区别，该指南仅供参考，请以本机实际操作为准；",
+"ctx": "t(c.jsx)(\"div\",{children:"
+},
+{
+"zh": "卸载小米电脑管家后，部分快捷键功能将无法正常使用。",
+"ctx": "t(c.jsx)(\"div\",{children:"
+},
+{
+"zh": "AI屏幕亮度调节",
+"ctx": "&Object(c.jsx)(ex,{title:"
+},
+{
+"zh": "根据屏幕显示内容，使用AI模型智能调节亮度",
+"ctx": "\\u5ea6\\u8c03\\u8282\",desc:"
+},
+{
+"zh": "护眼模式",
+"ctx": "}})})})},IA=()=>{const e="
+},
+{
+"zh": "色彩风格",
+"ctx": "2a4\\u773c\\u6a21\\u5f0f\",t="
+},
+{
+"zh": "HDR模式下，暂时无法进行护眼模式的设定。",
+"ctx": ",Object(c.jsx)(Wm,{title:"
+},
+{
+"zh": "启用软件护眼模式，屏幕偏暖，可以减少蓝光对眼睛的伤害 ",
+"ctx": "(c.jsx)(ex,{title:e,desc:"
+},
+{
+"zh": "(本机已支持硬件低蓝光)",
+"ctx": "(i.isHardwareSupportAnti?"
+},
+{
+"zh": "启用了全局护眼模式或HDR设置，暂时无法进行色彩风格的设定。",
+"ctx": "?Object(c.jsx)(Wm,{title:"
+},
+{
+"zh": "没有找到配置文件，该模式暂不可用。",
+"ctx": "=>({...e,disabledItemTip:"
+},
+{
+"zh": "更多显示设置项",
+"ctx": ",Object(c.jsx)(ex,{title:"
+},
+{
+"zh": "缩放大小、分辨率、自动调整亮度、HDR设置等",
+"ctx": "\\u8bbe\\u7f6e\\u9879\",desc:"
+},
+{
+"zh": "专业原色（推荐）",
+"ctx": ".includes(t),a=[{label:r?"
+},
+{
+"zh": "原色",
+"ctx": "uff08\\u63a8\\u8350\\uff09\":"
+},
+{
+"zh": "sRGB色域",
+"ctx": "=K.Srgb&&a.push({label:r?"
+},
+{
+"zh": "P3色域",
+"ctx": ",n===K.P3&&a.push({label:"
+},
+{
+"zh": "${t}%（推荐）",
+"ctx": "{label:t===e.recommended?"
+},
+{
+"zh": "（推荐）",
+"ctx": "el:`${n} ${t.recommended?"
+},
+{
+"zh": "色温调节",
+"ctx": "CL);const xL=e=>{const t="
+},
+{
+"zh": "色相",
+"ctx": "[\"slider-text\"],children:"
+},
+{
+"zh": "透明度",
+"ctx": "[\"slider-text\"],children:"
+},
+{
+"zh": "核心数：",
+"ctx": "c.jsxs)(\"div\",{children:["
+},
+{
+"zh": "线程数：",
+"ctx": "c.jsxs)(\"div\",{children:["
+},
+{
+"zh": "基准频率：",
+"ctx": "c.jsxs)(\"div\",{children:["
+},
+{
+"zh": "三级缓存：",
+"ctx": "c.jsxs)(\"div\",{children:["
+},
+{
+"zh": "主板",
+"ctx": "me:\"baseboard\",mainTitle:"
+},
+{
+"zh": "序列号：",
+"ctx": "c.jsxs)(\"div\",{children:["
+},
+{
+"zh": "BIOS版本：",
+"ctx": "c.jsxs)(\"div\",{children:["
+},
+{
+"zh": "BIOS日期：",
+"ctx": "c.jsxs)(\"div\",{children:["
+},
+{
+"zh": "显卡",
+"ctx": "ame:\"graphics\",mainTitle:"
+},
+{
+"zh": "型号：",
+"ctx": "c.jsxs)(\"div\",{children:["
+},
+{
+"zh": "厂商：",
+"ctx": "c.jsxs)(\"div\",{children:["
+},
+{
+"zh": "内存",
+"ctx": "iconName:\"ram\",mainTitle:"
+},
+{
+"zh": "硬盘",
+"ctx": "conName:\"disk\",mainTitle:"
+},
+{
+"zh": "通道：",
+"ctx": "c.jsxs)(\"div\",{children:["
+},
+{
+"zh": "显示器",
+"ctx": "Name:\"display\",mainTitle:"
+},
+{
+"zh": "${p.screen_size_inch}英寸 ${p.width} \\xd7 ${p.height}",
+"ctx": "3e\\u793a\\u5668\",mainInfo:"
+},
+{
+"zh": "尺寸：",
+"ctx": "c.jsxs)(\"div\",{children:["
+},
+{
+"zh": "${p.screen_size_inch}英寸",
+"ctx": "en:[\"\\u5c3a\\u5bf8\\uff1a\","
+},
+{
+"zh": "比例：",
+"ctx": "c.jsxs)(\"div\",{children:["
+},
+{
+"zh": "最大分辨率：",
+"ctx": "c.jsxs)(\"div\",{children:["
+},
+{
+"zh": "网卡",
+"ctx": "Name:\"network\",mainTitle:"
+},
+{
+"zh": "名称：",
+"ctx": "c.jsxs)(\"div\",{children:["
+},
+{
+"zh": "类型：Wi-Fi 6",
+"ctx": "t(c.jsx)(\"div\",{children:"
+},
+{
+"zh": "舍弃反馈",
+"ctx": "jsx)(IL,{visible:e,title:"
+},
+{
+"zh": "确认",
+"ctx": "u53d6\\u6d88\",primaryText:"
+},
+{
+"zh": "您已编辑过用户反馈，点确认将舍弃本条反馈",
+"ctx": ":\"\\u786e\\u8ba4\",children:"
+},
+{
+"zh": "服务异常",
+"ctx": "jsx)(IL,{visible:n,title:"
+},
+{
+"zh": "本次忽略",
+"ctx": "fee\\u590d\",secondaryText:"
+},
+{
+"zh": "升级、账号登录等服务暂不可用，请尽快修复",
+"ctx": "(c.jsx)(\"span\",{children:"
+},
+{
+"zh": "查看隐私政策",
+"ctx": "&f(Cj(mj.Init)),y()})),b="
+},
+{
+"zh": "开源协议",
+"ctx": "690\\u79c1\\u653f\\u7b56\",C="
+},
+{
+"zh": "软件许可及服务协议",
+"ctx": "f00\\u6e90\\u534f\\u8bae\",w="
+},
+{
+"zh": "当前版本检查更新",
+"ctx": "L.a.btn),onClick:()=>{yh("
+},
+{
+"zh": "检查更新",
+"ctx": "b0\"),g(),d(!1)},children:"
+},
+{
+"zh": "检查更新中...",
+"ctx": "(c.jsx)(\"span\",{children:"
+},
+{
+"zh": "已是最新版本",
+"ctx": "(c.jsx)(\"span\",{children:"
+},
+{
+"zh": "正在更新",
+"ctx": "(c.jsx)(\"span\",{children:"
+},
+{
+"zh": "已同意",
+"ctx": "p_privacy\")},children:[t?"
+},
+{
+"zh": "未同意",
+"ctx": ":[t?\"\\u5df2\\u540c\\u610f\":"
+},
+{
+"zh": "小米科技有限责任公司版权所有",
+"ctx": "greement-wrap\"],children:"
+},
+{
+"zh": "关闭窗口后双击托盘图标打开",
+"ctx": "9A,jh.M59].includes(t),C="
+},
+{
+"zh": "场景智能省电",
+"ctx": "6fe\\u6807\\u6253\\u5f00\",w="
+},
+{
+"zh": "退出时提醒",
+"ctx": "67a\\u80fd\\u7701\\u7535\",x="
+},
+{
+"zh": "性能模式",
+"ctx": "[Object(c.jsx)(bx,{title:"
+},
+{
+"zh": "根据使用情况切换性能模式，支持通过快捷键 Fn+K 快速切换静谧模式、均衡模式、极速模式",
+"ctx": "\\u80fd\\u6a21\\u5f0f\",desc:"
+},
+{
+"zh": "(狂暴模式仅在连接电源时支持开启)",
+"ctx": "u901f\\u6a21\\u5f0f\"+(y?\"\":"
+},
+{
+"zh": "支持在系统电源模式为平衡和最佳能效模式，且未连接外接电源时开启，开启后智能识别使用场景和调度算力资源以降低功耗",
+"ctx": "(c.jsx)(ex,{title:w,desc:"
+},
+{
+"zh": "自定义按键",
+"ctx": ",Object(c.jsx)(bx,{title:"
+},
+{
+"zh": "根据习惯自定义按键，定制成功后可一键启动",
+"ctx": "\\u4e49\\u6309\\u952e\",desc:"
+},
+{
+"zh": "重要提示",
+"ctx": ",{visible:e&&0===p,title:"
+},
+{
+"zh": "更新BIOS需要重启电脑",
+"ctx": ",{visible:e&&2===p,title:"
+},
+{
+"zh": "重启更新",
+"ctx": "u7535\\u8111\",primaryText:"
+},
+{
+"zh": "硬件信息",
+"ctx": "bject(a.useState)([{name:"
+},
+{
+"zh": "软件信息",
+"ctx": "ect(c.jsx)(PL,{})},{name:"
+},
+{
+"zh": "操作系统",
+"ctx": "emo)((()=>{let t=[{title:"
+},
+{
+"zh": "系统类型",
+"ctx": "software-os-11\"]},{title:"
+},
+{
+"zh": "版本号",
+"ctx": "are-system_type\"},{title:"
+},
+{
+"zh": "安装日期",
+"ctx": "oftware-version\"},{title:"
+},
+{
+"zh": "内部版本",
+"ctx": "re-install_date\"},{title:"
+},
+{
+"zh": "电脑名称",
+"ctx": "nternal_version\"},{title:"
+},
+{
+"zh": "激活状态",
+"ctx": "ename\",rename:!0},{title:"
+},
+{
+"zh": "已激活",
+"ctx": "rmat(\"YYYY/MM/DD\"),i,r,n?"
+},
+{
+"zh": "未激活",
+"ctx": "r,n?\"\\u5df2\\u6fc0\\u6d3b\":"
+},
+{
+"zh": "重命名",
+"ctx": "Click:()=>{r()},children:"
+},
+{
+"zh": "正在检测， 请稍候",
+"ctx": "(c.jsx)(\"span\",{children:"
+},
+{
+"zh": "正在检测",
+"ctx": "ect(c.jsx)(ox,{mainTitle:"
+},
+{
+"zh": "已完成${e}个启动项优化",
+"ctx": "timizedBtn:t})=>{const n="
+},
+{
+"zh": "检测到${e}个开机启动项，${t}个建议优化",
+"ctx": "t?\"#FF7433\":\"\"},children:"
+},
+{
+"zh": "优化后可提升开机速度、系统运行速度",
+"ctx": "t,mainTitle:i,subTipInfo:"
+},
+{
+"zh": "检测完成，无异常启动项",
+"ctx": "jsx)(fx,{ok:!0,mainTitle:"
+},
+{
+"zh": "无异常启动项，请继续保持",
+"ctx": "\\u52a8\\u9879\",subTipInfo:"
+},
+{
+"zh": "\\n          一键优化失败，${r.length}项启动项优化失败，请稍后重试",
+"ctx": "t(e),r.length?Ea.warning("
+},
+{
+"zh": "启动项状态修改失败，请稍后重试",
+"ctx": "!0),n(e,t)}catch{Ea.warn("
+},
+{
+"zh": "建议保持",
+"ctx": "stStart].includes(s)?e=o?"
+},
+{
+"zh": "建议启用",
+"ctx": "u5efa\\u8bae\\u4fdd\\u6301\":"
+},
+{
+"zh": "建议禁用",
+"ctx": "RecommendForbidden&&(e=o?"
+},
+{
+"zh": "确定要关闭该启动项吗",
+"ctx": "&Object(c.jsx)(IL,{title:"
+},
+{
+"zh": "${ci[t]}（${e.length}项）",
+"ctx": "Name:FI.a.title,children:"
+},
+{
+"zh": "正在扫描",
+"ctx": "ect(c.jsx)(ox,{mainTitle:"
+},
+{
+"zh": "正在扫描 ${n.file_path}",
+"ctx": "\\u626b\\u63cf\",subTipInfo:"
+},
+{
+"zh": "正在扫描${n.scan_type||\"\"}",
+"ctx": "l:Object(c.jsx)(ZI,{desc:"
+},
+{
+"zh": "共",
+"ctx": ".jsxs)(\"span\",{children:["
+},
+{
+"zh": "，已选中",
+"ctx": "en:[\"\\u5171\",` ${Ra(m)}`,"
+},
+{
+"zh": "暂无缓存，无需清理",
+"ctx": "sc,children:i?Ra(e.size):"
+},
+{
+"zh": "请在下方选择清理项",
+"ctx": "owPointAtCenter:!0,title:"
+},
+{
+"zh": "清理选中文件",
+"ctx": "ssName:aF.a.btn,children:"
+},
+{
+"zh": "共 ${Ra(t)}，已选择 ${Ra(n)} 垃圾文件",
+"ctx": "olor:\"#FF7433\"},children:"
+},
+{
+"zh": "扫描完成，未检测到垃圾文件",
+"ctx": "783\\u573e\\u6587\\u4ef6`}):"
+},
+{
+"zh": "清理缓存文件不会影响您的正常使用",
+"ctx": "ject(a.useMemo)((()=>e?o?"
+},
+{
+"zh": "无垃圾文件，请继续保持",
+"ctx": "u6b63\\u5e38\\u4f7f\\u7528\":"
+},
+{
+"zh": "重新扫描",
+"ctx": "btn\"],onClick:i,children:"
+},
+{
+"zh": "停止",
+"ctx": "btn\"],onClick:e,children:"
+},
+{
+"zh": "清理中，请稍候...",
+"ctx": "ect(c.jsx)(ox,{mainTitle:"
+},
+{
+"zh": "正在清理 ",
+"ctx": "a0d\\u5019...\",subTipInfo:"
+},
+{
+"zh": "清理完成，已释放",
+"ctx": ".jsxs)(\"span\",{children:["
+},
+{
+"zh": "空间",
+"ctx": ",children:` ${Ra(t)} `}),"
+},
+{
+"zh": "录制",
+"ctx": "FF(),i=(r?\"\\u66f4\\u65b0\":"
+},
+{
+"zh": "声纹信息",
+"ctx": "4\\u65b0\":\"\\u5f55\\u5236\")+"
+},
+{
+"zh": "智能跟踪降噪",
+"ctx": "&Object(c.jsx)(ex,{title:"
+},
+{
+"zh": "录制声纹后，跟踪拾取录制人的声音，对方听的更清楚",
+"ctx": "\\u8e2a\\u964d\\u566a\",desc:"
+},
+{
+"zh": "详细参数信息",
+"ctx": "Object(a.useRef)(null),f="
+},
+{
+"zh": "操作系统：",
+"ctx": "?Object(c.jsx)(CA,{title:"
+},
+{
+"zh": "显示器：",
+"ctx": "?Object(c.jsx)(CA,{title:"
+},
+{
+"zh": "${r.screen_size_inch}英寸 ${r.width} \\xd7 ${r.height}",
+"ctx": "\\u793a\\u5668\\uff1a\",info:"
+},
+{
+"zh": "处理器：",
+"ctx": "?Object(c.jsx)(CA,{title:"
+},
+{
+"zh": "显卡：",
+"ctx": "?Object(c.jsx)(CA,{title:"
+},
+{
+"zh": "内存：",
+"ctx": "?Object(c.jsx)(CA,{title:"
+},
+{
+"zh": "硬盘：",
+"ctx": "?Object(c.jsx)(CA,{title:"
+},
+{
+"zh": "C:\\\\Users\\\\（默认）",
+"ctx": ".IndexPath.Default,label:"
+},
+{
+"zh": "内置硬盘",
+"ctx": "IndexPath.HardDisk,label:"
+},
+{
+"zh": "自定义路径",
+"ctx": "t(c.jsx)(\"div\",{children:"
+},
+{
+"zh": "空闲时建立索引（默认）",
+"ctx": ":Object(c.jsx)(pR,{title:"
+},
+{
+"zh": "优先保证前台应用的运行，仅在系统空闲时建立索引",
+"ctx": "u8ba4\\uff09\",description:"
+},
+{
+"zh": "文件更新，立即建立索引",
+"ctx": ":Object(c.jsx)(pR,{title:"
+},
+{
+"zh": "可以更快地搜索到最近更新，但会消耗一定的系统资源",
+"ctx": "u7d22\\u5f15\",description:"
+},
+{
+"zh": "AI文件搜索",
+"ctx": "[Object(c.jsx)(ex,{title:"
+},
+{
+"zh": "通过本地模型对文件内容建立索引，索引建立后可通过文件内容进行搜索",
+"ctx": "\\u4ef6\\u641c\\u7d22\",desc:"
+},
+{
+"zh": "索引路径",
+"ctx": ":Object(c.jsx)(bx,{title:"
+},
+{
+"zh": "当前索引路径不可用，请重新设置",
+"ctx": "5f15\\u8def\\u5f84\",desc:m?"
+},
+{
+"zh": "对设定路径下的文件建立索引",
+"ctx": "u91cd\\u65b0\\u8bbe\\u7f6e\":"
+},
+{
+"zh": "建立索引时机",
+"ctx": ",Object(c.jsx)(bx,{title:"
+},
+{
+"zh": "打开搜索",
+"ctx": ",Object(c.jsx)(Sx,{title:"
+},
+{
+"zh": "暂不支持检索该盘符内容",
+"ctx": "jsx)(IL,{visible:d,title:"
+},
+{
+"zh": "暂不支持检索该盘符内容，请重新选择索引路径。",
+"ctx": "Click:()=>f(!1),children:"
+},
+{
+"zh": "立即建立索引",
+"ctx": "jsx)(IL,{visible:p,title:"
+},
+{
+"zh": "确认开启",
+"ctx": "u7d22\\u5f15\",primaryText:"
+},
+{
+"zh": "此模式下，将持续进行内容分析，可能导致设备发热和电量消耗加快（属正常现象）。建议连接电源后启用该功能。",
+"ctx": "ick:()=>{h(!1)},children:"
+},
+{
+"zh": "更多功能",
+"ctx": "c.jsx)(RF,{})})}const yR="
+},
+{
+"zh": "应用接力",
+"ctx": "Connect.moreFeatures)),i="
+},
+{
+"zh": "跨设备低电量通知",
+"ctx": "e94\\u7528\\u63a5\\u529b\",o="
+},
+{
+"zh": "耳机快连",
+"ctx": "535\\u91cf\\u901a\\u77e5\",s="
+},
+{
+"zh": "自动连接汽车网络",
+"ctx": "033\\u673a\\u5feb\\u8fde\",l="
+},
+{
+"zh": "在一台设备上使用应用，在另一台设备上继续使用",
+"ctx": "(c.jsx)(ex,{title:i,desc:"
+},
+{
+"zh": "更多功能_应用接力",
+"ctx": "Q.On:Q.Off}),e(yS(n)),fh("
+},
+{
+"zh": "在本机展示来自附近其他同账号手机的通知",
+"ctx": "(c.jsx)(ex,{title:o,desc:"
+},
+{
+"zh": "更多功能_跨设备低电量通知",
+"ctx": "Q.On:Q.Off}),e(bS(t)),fh("
+},
+{
+"zh": "快速连接支持快连协议的耳机",
+"ctx": "(c.jsx)(ex,{title:s,desc:"
+},
+{
+"zh": "更多功能_耳机快连",
+"ctx": "Q.On:Q.Off}),e(xS(t)),fh("
+},
+{
+"zh": "附近有同账号汽车时，自动开启并连接汽车热点",
+"ctx": "(c.jsx)(ex,{title:l,desc:"
+},
+{
+"zh": "更多功能_自动连接汽车网络",
+"ctx": "Q.On:Q.Off}),e(OS(t)),fh("
+},
+{
+"zh": "屏幕扩展",
+"ctx": "109),wR=n.n(CR);const xR="
+},
+{
+"zh": "平板边栏位置",
+"ctx": "Connect.screenExpand)),i="
+},
+{
+"zh": "屏幕排列",
+"ctx": "fb9\\u680f\\u4f4d\\u7f6e\",o="
+},
+{
+"zh": "音频设置",
+"ctx": "c4f\\u5e55\\u6392\\u5217\",s="
+},
+{
+"zh": "屏幕扩展_平板边栏位置",
+"ctx": "tion:e})}(t),e(sS(t)),lh("
+},
+{
+"zh": "选择本机屏幕与扩展屏的排列关系",
+"ctx": "form-row-desc\"],children:"
+},
+{
+"zh": "屏幕扩展_屏幕排列",
+"ctx": "een_arrangement_btn\"),ph("
+},
+{
+"zh": "重新排列屏幕",
+"ctx": "(c.jsx)(\"span\",{children:"
+},
+{
+"zh": "镜像到平板时，选择本机或平板作为音频输出设备",
+"ctx": "o-setting\"],title:s,desc:"
+},
+{
+"zh": "屏幕扩展_音频设置",
+"ctx": "\",{audio:t}),e(cS(t)),lh("
+},
+{
+"zh": "屏幕镜像",
+"ctx": "210),jR=n.n(_R);const SR="
+},
+{
+"zh": "屏幕比例",
+"ctx": "fb9\\u680f\\u4f4d\\u7f6e\",l="
+},
+{
+"zh": "屏幕镜像_平板边栏位置",
+"ctx": "position:t}),e(aS(t)),lh("
+},
+{
+"zh": "镜像时本机与平板的屏幕比例",
+"ctx": "een-ratio\"],title:l,desc:"
+},
+{
+"zh": "屏幕镜像_屏幕比例",
+"ctx": "\",{ratio:t}),e(iS(t)),lh("
+},
+{
+"zh": "屏幕镜像_音频设置",
+"ctx": "\",{audio:t}),e(oS(t)),lh("
+},
+{
+"zh": "跨设备剪贴板",
+"ctx": "crossDeviceClipboard)),a="
+},
+{
+"zh": "显示托盘图标",
+"ctx": "907\\u526a\\u8d34\\u677f\",i="
+},
+{
+"zh": "恢复默认",
+"ctx": "258\\u76d8\\u56fe\\u6807\",o="
+},
+{
+"zh": "在一台设备上复制图片文字，在另一台设备上粘贴",
+"ctx": "(c.jsx)(ex,{title:a,desc:"
+},
+{
+"zh": "${IR}_跨设备剪贴板",
+"ctx": "Q.On:Q.Off}),e(CS(n)),fh("
+},
+{
+"zh": "${IR}_显示托盘图标",
+"ctx": "Q.On:Q.Off}),e(wS(t)),fh("
+},
+{
+"zh": "打开剪贴板",
+"ctx": ",Object(c.jsx)(Sx,{title:"
+},
+{
+"zh": "${IR}_打开剪贴板",
+"ctx": "Post:Wp,onSuccess:e=>{hh("
+},
+{
+"zh": "${IR}_恢复默认",
+"ctx": "fault_value\"),e(Xj()),ph("
+},
+{
+"zh": "妙享桌面 - 快捷键设置",
+"ctx": "\",{children:o})})]})},LR="
+},
+{
+"zh": "返回上一级",
+"ctx": "[Object(c.jsx)(Sx,{title:"
+},
+{
+"zh": "妙享桌面 - 快捷键设置_返回上一级",
+"ctx": "Post:Bp,onSuccess:e=>{hh("
+},
+{
+"zh": "回到桌面",
+"ctx": ",Object(c.jsx)(Sx,{title:"
+},
+{
+"zh": "妙享桌面 - 快捷键设置_回到桌面",
+"ctx": "Post:Zp,onSuccess:e=>{hh("
+},
+{
+"zh": "切换到最近任务",
+"ctx": ",Object(c.jsx)(Sx,{title:"
+},
+{
+"zh": "妙享桌面 - 快捷键设置_切换到最近任务",
+"ctx": "Post:Yp,onSuccess:e=>{hh("
+},
+{
+"zh": "妙享桌面 - 快捷键设置_恢复默认",
+"ctx": "fault_value\"),t(Kj()),ph("
+},
+{
+"zh": "屏幕边缘快捷连接",
+"ctx": "c4f\\u5e55\\u6392\\u5217\",p="
+},
+{
+"zh": "任务栏展示妙享桌面入口",
+"ctx": "999\\u4eab\\u684c\\u9762\",m="
+},
+{
+"zh": "自动隐藏标题栏和虚拟导航键",
+"ctx": "84c\\u9762\\u5165\\u53e3\",v="
+},
+{
+"zh": "互联方式",
+"ctx": "2df\\u5bfc\\u822a\\u952e\",g="
+},
+{
+"zh": "优先局域网互联",
+"ctx": "e92\\u8054\\u65b9\\u5f0f\",y="
+},
+{
+"zh": "互联设备处于同一网络时，优先通过局域网的方式互联",
+"ctx": "(c.jsx)(ex,{title:y,desc:"
+},
+{
+"zh": "互联方式_优先局域网互联",
+"ctx": ":e?1:0})}(t),e(_S(t)),fh("
+},
+{
+"zh": "允许通过鼠标指针在屏幕边缘停留并拖动到附近的平板",
+"ctx": "(c.jsx)(ex,{title:p,desc:"
+},
+{
+"zh": "键鼠共享_屏幕边缘快捷连接",
+"ctx": "Q.On:Q.Off}),e(dS(n)),fh("
+},
+{
+"zh": "键鼠共享_屏幕排列",
+"ctx": ",{option:t}),e(fS(t)),lh("
+},
+{
+"zh": "同账号手机在附近时，电脑任务栏展示妙享桌面入口",
+"ctx": "(c.jsx)(ex,{title:m,desc:"
+},
+{
+"zh": "妙享桌面_任务栏展示妙享桌面入口",
+"ctx": ":e?1:0})}(t),e(uS(t)),fh("
+},
+{
+"zh": "鼠标指针在窗口边缘停留，自动出现标题栏和虚拟导航键",
+"ctx": "(c.jsx)(ex,{title:v,desc:"
+},
+{
+"zh": "妙享桌面_自动隐藏标题栏和虚拟导航键",
+"ctx": ":e?1:0})}(t),e(jS(t)),fh("
+},
+{
+"zh": "快捷键设置说明",
+"ctx": ",Object(c.jsx)(IL,{title:"
+},
+{
+"zh": "1. 允许设置鼠标中键、右键以及其他拓展键作为快捷键 ",
+"ctx": "(c.jsx)(\"span\",{children:"
+},
+{
+"zh": "2. 允许使用Ctrl、Shift、Alt与其他一个键组合作为快捷键，可选范围如下图",
+"ctx": "(c.jsx)(\"span\",{children:"
+},
+{
+"zh": "背景模糊",
+"ctx": "=>({[X.AutoFrame]:[{name:"
+},
+{
+"zh": "背景隐藏",
+"ctx": "backgroundBlurred},{name:"
+},
+{
+"zh": "智能人脸取景",
+"ctx": "ackgroundConceal]:[{name:"
+},
+{
+"zh": "眼神接触",
+"ctx": "backgroundBlurred},{name:"
+},
+{
+"zh": "美颜",
+"ctx": "}],[X.EyeContact]:[{name:"
+},
+{
+"zh": "该功能与\"${t[r].name}\"互斥，无法同时开启",
+"ctx": "gth;r++)if(t[r].value){x("
+},
+{
+"zh": "曝光补偿",
+"ctx": "Blurred})}},{switchTitle:"
+},
+{
+"zh": "开启后，将根据面部区域取景，显示人脸四周更窄的矩形区域，而不是摄像头捕捉的全部区域",
+"ctx": "sable,showTip:!0,tipText:"
+},
+{
+"zh": "开启后，将启用磨皮、眼部除皱和眼袋去除等美颜特征",
+"ctx": "sable,showTip:!0,tipText:"
+},
+{
+"zh": "开启后，将建立更自然的眼神接触",
+"ctx": "sable,showTip:!0,tipText:"
+},
+{
+"zh": "显卡驱动出现问题或MiDeviceService进程被禁用时可能导致该功能无法正常使用",
+"ctx": "t(c.jsx)(\"div\",{children:"
+},
+{
+"zh": "1. 为确保使用正常，需要将您的摄像头设备选择为 Intel Xe Virtual Camera",
+"ctx": "t(c.jsx)(\"div\",{children:"
+},
+{
+"zh": "2. 显卡驱动出现问题或MiDeviceService进程被禁用时可能导致该功能无法正常使用",
+"ctx": "t(c.jsx)(\"div\",{children:"
+},
+{
+"zh": "提示",
+"ctx": "jsx)(IL,{visible:b,title:"
+},
+{
+"zh": "通用",
+"ctx": "f.a.bind(BR.a),oV=[{name:"
+},
+{
+"zh": "文件搜索",
+"ctx": "ect(c.jsx)(XL,{})},{name:"
+},
+{
+"zh": "显示",
+"ctx": "ect(c.jsx)(hR,{})},{name:"
+},
+{
+"zh": "相机",
+"ctx": "ect(c.jsx)(VA,{})},{name:"
+},
+{
+"zh": "本机信息",
+"ctx": "ect(c.jsx)(RR,{})},{name:"
+},
+{
+"zh": "关于",
+"ctx": "ect(c.jsx)(sR,{})},{name:"
+},
+{
+"zh": "售后政策",
+"ctx": "n.n(lV);const dV=[{label:"
+},
+{
+"zh": "服务网点",
+"ctx": "ervice\",outer:!0},{label:"
+},
+{
+"zh": "我的反馈",
+"ctx": "edback\",outer:!1},{label:"
+},
+{
+"zh": "在线客服",
+"ctx": "istory\",outer:!1},{label:"
+},
+{
+"zh": "您还没有登录，请在登录后查看。",
+"ctx": ".jsxs)(\"span\",{children:["
+},
+{
+"zh": "立即登录",
+"ctx": "a[\"empty-link\"],children:"
+},
+{
+"zh": "常见问题",
+"ctx": "ar-box\"],onClick:()=>{sh("
+},
+{
+"zh": "笔记本使用手册",
+"ctx": "r-link\"],onClick:()=>{sh("
+},
+{
+"zh": "小米商城",
+"ctx": "r-link\"],onClick:()=>{sh("
+},
+{
+"zh": "帮助中心",
+"ctx": "r-link\"],onClick:()=>{sh("
+},
+{
+"zh": "小米笔记本",
+"ctx": "uV.a[\"qr-text\"],children:"
+},
+{
+"zh": "微信",
+"ctx": ".wechat),onClick:()=>{sh("
+},
+{
+"zh": "微博",
+"ctx": "a.weibo),onClick:()=>{sh("
+},
+{
+"zh": "问题反馈",
+"ctx": "ev,{zIndex:2,ref:S,title:"
+},
+{
+"zh": "反馈历史",
+"ctx": "ev,{zIndex:3,ref:E,title:"
+},
+{
+"zh": "暂无结果，尝试",
+"ctx": "y-image-text\"],children:["
+},
+{
+"zh": "或者联系",
+"ctx": "3d0\\u4ea4\\u53cd\\u9988\"}),"
+},
+{
+"zh": "猜您想问",
+"ctx": "ct(c.jsx)(\"h2\",{children:"
+},
+{
+"zh": "以上均没有您想问的问题？",
+"ctx": "close-icon\"]}),children:["
+},
+{
+"zh": "点击立即提交问题",
+"ctx": "a[\"empty-link\"],children:"
+},
+{
+"zh": "加载中",
+"ctx": "\"loading-text\"],children:"
+},
+{
+"zh": "搜索内容不能为空",
+"ctx": "(!e)return t&&Ea.warning("
+},
+{
+"zh": "其它问题",
+"ctx": "p((e=>({...e,wideTagName:"
+},
+{
+"zh": "其他问题",
+"ctx": "e\\u9898\"===e.wideTagName?"
+},
+{
+"zh": "使用卡顿",
+"ctx": "d 0:j.wideTagName)?24252:"
+},
+{
+"zh": "文件正在上传",
+"ctx": "s)))return void Ea.error("
+},
+{
+"zh": "反馈和日志正在提交，您可以继续提交反馈",
+"ctx": "pLoadProblemLog&&Ea.info("
+},
+{
+"zh": "反馈类型",
+"ctx": "ct(c.jsx)(lH.Item,{label:"
+},
+{
+"zh": "遇到问题",
+"ctx": ")(OH,{value:\"1\",children:"
+},
+{
+"zh": "使用建议",
+"ctx": ")(OH,{value:\"2\",children:"
+},
+{
+"zh": "详细描述",
+"ctx": "ct(c.jsx)(lH.Item,{label:"
+},
+{
+"zh": "请填写详细描述",
+"ctx": "es:[{required:!0,message:"
+},
+{
+"zh": "请详细描述您在使用笔记本电脑时的想法和建议",
+"ctx": ")(l,{placeholder:\"2\"===u?"
+},
+{
+"zh": "请详细描述遇到的问题",
+"ctx": "u6cd5\\u548c\\u5efa\\u8bae\":"
+},
+{
+"zh": "发生时间",
+"ctx": "ct(c.jsx)(lH.Item,{label:"
+},
+{
+"zh": "问题类型",
+"ctx": "ct(c.jsx)(lH.Item,{label:"
+},
+{
+"zh": "请选择问题类型",
+"ctx": "es:[{required:!0,message:"
+},
+{
+"zh": "请选择具体类型",
+"ctx": "es:[{required:!0,message:"
+},
+{
+"zh": "联系方式",
+"ctx": "ct(c.jsx)(lH.Item,{label:"
+},
+{
+"zh": "手机号码/邮箱",
+"ctx": "t(c.jsx)(m_,{placeholder:"
+},
+{
+"zh": "问题日志",
+"ctx": "ct(c.jsx)(lH.Item,{label:"
+},
+{
+"zh": "上传问题日志（启用后为尽快处理问题，将上传问题必要信息）",
+"ctx": ":e.enableLog)}),children:"
+},
+{
+"zh": "提交",
+"ctx": "=>{v||N()},children:[!v&&"
+},
+{
+"zh": "提交成功，新的反馈已被成功记录",
+"ctx": ":y,onOK:()=>{b(!1)},text:"
+},
+{
+"zh": "提交成功",
+"ctx": "u529f\\u8bb0\\u5f55\",title:"
+},
+{
+"zh": "为了更快解决您的问题，请在",
+"ctx": ".jsxs)(\"span\",{children:["
+},
+{
+"zh": "登录",
+"ctx": "a[\"empty-link\"],children:"
+},
+{
+"zh": "后，再提交反馈。",
+"ctx": "hildren:\"\\u767b\\u5f55\"}),"
+},
+{
+"zh": "小米服务始终陪伴在您身边",
+"ctx": "Name:Pz.a.title,children:"
+},
+{
+"zh": "您的网络已经断开，可以使用以下方式获得帮助～",
+"ctx": "a[\"title-desc\"],children:"
+},
+{
+"zh": "9:00-18:00（仅收市话费）",
+"ctx": "z.a[\"tel-desc\"],children:"
+},
+{
+"zh": "暂未向${n}提供驱动支持",
+"ctx": "n e=Wz(s)?Fa.includes(s)?"
+},
+{
+"zh": "为${n}提供官方驱动支持",
+"ctx": "u9a71\\u52a8\\u652f\\u6301`:"
+},
+{
+"zh": "仅为小米笔记本提供驱动支持",
+"ctx": "u9a71\\u52a8\\u652f\\u6301`:"
+},
+{
+"zh": "提供官方驱动支持",
+"ctx": "a8\\u7ba1\\u7406\",subTitle:"
+},
+{
+"zh": "电池与性能",
+"ctx": "conColor:\"#2ECE9C\",title:"
+},
+{
+"zh": "调整性能模式以延长续航或释放性能",
+"ctx": "0e\\u6027\\u80fd\",subTitle:"
+},
+{
+"zh": "电脑清理",
+"ctx": "conColor:\"#ff8e4d\",title:"
+},
+{
+"zh": "清理缓存文件、垃圾文件释放电脑存储空间",
+"ctx": "11\\u6e05\\u7406\",subTitle:"
+},
+{
+"zh": "系统加速",
+"ctx": "conColor:\"#2ece9c\",title:"
+},
+{
+"zh": "检测开机自启动软件、优化进程，电脑运行更流畅",
+"ctx": "df\\u52a0\\u901f\",subTitle:"
+},
+{
+"zh": "电脑常用功能集合",
+"ctx": "ssName:Rz.a.tip,children:"
+},
+{
+"zh": "离开页面不会保留系统垃圾扫描结果，确定要离开吗？",
+"ctx": "t(c.jsx)(px,{contentText:"
+},
+{
+"zh": "确定要停止垃圾文件清理吗？",
+"ctx": "t(c.jsx)(px,{contentText:"
+},
+{
+"zh": "确定要停止系统加速吗？",
+"ctx": "t(c.jsx)(px,{contentText:"
+},
+{
+"zh": "请勿退出",
+"ctx": "()=>x?{dialogInfo:{title:"
+},
+{
+"zh": "仍要退出",
+"ctx": "00\\u51fa\",confirmBtnText:"
+},
+{
+"zh": "驱动正在下载安装中，强制退出可能会导致系统出现严重问题，您确定要退出吗？",
+"ctx": "u9000\\u51fa\",contentText:"
+},
+{
+"zh": "离开页面将停止驱动扫描，确定要离开吗？",
+"ctx": "x,{visible:p,contentText:"
+},
+{
+"zh": "离开页面将停止驱动更新，确定要离开吗？",
+"ctx": "x,{visible:g,contentText:"
+},
+{
+"zh": "开启消息通知，及时展示来自手机的通知",
+"ctx": "nt:Object(c.jsx)(WN,{msg:"
+},
+{
+"zh": "立即开启",
+"ctx": "share_notice\")},children:"
+},
+{
+"zh": "开启相关服务进程，确保功能正常使用",
+"ctx": "nt:Object(c.jsx)(WN,{msg:"
+},
+{
+"zh": "开启耳机快连，快速连接附近蓝牙耳机",
+"ctx": "nt:Object(c.jsx)(WN,{msg:"
+},
+{
+"zh": "省电模式下，小米互传、耳机快连无法建立新的连接。可以通过 Fn+K 切换模式或点击查看详情。",
+"ctx": "nt:Object(c.jsx)(WN,{msg:"
+},
+{
+"zh": "开启设备互联新体验",
+"ctx": ".jsx)(XZ,{imgSrc:rZ,desc:"
+},
+{
+"zh": "小米互联互通 设备协作无间",
+"ctx": "u65b0\\u4f53\\u9a8c\",title:"
+},
+{
+"zh": "登录手机或平板同一小米账号，享受畅快互联",
+"ctx": ".jsx)(XZ,{imgSrc:nZ,desc:"
+},
+{
+"zh": "登录小米账号，与其他小米设备互联",
+"ctx": "u5feb\\u4e92\\u8054\",title:"
+},
+{
+"zh": "支持机型与常见问题",
+"ctx": "pCardClick,click_content:"
+},
+{
+"zh": "时",
+"ctx": "sName:iU.a.text,children:"
+},
+{
+"zh": "分",
+"ctx": "sName:iU.a.text,children:"
+},
+{
+"zh": "已充满",
+"ctx": "e=>e.battery)),s=100===e?"
+},
+{
+"zh": "养护充电生效中",
+"ctx": "145\\u6ee1\":o===yp.Opened?"
+},
+{
+"zh": "智能充电生效中",
+"ctx": "u7535\\u751f\\u6548\\u4e2d\":"
+},
+{
+"zh": "预计充满时间",
+"ctx": ".description,children:[t?"
+},
+{
+"zh": "可用时长",
+"ctx": "u5145\\u6ee1\\u65f6\\u95f4\":"
+},
+{
+"zh": "｜剩余电量",
+"ctx": "u53ef\\u7528\\u65f6\\u957f\","
+},
+{
+"zh": "新机电池健康度可能显示不准，需要循环放电几个周期。使用一段时间后电池状况一般为电池损耗，建议您联系售后进行电池检测或更换。",
+"ctx": "t(c.jsx)(pU,{description:"
+},
+{
+"zh": "小米售后服务网点",
+"ctx": "sName:fU.a.link,children:"
+},
+{
+"zh": "极佳",
+"ctx": "U=new Map([[gp.Excellent,"
+},
+{
+"zh": "良好",
+"ctx": "\"\\u6781\\u4f73\"],[gp.Good,"
+},
+{
+"zh": "一般",
+"ctx": "\"\\u6b63\\u5e38\"],[gp.Fair,"
+},
+{
+"zh": "电池健康度",
+"ctx": "[Object(c.jsx)(pU,{title:"
+},
+{
+"zh": "养护充电",
+"ctx": "Name:CU.a.title,children:"
+},
+{
+"zh": "此模式下电池将不会被充满，以延长电池寿命",
+"ctx": "U.a.description,children:"
+},
+{
+"zh": "连接电源时仅首次充满，之后电量维持在80%左右，延长电池寿命。",
+"ctx": ".a.description,children:["
+},
+{
+"zh": "开启后电量不会充满，续航时间将受到影响",
+"ctx": ".a[\"color-red\"],children:"
+},
+{
+"zh": "电池电量达到设定值时将会停止充电",
+"ctx": "Name:CU.a.title,children:"
+},
+{
+"zh": "维持较低的电量值将增加电池使用寿命， 但同样会影响你的续航",
+"ctx": "U.a.description,children:"
+},
+{
+"zh": "选择性能模式",
+"ctx": "Name:PU.a.title,children:"
+},
+{
+"zh": "动态性能调度",
+"ctx": "jh.M59,jh.M59A])},{title:"
+},
+{
+"zh": "根据使用场景智能调度硬件算力资源，提升前台应用流畅度并降低功耗优化续航",
+"ctx": "u8c03\\u5ea6\",description:"
+},
+{
+"zh": "AI智能调度",
+"ctx": "jh.M54,jh.M54S])},{title:"
+},
+{
+"zh": "根据使用场景智能调度硬件算力资源，提升性能与续航体验",
+"ctx": "u8c03\\u5ea6\",description:"
+},
+{
+"zh": "离电状态下根据使用场景智能调度硬件算力资源，提升性能与续航体验",
+"ctx": "u8c03\\u5ea6\",description:"
+},
+{
+"zh": "远程控制功能",
+"ctx": "(n),n===Sc.Installed){bh("
+},
+{
+"zh": "远程控制下载",
+"ctx": "n===Sc.NotInstalled&&(bh("
+},
+{
+"zh": "远程控制",
+"ctx": "defs%3e%3c/svg%3e\",title:"
+},
+{
+"zh": "通过小米平板远程控制这台电脑，一键启动 PC 应用",
+"ctx": "0b\\u63a7\\u5236\",subTitle:"
+},
+{
+"zh": "暂时无法下载",
+"ctx": "ck:()=>{o(!1)},children:["
+},
+{
+"zh": "，请稍后重试",
+"ctx": "u8fdc\\u7a0b\\u63a7\\u5236\","
+},
+{
+"zh": "换机助手功能",
+"ctx": "{if(n===Tc.Installed){bh("
+},
+{
+"zh": "换机助手下载",
+"ctx": "n===Tc.NotInstalled&&(bh("
+},
+{
+"zh": "换机助手",
+"ctx": "defs%3e%3c/svg%3e\",title:"
+},
+{
+"zh": "旧数据一键迁移、轻松换新机",
+"ctx": "3a\\u52a9\\u624b\",subTitle:"
+},
+{
+"zh": "小米PC换机助手",
+"ctx": "u65e0\\u6cd5\\u4e0b\\u8f7d\","
+},
+{
+"zh": "正在自动更新驱动，可以在更新完成后进行驱动管理设置",
+"ctx": "[\"auto-update\"],children:"
+},
+{
+"zh": "查看更多",
+"ctx": "Click:()=>o(!0),children:"
+},
+{
+"zh": "收起",
+"ctx": "Click:()=>o(!1),children:"
+},
+{
+"zh": "反馈编号",
+"ctx": "-number-title\"],children:"
+},
+{
+"zh": "无反馈",
+"ctx": "hite'/%3e%3c/svg%3e\",alt:"
+},
+{
+"zh": "加载超时！",
+"ctx": "edback-tip\"],children:[o?"
+},
+{
+"zh": "您还没有任何反馈记录哦！",
+"ctx": "u8f7d\\u8d85\\u65f6\\uff01\":"
+},
+{
+"zh": "刷新试试",
+"ctx": "n\",{onClick:d,children:o?"
+},
+{
+"zh": "刷新",
+"ctx": "u5237\\u65b0\\u8bd5\\u8bd5\":"
+}
+]

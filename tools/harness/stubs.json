@@ -1,0 +1,12 @@
+{
+ "get_home_info": {"pc_model": "TM2307", "pc_name": "Redmi Book Pro 14 2024"},
+ "get_workLoad_mode": {"mode": 1}, "get_first_set_powersave": {"status": 1},
+ "is_support_hyper_charging": {"support": 1}, "get_charging_threshold": {"mode": 1},
+ "get_charging_protect": {"mode": 0}, "get_battery_health_status": {"status": 3},
+ "get_ac_power_status": {"status": 1}, "get_turbo_engine_enable": {"enable": 1},
+ "get_feedback_type_list": [], "get_gallery": [], "get_startup_items": [], "get_screen_info": [], "get_disk_info_sc": [],
+ "get_midrop_status": {"status": 1}, "get_function_key": {"key": 0},
+ "screen_mirroring_get_pad_sidebar_position": {"position": 0}, "screen_extension_get_pad_sidebar_position": {"position": 0},
+ "get_screen_arrangement_option": {"option": 2}, "screen_mirroring_get_screen_audio": {"audio": 1}, "screen_extension_get_screen_audio": {"audio": 1},
+ "get_screen_ratio": {"ratio": 0}, "get_midrop_type": {"type": 1}
+}

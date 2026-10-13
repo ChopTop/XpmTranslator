@@ -1,0 +1,66 @@
+name: build
+
+on:
+  push:
+    branches: [master]
+    tags: ['v*']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Version
+        id: ver
+        shell: bash
+        run: |
+          if [[ "$GITHUB_REF" == refs/tags/v* ]]; then
+            echo "version=${GITHUB_REF_NAME#v}" >> "$GITHUB_OUTPUT"
+          else
+            echo "version=0.0.0-ci.${GITHUB_RUN_NUMBER}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Publish
+        run: dotnet publish src -c Release -o publish -p:Version=${{ steps.ver.outputs.version }}
+
+      - name: Checksum
+        id: sum
+        shell: bash
+        run: |
+          sha=$(sha256sum publish/XpmTranslator.exe | cut -d' ' -f1)
+          echo "sha=$sha" >> "$GITHUB_OUTPUT"
+          echo "$sha  XpmTranslator.exe" > publish/XpmTranslator.exe.sha256
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: XpmTranslator-${{ steps.ver.outputs.version }}
+          path: |
+            publish/XpmTranslator.exe
+            publish/XpmTranslator.exe.sha256
+
+      - name: Release
+        if: startsWith(github.ref, 'refs/tags/v')
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cat > notes.md <<EOF
+          Unofficial English patch for Xiaomi PC Manager 5.8.1.130. Not affiliated with Xiaomi.
+
+          Download \`XpmTranslator.exe\`, run it as administrator, press **Apply**. See the README for details.
+
+          SHA-256 of \`XpmTranslator.exe\`: \`${{ steps.sum.outputs.sha }}\`
+          EOF
+          gh release create "$GITHUB_REF_NAME" \
+            publish/XpmTranslator.exe publish/XpmTranslator.exe.sha256 \
+            --title "$GITHUB_REF_NAME" --notes-file notes.md

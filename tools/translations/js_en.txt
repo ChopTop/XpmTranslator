@@ -1,0 +1,831 @@
+0 Select date
+1 Select year
+2 Select quarter
+3 Select month
+4 Select week
+5 Start date
+6 End date
+7 Start year
+8 End year
+9 Start month
+10 End month
+11 Start week
+12 End week
+13 OK
+14 Select time
+15 Start time
+16 End time
+17 ${label} is not a valid ${type}
+18 Please select
+19 Filter
+20 OK
+21 Reset
+22 No filters
+23 Select current page
+24 Invert current page
+25 Clear all
+26 Select all
+27 Sort
+28 Expand row
+29 Collapse row
+30 Click to sort descending
+31 Click to sort ascending
+32 Cancel sorting
+33 Cancel
+34 Got it
+35 Search
+36 item(s)
+37 Delete
+38 Delete current page
+39 Delete all
+40 Uploading
+41 Remove file
+42 Upload error
+43 Preview file
+44 Download file
+45 No data
+46 icon
+47 Edit
+48 Copy
+49 Copied
+50 Expand
+51 Back
+52 (optional)
+53 Field validation error ${label}
+54 Please enter ${label}
+55 ${label} must be one of [${enum}]
+56 ${label} cannot be empty
+57 ${label} has an invalid date format
+58 ${label} cannot be converted to a date
+59 ${label} is an invalid date
+60 ${label} must be ${len} characters
+61 ${label} must be at least ${min} characters
+62 ${label} must be at most ${max} characters
+63 ${label} must be ${min}-${max} characters
+64 ${label} must equal ${len}
+65 ${label} minimum is ${min}
+66 ${label} maximum is ${max}
+67 ${label} must be between ${min} and ${max}
+68 Must be ${len} ${label}
+69 At least ${min} ${label}
+70 At most ${max} ${label}
+71 ${label} count must be ${min}-${max}
+72 ${label} does not match pattern ${pattern}
+73 Preview
+74 January_February_March_April_May_June_July_August_September_October_November_December
+75 Jan_Feb_Mar_Apr_May_Jun_Jul_Aug_Sep_Oct_Nov_Dec
+76 Sunday_Monday_Tuesday_Wednesday_Thursday_Friday_Saturday
+77 Sun_Mon_Tue_Wed_Thu_Fri_Sat
+78 Su_Mo_Tu_We_Th_Fr_Sa
+79 MMMM D, YYYY
+80 MMMM D, YYYY h:mm A
+81 dddd, MMMM D, YYYY h:mm A
+82 MMMM D, YYYY HH:mm
+83 dddd, MMMM D, YYYY HH:mm
+84 AM
+85 AM
+86 AM
+87 PM
+88 PM
+89 PM
+90 [Today at] LT
+91 [Tomorrow at] LT
+92 [Next] dddd LT
+93 dddd LT
+94 [Yesterday at] LT
+95 [Last] dddd LT
+96 d
+97 mo
+98 wk
+99 in %s
+100 %s ago
+101 a few seconds
+102 %d seconds
+103 a minute
+104 %d minutes
+105 an hour
+106 %d hours
+107 a day
+108 %d days
+109 a week
+110 %d weeks
+111 a month
+112 %d months
+113 a year
+114 %d years
+115 / page
+116 Go to
+117 page
+118 Previous page
+119 Next page
+120 Previous 5 pages
+121 Next 5 pages
+122 Previous 3 pages
+123 Next 3 pages
+124 Today
+125 Now
+126 Back to today
+127 Select time
+128 Select date
+129 Select week
+130 Clear
+131 Year
+132 Previous month (PageUp)
+133 Next month (PageDown)
+134 Choose a month
+135 Choose a year
+136 Choose a decade
+137 YYYY
+138 D
+139 YYYY-MM-DD HH:mm:ss
+140 Last year (Control + left)
+141 Next year (Control + right)
+142 Last decade
+143 Next decade
+144 Last century
+145 Next century
+146 1
+147 2
+148 3
+149 4
+150 5
+151 6
+152 7
+153 8
+154 9
+155 OK
+156 Repair
+157 Enable
+158 Update
+159 Downloading
+160 Enabling
+161 Repairing
+162 Updating
+163 Failed to fetch
+164 Download failed
+165 Installed
+166 Install failed
+167 Canceling
+168 Canceled
+169 Restart required
+170 Waiting
+171 Repaired
+172 Repair failed
+173 Enabled
+174 Enable failed
+175 Updated
+176 Update failed
+177 Wireless adapter
+178 Ethernet adapter
+179 Integrated graphics
+180 Dedicated graphics
+181 Sound card
+182 Bluetooth
+183 Biometric device
+184 Motherboard & chipset
+185 Cooling
+186 Disk
+187 Other
+188 NPU driver
+189 MEP driver
+190 PMT driver
+191 HDR driver
+192 NFC driver
+193 Drivers to repair
+194 Drivers to update
+195 Optimized
+196 Optimization failed
+197 Up-to-date drivers
+198 Default
+199 Warm
+200 Cool
+201 Custom
+202 Startup items
+203 System services
+204 Scheduled tasks
+205 Multiple SubPages with the same zIndex are not allowed in one tab at the same time
+206 Network error. Check your connection and try again
+207 Unknown
+208 80% (recommended)
+209 On
+210 Off
+211 Silent
+212 Silent: low noise and heat for a quieter experience.
+213 Balanced
+214 Balanced: balanced power for everyday work and entertainment.
+215 Performance
+216 Performance: higher power limits for demanding workloads.
+217 Beast
+218 Beast: the CPU runs at full power for maximum performance. Exits when the charger is unplugged or the PC restarts.
+219 Smart
+220 Smart: adjusts performance automatically based on what you are doing.
+221 Battery saver
+222 Battery saver: lowers power mode and backlight to extend battery life. Exits when the original adapter is connected. Nearby devices can still use interconnect features over the same Wi-Fi network.
+223 In this mode Mi File Transfer and Quick earphone connect cannot make new connections. The Windows power mode is set to Best power efficiency and the keyboard and screen backlight are dimmed.
+224 In this mode Mi File Transfer and Quick earphone connect cannot make new connections. The Windows power mode is set to Best power efficiency and the screen backlight is dimmed.
+225 My PC
+226 My PC tab
+227 Devices
+228 Devices tab
+229 Meeting assistant
+230 Meeting assistant tab
+231 Toolbox
+232 Toolbox tab
+233 Personalize
+234 Personalize tab
+235 Store
+236 App Store tab
+237 Support
+238 Support tab
+239 Guide
+240 Guide tab
+241 Settings
+242 Settings tab
+243 Leave page
+244 Press a shortcut
+245 Shortcut conflict
+246 Set anyway
+247 This shortcut conflicts with another Xiaomi PC Manager shortcut, so some features may not work. Set it anyway?
+248 Notice
+249 Close anyway
+250 Burn-in protection slideshow
+251 Slideshow
+252 Set as desktop
+253 Set as lock screen
+254 Set both
+255 Setting a desktop wallpaper turns off the burn-in protection slideshow
+256 Set as screen saver
+257 Turn on anyway
+258 Edit screen saver text
+259 Image screen savers
+260 Text screen saver
+261 Image screen saver
+262 Always believe that something wonderful is about to happen
+263 Choose image
+264 Save
+265 Up to 50 characters
+266 Switching to an image screen saver turns off burn-in protection
+267 Desktop wallpaper
+268 Lock screen wallpaper
+269 Gallery
+270 1 min
+271 10 min
+272 30 min
+273 1 hour
+274 6 hours
+275 1 day
+276 Shuffle
+277 In order
+278 Fill
+279 Fit
+280 Stretch
+281 Tile
+282 Center
+283 Span
+284 Interval
+285 Order
+286 Turn on screen saver
+287 Turning off the burn-in protection screen saver will shorten the screen's lifespan
+288 Screen saver
+289 Wallpaper
+290 Beijing
+291 Xiao Ai
+292 Control Center
+293 Other apps
+294 Device Hub
+295 Manage all your devices, control and collaborate
+296 Mi File Transfer
+297 Send files to nearby devices
+298 Keyboard & Mouse Sharing
+299 Share keyboard and mouse between PC and tablet
+300 Mi Share Desktop
+301 Use your phone's desktop and apps on the PC
+302 Cast to TV
+303 Mirror your screen to a TV
+304 Network Sync
+305 Turn on and join your phone's hotspot in one click
+306 Hide sidebar
+307 Left side of tablet
+308 Right side of tablet
+309 This PC
+310 Tablet
+311 Receiving off
+312 Turn on transfer service to allow devices to send you files
+313 My devices only
+314 Only receiving files from Android and Apple devices on the same account. Xiaomi devices need OS1.0+ and Mi File Transfer 3.0.0+
+315 Everyone
+316 Receiving files from everyone
+317 Receive folder
+318 Mi File Transfer_Mi File Transfer
+319 Mi File Transfer_Receive folder
+320 Choose folder
+321 Match PC aspect ratio
+322 Match tablet aspect ratio
+323 Tablet left of PC
+324 Tablet above PC
+325 Tablet right of PC
+326 Tablet below PC
+327 You haven't accepted the MiService privacy policy, so device connection is unavailable. Accept the MiService privacy policy to use it
+328 Can't check for updates
+329 Accept
+330 You haven't accepted the MiService privacy policy, so updates are unavailable. Accept the MiService privacy policy to use them
+331 Can't download
+332 Can't install
+333 Can't update
+334 MiService error
+335 MiService is not working, so downloads and updates are unavailable. Please repair it
+336 MiService is not working, so updates can't be checked. Please repair it
+337 Accept MiService privacy policy
+338 Driver management requires MiService. Accept the MiService privacy policy first
+339 Update BIOS
+340 Save all your work before installing. The update will take several minutes.
+341 Make sure the charger is connected and the battery is above§
+342 %, otherwise installation can't continue.
+343 A restart is required to continue. Restart and update now?
+344 Connect the power adapter to continue
+345 Failed to set performance mode
+346 Available when a full-power charger is connected
+347 Beast mode requires a full-power charger.
+348 Warning
+349 In Beast mode your laptop may get hot and the fans louder. Turn it on?
+350 Battery reminder
+351 Use Performance mode
+352 Keep using
+353 Battery is below 70%. Beast mode uses a lot of power; switching to Performance mode is recommended.
+354 Battery is below 20%. Beast mode uses a lot of power; switching to Performance mode is recommended.
+355 Turn on Battery saver
+356 Cancel (${y}s)
+357 With Battery saver on, only devices on the same Wi-Fi network can use interconnect features. Mi File Transfer and Quick earphone connect can't make new connections.
+358 Installing...
+359 Download Xiaomi App Store
+360 Download
+361 An official and safe source of apps with a huge catalog. Everything is machine-scanned and hand-tested for safe and reliable app and game downloads and management.
+362 Installation starts automatically after download
+363 Can't download the App Store right now. Try again later
+364 Install Xiaomi App Store
+365 Install
+366 Not now
+367 Download complete. Install Xiaomi App Store?
+368 Manage
+369 Exit
+370 Xiaomi PC Manager
+371 Sign in
+372 )
+373 Restart to finish driver update
+374 Restart now?
+375 Restart now
+376 Current version:§
+377 Driver error
+378 Driver disabled
+379 Driver not installed
+380 Latest version: ${e.latest_version}
+381 Takes effect after restart
+382 Restart to install
+383 Driver download failed. Check your connection and try again
+384 Getting information from server
+385 Scanning hardware
+386 Scan starting
+387 Scan almost done
+388 Scanning ${t.driver_name}
+389 Start scan
+390 , please wait...
+391 Checking, please wait
+392 Optimizing, keep the PC running
+393 Optimize
+394 ${u.length} issue(s) found. Optimize now to avoid system problems
+395 Failed to get information from server. Check your connection and try again
+396 Scan again
+397 OK
+398 All ${d.length} drivers are up to date. Keep it up!
+399 Driver check complete
+400 Failed to get information from server
+401  drivers are up to date
+402 Total§
+403  issue(s) to fix
+404 Check your connection and try again
+405 Drivers are in good shape. Keep it up!
+406 Optimize now to avoid system problems
+407 Done
+408 Install now
+409 BIOS driver will be installed
+410 ${p} driver(s) optimized. Installing BIOS driver...
+411 Download complete. Installing BIOS driver
+412 ${p} driver(s) processed: ${d} succeeded, ${f} failed
+413 ${p} driver(s) optimized
+414 Drivers optimized
+415 Details
+416 Ignore
+417  driver(s) optimized. Installing BIOS driver...
+418  driver(s) optimized
+419  succeeded,
+420  failed
+421 Reinstall
+422 Send feedback
+423 Search issues
+424 Driver optimization failed. You can try:
+425 Optimizing drivers, please wait
+426 Size:§
+427 Release notes:§
+428 Note:§
+429 Connect the charger before installing the BIOS. The update restarts the PC and takes several minutes. Make sure the battery is above§
+430 % and don't turn off the power!
+431 Device:§
+432 Driver version:§
+433 Release date:§
+434 Hardware ID:§
+435 More
+436 Network error,§
+437 click to retry
+438 Drivers
+439 Driver website
+440 Last check:§
+441 Never
+442 Describe your problem in a few words
+443 File ${n} is empty
+444 File ${n} is too large, only files under 100MB are supported
+445 Sign in to upload files
+446 Network error, image upload failed
+447 Image upload failed
+448 Up to 3 files at a time
+449 Unsupported file format
+450 ${t} copy
+451 Province/Region
+452 City/District
+453 Mute
+454 Toggle screen cast
+455 Caps Lock
+456 Volume down
+457 Open Snipping Tool
+458 Launch Xiao Ai
+459 Switch performance mode
+460 Volume up
+461 Open/close Task View
+462 Lock/unlock Fn
+463 Brightness down
+464 Open Settings
+465 Switch refresh rate
+466 Open Control Center
+467 Brightness up
+468 Keyboard backlight
+469 Open Game Center
+470 The hotkey service on this PC is disabled!
+471 Repair
+472 Shortcut guide
+473 Keys and functions vary by model. This guide is for reference only.
+474 Some shortcuts won't work after Xiaomi PC Manager is uninstalled.
+475 AI screen brightness
+476 Adjusts brightness to screen content using an AI model
+477 Eye comfort
+478 Color style
+479 Eye comfort can't be set while HDR is on.
+480 Software eye comfort makes the screen warmer to reduce blue light§
+481 (hardware low blue light supported)
+482 Color style can't be set while global eye comfort or HDR is on.
+483 Profile not found, this mode is unavailable.
+484 More display settings
+485 Scale, resolution, auto brightness, HDR and more
+486 Pro original color (recommended)
+487 Original color
+488 sRGB
+489 DCI-P3
+490 ${t}% (recommended)
+491  (recommended)
+492 Color temperature
+493 Hue
+494 Opacity
+495 Cores:§
+496 Threads:§
+497 Base clock:§
+498 L3 cache:§
+499 Motherboard
+500 Serial number:§
+501 BIOS version:§
+502 BIOS date:§
+503 Graphics
+504 Model:§
+505 Vendor:§
+506 Memory
+507 Storage
+508 Channels:§
+509 Display
+510 ${p.screen_size_inch}" ${p.width} \xd7 ${p.height}
+511 Size:§
+512 ${p.screen_size_inch}"
+513 Aspect ratio:§
+514 Max resolution:§
+515 Network adapter
+516 Name:§
+517 Type: Wi-Fi 6
+518 Discard feedback
+519 Confirm
+520 You have edited this feedback. Confirm to discard it
+521 Service error
+522 Ignore this time
+523 Updates, account sign-in and other services are unavailable. Please repair soon
+524 Privacy policy
+525 Open source licenses
+526 License & service agreement
+527 Check for updates
+528 Check for updates
+529 Checking for updates...
+530 Up to date
+531 Updating
+532 Accepted
+533 Not accepted
+534 © Xiaomi Inc. All rights reserved
+535 After closing, double-click the tray icon to open
+536 Smart power saving
+537 Ask before exit
+538 Performance mode
+539 Switch performance mode to suit your use. Press Fn+K to cycle Silent, Balanced and Performance
+540 (Beast mode is only available on AC power)
+541 Available on battery when Windows power mode is Balanced or Best power efficiency. Detects your usage and schedules resources to save power
+542 Custom key
+543 Assign the custom key to launch what you want in one press
+544 Important
+545 BIOS update requires a restart
+546 Restart & update
+547 Hardware
+548 Software
+549 Operating system
+550 System type
+551 Version
+552 Install date
+553 OS build
+554 PC name
+555 Activation
+556 Activated
+557 Not activated
+558 Rename
+559 Checking, please wait
+560 Checking
+561 ${e} startup item(s) optimized
+562 ${e} startup item(s) found, ${t} can be optimized
+563 Optimizing speeds up boot and system performance
+564 Check complete, no problematic startup items
+565 No problematic startup items. Keep it up!
+566 \n          Optimization failed for ${r.length} startup item(s). Try again later
+567 Couldn't change startup item. Try again later
+568 Keep
+569 Enable
+570 Disable
+571 Disable this startup item?
+572 ${ci[t]} (${e.length})
+573 Scanning
+574 Scanning ${n.file_path}
+575 Scanning ${n.scan_type||""}
+576 Total§
+577 , selected§
+578 No cache to clean
+579 Select items to clean below
+580 Clean selected
+581 Total ${Ra(t)}, selected ${Ra(n)} of junk files
+582 Scan complete, no junk files found
+583 Cleaning cache files won't affect your normal use
+584 No junk files. Keep it up!
+585 Scan again
+586 Stop
+587 Cleaning, please wait...
+588 Cleaning§
+589 Done, freed§
+590  of space
+591 Record
+592 Voiceprint
+593 Smart voice tracking
+594 After recording your voiceprint, your voice is picked up so others hear you more clearly
+595 Detailed specs
+596 OS:§
+597 Display:§
+598 ${r.screen_size_inch}" ${r.width} \xd7 ${r.height}
+599 Processor:§
+600 Graphics:§
+601 Memory:§
+602 Storage:§
+603 C:\\Users\\ (default)
+604 Internal drives
+605 Custom path
+606 When idle (default)
+607 Prioritize foreground apps, only index when the system is idle
+608 Index immediately on file change
+609 Finds recent changes faster, but uses some system resources
+610 AI file search
+611 Indexes file contents with a local model so you can search by content
+612 Index path
+613 Index path is unavailable. Please set it again
+614 Index files in the selected paths
+615 When to index
+616 Open search
+617 This drive can't be indexed yet
+618 This drive can't be indexed yet. Choose another index path.
+619 Index now
+620 Turn on
+621 In this mode content is analyzed continuously, which may warm the device and drain the battery faster (this is normal). Plug in the charger before turning it on.
+622 More features
+623 App relay
+624 Cross-device low battery alerts
+625 Quick earphone connect
+626 Auto-join car network
+627 Start using an app on one device and continue on another
+628 More features_App relay
+629 Show notifications from nearby phones on the same account
+630 More features_Cross-device low battery alerts
+631 Quickly connect earphones that support quick pairing
+632 More features_Quick earphone connect
+633 When a car on the same account is nearby, turn on and join its hotspot
+634 More features_Auto-join car network
+635 Screen extension
+636 Tablet sidebar position
+637 Screen arrangement
+638 Audio
+639 Screen extension_Tablet sidebar position
+640 Choose how this screen and the extended screen are arranged
+641 Screen extension_Screen arrangement
+642 Rearrange screens
+643 When mirroring to a tablet, choose this PC or the tablet for audio output
+644 Screen extension_Audio
+645 Screen mirroring
+646 Aspect ratio
+647 Screen mirroring_Tablet sidebar position
+648 Aspect ratio of this PC and the tablet when mirroring
+649 Screen mirroring_Aspect ratio
+650 Screen mirroring_Audio
+651 Cross-device clipboard
+652 Show tray icon
+653 Restore defaults
+654 Copy text or images on one device and paste on another
+655 ${IR}_Cross-device clipboard
+656 ${IR}_Show tray icon
+657 Open clipboard
+658 ${IR}_Open clipboard
+659 ${IR}_Restore defaults
+660 Mi Share Desktop - Shortcuts
+661 Go back
+662 Mi Share Desktop - Shortcuts_Go back
+663 Go to home screen
+664 Mi Share Desktop - Shortcuts_Go to home screen
+665 Recent tasks
+666 Mi Share Desktop - Shortcuts_Recent tasks
+667 Mi Share Desktop - Shortcuts_Restore defaults
+668 Screen edge quick connect
+669 Show Mi Share Desktop on taskbar
+670 Auto-hide title bar and navigation keys
+671 Connection method
+672 Prefer local network
+673 When devices are on the same network, connect over the local network first
+674 Connection method_Prefer local network
+675 Hold the pointer at the screen edge and drag to a nearby tablet
+676 Keyboard & Mouse Sharing_Screen edge quick connect
+677 Keyboard & Mouse Sharing_Screen arrangement
+678 Show Mi Share Desktop on the taskbar when a phone on the same account is nearby
+679 Mi Share Desktop_Show on taskbar
+680 Hover at the window edge to show the title bar and navigation keys
+681 Mi Share Desktop_Auto-hide title bar and navigation keys
+682 About shortcuts
+683 1. Middle, right and extra mouse buttons can be used as shortcuts§
+684 2. Ctrl, Shift or Alt combined with one other key can be used, see the list below
+685 Background blur
+686 Background hide
+687 Auto framing
+688 Eye contact
+689 Beauty
+690 Can't be used together with "${t[r].name}"
+691 Exposure
+692 Frames your face and shows a narrower area around it instead of the full camera view
+693 Smooths skin and reduces wrinkles and eye bags
+694 Makes eye contact look more natural
+695 May not work if the graphics driver has a problem or MiDeviceService is disabled
+696 1. Select Intel Xe Virtual Camera as your camera device
+697 2. May not work if the graphics driver has a problem or MiDeviceService is disabled
+698 Tip
+699 General
+700 File search
+701 Display
+702 Camera
+703 About this PC
+704 About
+705 Warranty policy
+706 Service centers
+707 My feedback
+708 Online support
+709 You're not signed in. Sign in to view.
+710 Sign in
+711 FAQ
+712 Laptop manual
+713 Xiaomi Store
+714 Help center
+715 Xiaomi Laptop
+716 WeChat
+717 Weibo
+718 Feedback
+719 History
+720 No results, try§
+721  or contact§
+722 Suggested questions
+723 None of these?
+724 Submit a question
+725 Loading
+726 Search can't be empty
+727 Other issues
+728 Other issues
+729 Lag
+730 Uploading file
+731 Feedback and logs are being sent, you can keep submitting
+732 Type
+733 Problem
+734 Suggestion
+735 Description
+736 Please enter a description
+737 Tell us your ideas and suggestions about the laptop
+738 Describe the problem in detail
+739 Time
+740 Category
+741 Select a category
+742 Select a subcategory
+743 Contact
+744 Phone/email
+745 Logs
+746 Upload logs (needed info will be sent to resolve the issue faster)
+747 Submit
+748 Submitted, your feedback has been recorded
+749 Submitted
+750 To resolve your issue faster, please§
+751 sign in
+752  before submitting.
+753 Xiaomi service is always with you
+754 You're offline. You can get help in these ways:
+755 9:00-18:00 (local call rates)
+756 No driver support for ${n} yet
+757 Official driver support for ${n}
+758 Drivers are only provided for Xiaomi laptops
+759 Official driver support
+760 Battery & Performance
+761 Adjust performance mode to extend battery life or boost performance
+762 PC Cleanup
+763 Clean cache and junk files to free up storage
+764 Speed Up
+765 Check startup apps and optimize processes for a smoother PC
+766 Common PC tools
+767 Junk scan results won't be kept if you leave. Leave anyway?
+768 Stop cleaning junk files?
+769 Stop speed-up?
+770 Don't exit
+771 Exit anyway
+772 Drivers are being installed. Exiting now may cause serious system problems. Exit anyway?
+773 Leaving will stop the driver scan. Leave anyway?
+774 Leaving will stop the driver update. Leave anyway?
+775 Turn on notifications to see notifications from your phone
+776 Turn on
+777 Turn on related services so features work properly
+778 Turn on Quick earphone connect to pair nearby Bluetooth earphones fast
+779 In Battery saver, Mi File Transfer and Quick earphone connect can't make new connections. Press Fn+K to switch mode or view details.
+780 A new way to connect devices
+781 Xiaomi Interconnect: seamless device collaboration
+782 Sign in with the same Mi account on your phone or tablet
+783 Sign in to connect Xiaomi devices
+784 Supported models & FAQ
+785 h
+786 min
+787 Fully charged
+788 Battery care charging active
+789 Smart charging active
+790 Time to full
+791 Time left
+792  | Battery
+793 Battery health may be inaccurate on a new laptop until a few charge cycles are completed. Over time some battery wear is normal; contact service for a battery check or replacement.
+794 Xiaomi service centers
+795 Excellent
+796 Good
+797 Fair
+798 Battery health
+799 Battery care
+800 The battery won't charge to full to extend its lifespan
+801 Charges to full once when plugged in, then keeps around 80% to extend battery life.
+802 When on, the battery won't fully charge and battery life will be shorter
+803 Charging stops when the battery reaches the set level
+804 Keeping a lower charge extends battery lifespan but reduces runtime
+805 Select performance mode
+806 Dynamic performance
+807 Schedules hardware resources by usage to make foreground apps smoother and save power
+808 AI scheduling
+809 Schedules hardware resources by usage for better performance and battery life
+810 On battery, schedules hardware resources by usage for better performance and battery life
+811 Remote control
+812 Remote control download
+813 Remote control
+814 Control this PC from a Xiaomi Pad and launch PC apps in one tap
+815 Can't download right now
+816 , try again later
+817 Device migration
+818 Device migration download
+819 Device migration
+820 Move your old data to a new PC in one click
+821 Xiaomi PC Migration Assistant
+822 Drivers are updating automatically. You can change driver settings after the update finishes
+823 See more
+824 Collapse
+825 Feedback ID
+826 No feedback
+827 Loading timed out!
+828 You don't have any feedback yet!
+829 Try refreshing
+830 Refresh

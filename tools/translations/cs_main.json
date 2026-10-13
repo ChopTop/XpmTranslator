@@ -1,0 +1,4 @@
+{
+  "__sanitize__": "XiaomiPcManager.Services.OTAService::OnManualCheckUpdate:1;XiaomiPcManager.Services.OTAService::OnAutoInstallUpdate:1",
+  "__sanitize_text__": "Bug fixes and improvements."
+}

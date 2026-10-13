@@ -1,0 +1,540 @@
+0 Accept
+1 Add files
+2 To try Xiaomi HyperAI Search, open§
+3 Sent to§
+4 Canceled
+5 's global search > search settings, and allow "AI Search"
+6 Authorize AI Search on your phone
+7 Try connecting again and authorize on your phone
+8 Try connecting again and enter the correct lock screen password
+9 Authentication failed
+10 Phone authorization timed out/canceled
+11 's Settings > Interconnect > Permissions and allow file access
+12 Enable interconnect permission on your phone
+13 Allow this PC to access phone files
+14 Authorize on your phone
+15 Phone denied file access to this PC
+16 Phone status changed, please open§
+17 Enter the lock screen password to trust this PC
+18 More than 7 days since last access, please open§
+19 Re-enable cross-device authentication
+20 To keep phone files safe, set a lock screen password on the phone and a PIN or fingerprint on the PC
+21 Cross-device file access
+22 Bluetooth connection failed, pending transfers canceled. Check Bluetooth on both devices and resend
+23 You can use the camera of a nearby phone on the same Mi account for video calls.
+24  · In your video call app, choose the camera and select your Xiaomi phone.
+25  · The first time, approve the request on your phone; after that it works directly.
+26  · You can turn this off in your Xiaomi phone settings.
+27 Camera sharing
+28 Cancel all tasks
+29 Cancel
+30 File receiving canceled
+31 The other device canceled the transfer
+32 Sending canceled
+33 Cancel
+34 Cancel sending?
+35 " cast code
+36 Wrong code, please re-enter "
+37 Please enter "
+38 Cast verification
+39 Turn off mobile hotspot or wireless casting and try again
+40 Charging case
+41 View task list
+42 Client
+43 Close
+44 Open
+45 Connect
+46 Connect
+47 The other device is busy
+48 Go to "{0}" and turn off mobile hotspot
+49 Connected
+50 Connecting...
+51 Connection failed. Check your network and try again
+52 Connecting...
+53 Connecting...
+54 Connection failed, please retry
+55 Control Center
+56 1 h
+57 10 min
+58 30 min
+59 2 h
+60 Device busy
+61 Device Hub
+62 Discovering devices
+63 Keep Wi-Fi and Bluetooth on for phone and PC, signed in to the same Mi account
+64 Can't connect to phone
+65 Device went offline, task not created
+66 Device busy, try again later
+67 Searching for devices
+68 Make sure the receiver is visible
+69 Device collaboration
+70 Disconnect cross-screen
+71 Disconnected
+72 If no devices are found, make sure the TV and this PC are on the same Wi-Fi
+73 Not enough storage. Free up space and transfer again
+74 Download & install
+75 Drag files onto a device
+76 Drop files here
+77 Drop files here to send
+78 Transparency
+79 Keep moving the pointer to the edge to start sharing between PC and tablet
+80 File can't be sent
+81 File changed, please resend
+82  file(s)
+83 File name too long. Rename the file and try again
+84 Receive folder is invalid or unavailable, transfer failed
+85 Receive folder unavailable. Choose another folder and retry
+86 File context menu
+87 Got it
+88 Click the Control Center icon; double-click it to open the app.
+89 Click the icon to open Control Center
+90 From§
+91 §
+92 Verify
+93 Decline
+94 Download [{0}] on your PC for a better relay experience?
+95 You need to download [{0}] on your PC to use app relay. Download now?
+96 [{0}] is using this app. Download the mobile app engine and install [{1}] on your PC for a better relay experience.
+97 Installing
+98 Download the app for a better experience
+99 App not installed
+100 Download Yingyongbao for a better relay experience
+101 AMD graphics not ready
+102 Device Wi-Fi is in use, try again later
+103 Check driver status
+104 Connection refused
+105 Intel graphics not ready
+106 Disconnect external displays
+107 Settings need to be changed
+108 Driver update required
+109 Unknown error
+110 Payload send error
+111 left
+112 Connecting to Xiaomi Cloud...
+113 Mi File Transfer
+114 Can't find a device?
+115 Searching for supported devices
+116 Change projection settings: set "Projecting to this PC" to "Always off"
+117 Me
+118 Network error. Make sure Wi-Fi and Bluetooth are on, then retry
+119 No devices
+120 No devices nearby
+121 Noise cancelling
+122 Make sure the phone and PC use the same Mi account
+123 Phones on another account can't be added to the desktop
+124 Mic noise reduction
+125 Emphasizes voices so you hear the other side more clearly
+126 Speaker/headphone noise reduction
+127 OK
+128 {0} is using {1}, disconnect it first
+129 Turn on
+130 Couldn't open the file. Check if it's in use
+131 New version:§
+132 Another interconnect feature is in use, try again after it ends
+133 Others won't be able to find your device
+134 Not enough storage on the other device, sending stopped
+135 Please open§
+136 Device is in stealth mode and can't receive files
+137 Preparing to receive
+138 Preparing to send
+139 Preparing files...
+140 Hold the charging case button for 2 seconds
+141 Projection settings
+142 Received more than 200 files
+143 Receiving canceled
+144 Received§
+145 Receive failed
+146 Received
+147 Receiving
+148 Receiving files from§
+149 Recently connected
+150 Reconnect
+151 Declined by the other device
+152 The other device declined the files, sending stopped
+153 Retry
+154 right
+155 Context menu
+156 Same account devices
+157 s
+158 Send
+159 Sending more than 200 files
+160 Sending canceled
+161 Send failed
+162 Sent
+163  sent you§
+164 Settings
+165 This app has already been added
+166 Device hotspot is on, turn it off and retry
+167 Mi Share Desktop is off on the phone
+168 On your phone go to Settings > Interconnect and turn on Mi Share Desktop
+169 Too many windows. Close some windows before opening another app
+170 Go to "§
+171 " Settings > Interconnect > Permissions and allow screen access
+172 Grant permission on the connected device
+173 Not supported on this device
+174 Now§
+175 Hidden
+176 Transferred
+177 Later
+178 Restart
+179 Remind me after:
+180 Save your files before restarting
+181 System update
+182 Xiaomi PC Manager
+183 Task created
+184 Answer
+185 Hang up
+186 Decline
+187 Mute
+188 The other device won't receive this file
+189 Connection timed out, please retry
+190 To§
+191 Settings
+192 Transfer
+193 Transfer canceled
+194 Transfer problem, please retry
+195 Transfer failed
+196 Transfer declined
+197 Transferring
+198 Sending to§
+199 Enter the correct lock screen password
+200 Verify on your phone
+201 Enter PC password or fingerprint to trust
+202 Enable cross-device authentication
+203 Via§
+204 View
+205 Show in folder
+206 View received files
+207 Waiting for connection...
+208 Waiting from§
+209 Waiting to§
+210 Waiting for the other side to accept...
+211 To transfer files with another device, the current collaboration must be disconnected. Disconnect?
+212 All transfers with this device will be canceled
+213 You won't receive this file
+214 §
+215 top
+216 Account changed, check your account and try again.
+217 %. Turn on battery saver to keep using it
+218 AI Search
+219 This app is locked and can't be opened across devices
+220 From
+221 Phone music relay
+222 Can't collaborate or connect with the other device. Check its permissions and try again.
+223 bottom
+224 Bluetooth is off
+225 bottom
+226 Calculator
+227 Allow camera use on {0}
+228 Check whether another app is using the camera
+229 Check camera status
+230 Try again later
+231 Camera connection failed
+232 Connection failed
+233 Cross-device camera disconnected
+234 Camera unavailable. Click OK to open Device Manager and check that the camera is enabled
+235 Can't use camera
+236 This PC is using another interconnect feature, disconnect it first
+237 On {0} go to Settings > Interconnect > Permissions > Camera and allow this PC.
+238 After authorization, this device can use the camera of "{0}" to take photos and record video.
+239 On "{0}" go to Settings > Interconnect > Permissions > Camera and allow this PC
+240 Device busy, try again later.
+241 Turn off the phone hotspot and retry
+242 Camera sharing error
+243 Camera in use on the PC
+244 Make sure Bluetooth and Wi-Fi are on for both devices
+245 Clipboard
+246 Device busy, try again later.
+247 Pasted from
+248 Mirror screen to tablet
+249 Mirroring screen to tablet
+250 Mirror screen to TV
+251 Mirroring screen to TV
+252 Open now
+253 Device may not be nearby
+254 Connecting
+255 Connect earphones
+256 Copied to clipboard
+257 Phone camera
+258 Cross-device sketch
+259 Mirror 2nd screen
+260 Failed to load, please retry
+261 Device error
+262 The other device's hotspot is on, turn it off and retry
+263 Ring failed, please retry
+264 Device is ringing
+265 Combine with PC camera
+266 Hotspot
+267 KB & Mouse
+268 Cast
+269 Mi Share
+270 Transferred
+271 Cancel
+272 Transferring...
+273 Earphones
+274 Grant permission on {0}
+275 Device connection requires Wi-Fi. Turn it on?
+276 OK
+277 Exit now
+278 Extend screen to tablet
+279 Extending screen to tablet
+280 Extend screen to TV
+281 Extending screen to TV
+282 Drag the window out of the {0} edge of the screen
+283 Filters background noise so others hear you clearly. Single/multi-person modes aren't available with external devices
+284 Source file deleted
+285 File search
+286 Add Xiaomi PC Manager to the Windows Firewall allow list to enable device connection. Add now?
+287 Add
+288 Enable device connection
+289 Can't receive the camera feed from the connected device. Check that this PC's graphics are working, restart Bluetooth and Wi-Fi on both devices and retry.
+290 Switched to another device
+291 Net Sync
+292 h
+293 Internal error, please retry.
+294 Enable the AMD GPU in Device Manager > Display adapters and retry
+295 Can't cast to TV, AMD GPU disabled
+296 In Settings > Network & Internet turn off Mobile hotspot and retry.\nTry toggling Mobile hotspot off and on.
+297 Can't cast to TV, hotspot in use
+298 In Device Manager check that the Virtual Display and Virtual Audio drivers are working. Re-enable them if disabled, or reinstall Xiaomi PC Manager if they are missing
+299 Enable the Intel GPU in Device Manager > Display adapters and retry
+300 Can't cast to TV, Intel GPU disabled
+301 Share keyboard & mouse with tablet
+302 Sharing keyboard & mouse with tablet
+303 Another display is connected. Disconnect it to continue casting
+304 Can't cast to TV
+305 Right-click the desktop, open NVIDIA Control Panel > Manage 3D settings and set the preferred GPU to Auto-select or Integrated graphics
+306 Can't cast to TV, change GPU settings and retry
+307 Graphics driver is outdated. Update now?
+308 Cancel
+309 Update
+310 Driver update
+311 Check that Xiaomi PC Manager is installed correctly or restart the PC and retry
+312 Can't cast to TV, driver error
+313 Bottom left
+314 Top left
+315 Local camera unavailable
+316 Local camera failed to initialize
+317 Microphone unavailable, fix it and retry
+318 Mi Drop
+319 Camera is in a call and unavailable
+320 Cross-device camera connection failed
+321 Connection failed, camera offline
+322 Camera is asleep, wake it to use
+323 Device is updating, use it after the update
+324 Maximum connections exceeded
+325 min
+326 Casting requires stopping file transfer. Stop?
+327 Open phone desktop
+328 Using phone desktop
+329 More devices
+330 Xiaomi PC Manager isn't running, can't open phone apps.
+331 Start Xiaomi PC Manager first
+332 Switch now
+333 No networks nearby, you can use a hotspot
+334 Auto-connect next time: when a device on the same account has no internet, turn on the phone hotspot and connect (can be turned off in phone network sync settings)
+335 " hotspot
+336 Connect to "
+337 Bluetooth connection timed out
+338 The PC will use the connected device's hotspot for internet. Device connection will be smoother, but the phone/tablet will use more battery
+339 Switching to hotspot mode is recommended
+340 In the car, if this PC has no internet and the car hotspot is on, auto-connect to the car hotspot on the same account
+341 Auto-connect next time
+342 Auto-connected to "
+343 " personal hotspot. You can set a data limit on the phone's hotspot page
+344 Auto-enabled and connected to "
+345 Connect Bluetooth and Wi-Fi
+346 Network disconnected, check the network and retry.
+347 Turn on the microphone array and retry
+348 Failed to start
+349 Denoise
+350 Notepad
+351 Not signed in
+352 Don't show again
+353 Current
+354 Picks up voices directly in front of the screen so others hear you clearly
+355 Single voice
+356 Picks up voices 360° and from a distance so others hear everyone clearly
+357 Multi-voice
+358 After recording your voiceprint, your voice is tracked so others hear you more clearly
+359 Smart voice tracking
+360 Filters background noise so others hear you clearly
+361 Open Device Manager
+362 Turn on Wi-Fi
+363 Other interconnect features
+364 Pad is browsing
+365 Another display is connected, disconnect it and retry.
+366 In Device Manager check that the Xiaomi Bus Enumerator driver is working and re-enable it if disabled. If missing, reinstall Xiaomi PC Manager
+367 Unstable network, check it or reconnect
+368 Connection timed out, try again later
+369 Dragging folders isn't supported yet
+370 Can't connect to tablet. Make sure Bluetooth and Wi-Fi are on for PC and tablet and they're in range
+371 Can't get this file
+372 Local driver failed to load, check driver status and retry
+373 Unknown error, please retry
+374 Device offline, try again later
+375 Another display is connected. Disconnect it to continue collaboration
+376 Device busy, try again later
+377 This tablet's system doesn't support this feature. Update to MIUI 14 or later and retry
+378 Connecting to a tablet in portrait display mode isn't supported yet
+379 Remote control is in use on the tablet, disconnect it first
+380 Tablet driver failed to load, try again later
+381 Make sure Bluetooth and Wi-Fi are on for PC and tablet and they're in range
+382 File changed (renamed, deleted, etc.), please transfer again
+383 Can't connect to tablet
+384 Check the network
+385 Can't connect to tablet, AMD GPU disabled
+386 Can't connect to tablet, Intel GPU disabled
+387 Can't connect to tablet, change GPU settings and retry
+388 Device collaboration notice
+389 Update the tablet's system
+390 Connection interrupted
+391 Connection timed out
+392 Transfer interrupted
+393 In use on the PC
+394 Drag the mouse out of the {0} edge of the screen
+395 KB & mouse sharing failed. Make sure Bluetooth and Wi-Fi are on for PC and tablet and they're in range
+396 1. Open the new clipboard from the tray or Control Center to view and paste content copied on this PC and nearby devices\n2. Supports text, rich text, images, files and more
+397 Cross-device clipboard
+398 Phone is browsing
+399 Call answered on the PC
+400 Put on your earphones first
+401 Wear both earbuds first
+402 Center me
+403 Phone battery low
+404 Battery below
+405 Phone battery saver is on
+406 Battery saver on, exits automatically at 50% or full charge
+407 Try copying the source file again
+408 Retry
+409 Bottom right
+410 Top right
+411 Ring to find
+412 Stop ringing
+413 Screenshot
+414 Turn on related services so features work properly
+415 App uninstalled
+416 Speaker unavailable, fix it and retry
+417 Turn on service
+418 Stop transfer
+419 Subtitles
+420 Toolbox
+421 Task Manager
+422 In call |
+423 Call relay notice
+424 Call answered on another device
+425 top
+426 Cast to TV needs Wi-Fi and Bluetooth on
+427 Help
+428 Bluetooth and Wi-Fi are off
+429 Turn on to discover nearby devices for control and collaboration
+430 Wi-Fi is off
+431 Bluetooth or Wi-Fi is off
+432 This app doesn't support combined cameras yet
+433 Xiao Ai
+434 Agree
+435 After setup, pressing the key launches the selected function
+436 Custom app
+437 The app you assigned isn't working and can't start.\nCheck the app or set the key again.
+438 Reset
+439 App failed to start
+440 Battery is below 20%. Beast mode uses a lot of power; switching to Performance mode is recommended!
+441 Battery is below 30%. Beast mode uses a lot of power; switching to Smart mode is recommended!
+442 Battery is below 70%. Beast mode uses a lot of power; switching to Performance mode is recommended!
+443 Keep using
+444 Use Smart mode
+445 Use Performance mode
+446 Battery reminder
+447 Don't remind me again
+448 Exit Xiaomi PC Manager
+449 Download PDF
+450 No wireless earphones connected
+451 Exit
+452 Cancel ({0}s)
+453 With Battery saver on, only devices on the same Wi-Fi network can use interconnect features. Mi File Transfer and Quick earphone connect can't make new connections.
+454 Turn on anyway
+455 Turn on Battery saver
+456 Open app
+457 Battery saver is on. Only devices on the same Wi-Fi network can use interconnect features in this mode.
+458 Details
+459 Battery saver on
+460 You have the latest version
+461 Notice
+462 Update
+463 Beast mode needs AC power. Performance mode switched to Balanced
+464 Charger disconnected
+465 Beast mode needs AC power. Performance mode switched to Smart
+466 Network error, try again later
+467 Xiaomi PC Manager privacy policy
+468 Redo
+469 Cancel
+470 Gazing up, I see the bright moon; bowing my head, I think of home.
+471 Before my bed the moonlight glows, like frost upon the ground.
+472 Recording failed
+473 It's noisy around you. Record in a quiet place
+474 Done
+475 After clicking "Start recording", keep reading the text below until recording finishes:
+476 Record
+477 PC Assistant
+478 Can't check for updates
+479 Accept
+480 You already have a voiceprint. Recording again will replace it. Continue?
+481 Update voiceprint
+482 Record voiceprint
+483 Withdraw
+484 Withdraw failed, try again later
+485 Withdraw consent
+486 After exiting, nearby devices won't find {0}'s Xiaomi laptop. Exit?
+487 Recording timed out, please retry
+488 Recording with external devices isn't supported. Remove the device and retry
+489 Submission failed, please send the feedback again
+490 Feedback failed
+491 Submitted successfully
+492 Your feedback§
+493 Feedback submitted
+494 The microphone has a problem or is muted, so the voiceprint can't be recorded. Fix it and retry
+495 Softly I am leaving, just as softly as I came;\nI gently wave my hand, bidding farewell to the western clouds.\nThe golden willow by the river is a bride in the setting sun;\nher shimmering reflection ripples in my heart.\nQuietly I am leaving, just as quietly as I came;\nI wave my sleeve and take not a single cloud with me.
+496 Recording service unavailable, voiceprint can't be recorded. Fix it and retry
+497 Driver update finished, restart the PC to apply
+498 Restart
+499 Restart later
+500 Driver update finished
+501 System error, please retry
+502 Driver updates found, updating drivers to improve your experience
+503 Driver update found
+504 Not now
+505 Undo ( {0} s )
+506 Source: Mic
+507 Source: Mixed
+508 Source: System
+509 Also export audio
+510 Export failed
+511 Exporting......
+512 Export location
+513 Subtitles exported
+514 Subtitles and audio exported
+515 Export
+516 Hide original
+517 Language: English
+518 Language: Chinese
+519 Listening to microphone...
+520 Listening to system and microphone...
+521 Listening to system audio...
+522 Sign-in failed, please retry.
+523 Sign-in failed
+524 Sign in to your Mi account to use subtitle transcription.
+525 Sign in to Mi account
+526 Sign in
+527 Microphone problem, try again later
+528 Microphone problem
+529 Account sign-in
+530 Network disconnected, retry when online
+531 Network disconnected
+532 Don't remind me again
+533 Bilingual
+534 Close the panel and stop recognition? Recognized subtitles won't be saved.
+535 Stop recognition
+536 End
+537 Subtitles will be exported as a .txt file. Choose a location:
+538 Export subtitles
+539 No sound detected yet. Use it during a meeting or video

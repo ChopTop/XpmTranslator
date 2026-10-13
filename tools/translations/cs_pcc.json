@@ -1,0 +1,16 @@
+{
+  "照片": "photo(s)",
+  "视频": "video(s)",
+  "文件": "file(s)",
+  "动态照片": "live photo(s)",
+  " | 来自": " | from ",
+  "来自": "From ",
+  "接收": "Receive ",
+  "正在接收": "Receiving ",
+  "传输完成": "Transfer complete",
+  "传输失败": "Transfer failed",
+  "传输已取消": "Transfer canceled",
+  "本设备正在使用耳机自动连接": "This device is using earphone auto-connect",
+  "您可在多个同账号的小米设备间跟随音频焦点自动切换，若需使用双设备连接，可先在控制中心-耳机-耳机设置卡片中关闭自动连接开关，再需要连接的手机或平板中打开双设备连接": "Earphones switch automatically between Xiaomi devices on the same account following audio focus. To use dual-device connection, turn off auto-connect in Control Center > Earphones > settings card, then turn on dual-device connection on the phone or tablet you want to connect",
+  "知道了": "Got it"
+}

@@ -1,0 +1,257 @@
+[Unofficial English translation. The original Chinese text of this policy is the legally binding version.]
+
+Our privacy policy was updated on December 2, 2025.
+
+Please take some time to get familiar with our privacy policy. If you have any questions, please contact us.
+
+Introduction
+Xiaomi PC Manager is software pre-installed on Xiaomi laptops. It is provided by Xiaomi Inc. and its affiliates (hereinafter "Xiaomi" or "we") to Xiaomi laptop users and offers on-device services and device connectivity services. On-device services include hardware and software information, FAQ search, driver repair and updates, disk cleanup, system acceleration, AI screen brightness adjustment, AI smart scheduling, AI file search, feedback, after-sales service, push notifications and more. Device connectivity services include transferring files, media, apps, information and other content between devices, as well as mutual control and collaboration between devices. The Xiaomi PC Manager services described in this privacy policy may differ depending on your device model, system version, app version and other factors; the services actually supported by the Xiaomi PC Manager you use shall prevail.
+
+We take your privacy very seriously. This privacy policy is Xiaomi's statement and commitment regarding privacy for Xiaomi PC Manager and is an important part of the Xiaomi Privacy Policy. Where special provisions for Xiaomi PC Manager are inconsistent with the Xiaomi Privacy Policy, this privacy policy shall prevail; for matters not covered by this privacy policy, the Xiaomi Privacy Policy shall prevail. In particular, regarding "protection of minors' information, security measures and cross-border transfers", we recommend that you read the Xiaomi Privacy Policy (https://privacy.mi.com/all/zh_CN/) carefully.
+
+This privacy policy was written with your needs fully in mind. It is essential that you fully understand our practices for collecting and using personal information, and that you ultimately have control over the personal information you provide to us. This privacy policy sets out how we collect, use, disclose, process and store the information you provide when using Xiaomi PC Manager. In this privacy policy, "personal information" means data that can identify a specific individual, either on its own or in combination with other information. We will use such information in strict compliance with this privacy policy.
+
+Finally, we want to bring our users the best possible experience. If you have any questions about the personal information processing practices described in this privacy policy, please contact us at https://privacy.mi.com/support so that we can address your specific needs.
+
+1. What information we collect and how we use it
+We follow the principles of legitimacy, lawfulness, transparency and necessity, and, for the purposes described in this privacy policy, collect and use the personal information that you actively provide or that is generated while you use our products and/or services. If we intend to use your personal information for purposes not stated in this privacy policy, or to use personal information collected for a specific purpose for another purpose, we will inform you in a reasonable manner and ask for your consent again before such use.
+
+Please note that sensitive personal information is highlighted in "bold" as a special reminder, and we ask you to pay particular attention to it when reading. Before you provide any sensitive personal information to us, you have carefully considered and hereby confirm that providing it is appropriate, and you hereby agree that your sensitive personal information may be processed for the purposes and in the manner described in this policy.
+
+(1) Cases in which you must authorize us to collect and use your personal information
+We collect personal information in order to provide products and/or services to you and to ensure that we comply with applicable laws, regulations and other normative documents. You may choose whether to provide this information, but in most cases, if you do not provide it, we may be unable to provide the corresponding service or respond to the problems you encounter. The features include:
+
+1. On-device services
+(1) My PC
+
+You can sign in with your Xiaomi Account. After sign-in, your Xiaomi Account ID, nickname and avatar are shown on the PC Manager home page; this information is retrieved from the Xiaomi Account server and displayed. In "My PC" you can view the hardware configuration of this device, change system settings, look up driver downloads and view the shortcut guide and user manual. For this purpose we collect your hardware configuration information (including model, product serial number, motherboard, CPU, graphics card, operating system, hard disk, memory, display, sound card and network adapter configuration); this data is kept only locally on the device. To provide display settings adjustment, when you change display settings we need to collect your product serial number in order to recommend the best screen color calibration profile. To provide hotkey service updates, we collect your device model and the installed hotkey service version to determine whether a new version is available.
+
+(2) Meeting assistant
+
+We provide a meeting assistant feature that supports meeting app management, auto framing, noise reduction and live captions. Live captions require you to sign in with a Xiaomi Account; we collect your Xiaomi Account ID, microphone sound and system audio and upload them to the server for speech-to-text conversion and to generate real-time captions. If you turn on translation, the captions will show the translation.
+
+(3) Driver management
+
+In "Driver management" you can scan, repair and update your device's drivers to keep your device running stably. For this purpose we collect your product serial number to find drivers that match your device.
+
+(4) AI smart scheduling
+
+We provide AI smart scheduling, which intelligently switches the performance state of the current device, including CPU/GPU state and memory state. For this purpose we collect screenshot information, device status information and the usage status of the camera, microphone and speakers. Rest assured that this information is processed only locally and is not uploaded to the cloud.
+
+(5) AI screen brightness adjustment
+
+To provide smart screen brightness adjustment, we collect screenshot information. Rest assured that this information is processed only locally and is not uploaded to the cloud.
+
+(6) AI file search
+
+To provide smart search for images, videos, audio and other files, we collect information about the files stored locally on your device (including file (folder) name, content, size, time, type, location and the name of the disk partition the file is on). Rest assured that this information is processed only locally and is not uploaded to the cloud.
+
+(7) Inhouse installation guide
+
+We provide the Inhouse installation guide, through which you can download software suited to the current device's system, such as Xiaomi PC Manager or Xiao AI. For this purpose we collect your device's unique identifier (SN), system version number and Xiaomi PC Manager version number.
+
+(8) Performance modes
+
+We provide performance modes, through which you can switch the performance mode of the current device automatically or manually. Adjustments include the Windows power mode, screen backlight brightness, keyboard backlight brightness, CPU/GPU state and memory state.
+
+(9) Service and feedback
+
+Through "Service and feedback" you can search FAQs, view Xiaomi's after-sales policy and service centers, submit feedback and contact online customer service.
+
+1) When you search FAQs, we collect your search keywords to show you search results. Search keywords are not associated with your device or your Xiaomi Account. Please note that your search keywords alone cannot identify you and are not your personal information, and we have the right to use them; only when your search keywords are combined with your other information and can identify you will we, for the duration of such combined use, treat them as your personal information and process and protect them together with your search history in accordance with this privacy policy. Rest assured that we only provide search results based on your keywords and do not perform search result optimization.
+
+2) If you run into a problem with your laptop, you can submit feedback or suggestions to us. To help us locate the problem, we need to collect your device information (including device model and name, operating system version and device status information), configuration choices, usage information of the device (and its related components) and product features, Xiaomi PC Manager version, feedback type, problem description, problem type and time of occurrence. To make it easier to locate the problem and reply to you in time, when submitting feedback you can choose to provide your contact details (mobile number or email address); we may use them to follow up with you and ask further questions about the problem.
+
+Some problems require user logs for analysis and diagnosis. You can choose to tick "upload problem logs"; in this case, depending on the problem you report, the logs we capture differ, and so does the personal information they contain.
+
+2. Device connectivity services
+(1) Account sign-in
+
+To connect and share between your Xiaomi PC and other devices, we collect your device identifier (SN) and Xiaomi Account information and use this information locally for security verification of device connectivity features. You can sign in to your Xiaomi Account by scanning a QR code, with your account, or by one-tap authorization from another signed-in app. After sign-in, your Xiaomi Account ID, nickname and avatar are shown on the PC Manager home page; this information is retrieved from the Xiaomi Account server and displayed.
+
+(2) Cross-device connection and sharing
+
+To connect and share between your Xiaomi PC and other Xiaomi devices such as phones, tablets, TVs and earphones, and to provide control and collaboration between devices, transfer of information and files, and cross-device screen mirroring and extension, we need to collect the device identifier (SN), device name, device ID, Xiaomi Account ID, device type, device model, IP address, Bluetooth MAC address, WLAN MAC address and WLAN SSID of the device you are using and of the device to be connected, in order to determine whether pairing is supported, to establish near-field connections and to record feature usage. Rest assured that this information is used only to make these determinations and provide the related features, and not for any other purpose.
+
+This service transfers data between devices via Bluetooth or WLAN. Except for the device ID, Xiaomi Account ID, device type, device name, device identifier (SN), IP address and the hashed WLAN SSID, which are uploaded to the server, no other data is uploaded.
+
+(3) Device center
+
+To make device connectivity services easier to use, we provide a device control entry point: in the device center you can see nearby devices and operate them. To display phones, tablets, TVs and Bluetooth earphones, we may need to collect your device type and device name to synchronize and display the related device information.
+
+(4) App continuity
+
+We provide app continuity, which lets apps move between and be used on different devices. To implement this feature we may collect information about the app you are using (including package name, name and icon) to show the app continuity notification; you can tap the notification shown on the other device to open the app to continue.
+
+(5) Cross-device information transfer
+
+We provide cross-device notifications and a cross-device clipboard. With cross-device notifications you can receive notifications from your phone on your laptop. With the cross-device clipboard you can copy text, images and files and paste them on other devices signed in to the same Xiaomi Account; to implement this feature we may need to collect the text, images and files you copy in order to transfer them. Rest assured that we do not actually read or store the content of this information.
+
+(6) Screen mirroring and extension
+
+We provide screen mirroring and extension, through which you can mirror the device screen or a window to another tablet or TV, or use another tablet or TV as an extended display for this device.
+
+(7) Earphone connection and control
+
+We provide earphone connection and control, through which you can quickly connect and control earphones on your PC. For this purpose we collect your Xiaomi Account and PC model.
+
+(8) Hardware collaboration
+
+We provide hardware collaboration across multiple devices. With keyboard and mouse collaboration you can share your laptop's keyboard and mouse with a tablet for input control and drag files across devices; for this purpose we collect your files and keyboard and mouse key events. With camera collaboration you can use another device's camera for recording, taking photos and preview; for this purpose we collect the camera video streams of this device and the other devices. With network collaboration you can turn on and connect to your phone's hotspot with one tap. With call collaboration you can receive calls from a phone on the same local network on your laptop; for this purpose we collect your microphone audio stream. Rest assured that this information is processed only locally and is not uploaded to the cloud.
+
+(9) Controlling the PC with wearables
+
+We provide control of the PC with wearable devices, through which you can use a wearable to turn pages on your PC. For this purpose we collect your wearable's key events. Rest assured that this information is processed only locally and is not uploaded to the cloud.
+
+(10) Xiaomi Audio Relay
+
+We provide cross-device audio transfer, which lets the audio content on your device be cast directly to a PC on the same local network for playback, with seamless switching of audio between devices. For this purpose we collect your Xiaomi Account, device identifiers (device ID, SN), device name, device model, WLAN MAC address and system volume. Rest assured that this information is processed only locally and is not uploaded to the cloud.
+
+(11) Mi Share
+
+We provide Mi Share, through which you can send files on your device to other smart devices nearby. For this purpose we collect your PC's device name, manufacturer, WLAN SSID, WLAN channel, file names and file content. Rest assured that this information is processed only locally and is not uploaded to the cloud.
+
+(12) Tap to transfer
+
+We provide tap to transfer: after you tap your phone on the PC's NFC area, files are transferred quickly. For this purpose we collect your Bluetooth address and NFC tag content. Rest assured that this information is processed only locally and is not uploaded to the cloud.
+
+(13) Cross-device files
+
+We provide cross-device files, through which you can search, access, open or edit, on the current device, files on other smart devices (phones, tablets, etc.) signed in to the same Xiaomi Account. For this purpose we collect your device type, device name, product type, IP address, device MAC address and file information (including file name and file content). To ensure secure transfer of your files we perform cross-device identity authentication; for this purpose we collect your service ID (calculated from the device ID, the device's unique FID and the Xiaomi Account). Rest assured that this information is processed only locally and is not uploaded to the cloud.
+
+(14) Phone desktop sharing
+
+We provide phone desktop sharing, through which you can open your phone's desktop on your laptop and operate the device screen. For this purpose we collect your files and keyboard and mouse key events. Rest assured that this information is processed only locally and is not uploaded to the cloud.
+
+3. Control Center
+To make Xiaomi PC Manager features easier to use, we provide a central control entry point: in the "Control Center" you can directly choose on-device services, or see nearby devices and control and collaborate with them. After you agree to our privacy policy, some of the services above start automatically at boot so that we can provide you with more efficient and smoother service.
+
+(2) You are fully aware that in the following cases we may collect and use personal information without your consent:
+1. Matters related to national security and national defense security;
+
+2. Matters related to public safety, public health and major public interests;
+
+3. Matters related to criminal investigation, prosecution, trial and enforcement of judgments;
+
+4. To protect major lawful rights and interests such as the life and property of the personal information subject or other individuals, where it is difficult to obtain the person's consent;
+
+5. The personal information collected has been made public by the personal information subject;
+
+6. Your personal information is collected from legally and publicly disclosed information, such as lawful news reports and government information disclosure;
+
+7. Necessary to conclude a contract at your request;
+
+8. Necessary to maintain the safe and stable operation of the products and/or services provided, for example to discover and handle product and/or service failures;
+
+9. Necessary for lawful news reporting;
+
+10. Necessary for academic research institutions to carry out statistical or academic research in the public interest, provided that the personal information contained in published research results or descriptions is de-identified.
+
+(3) Cases in which we obtain your personal information from third parties
+Where permitted by law, we may obtain your personal information from third parties. For example, for security and anti-fraud purposes, for services such as specific accounts, we verify your information through lawful sources with your authorization; information from third-party platforms, such as account and nickname, when you authorize sign-in to our services with a third-party account or authorize its import; and information about you provided by others or arising from their actions, such as a delivery address for you entered by another user in Xiaomi Store.
+
+(4) Non-personal information
+We may also collect other information that cannot identify a specific individual (that is, information that is not personal information), such as statistical data generated when you use specific services, for example device-related information, daily active events, page visit events, page visit duration events, session events, device and feature exception events and configuration choices; network monitoring data such as request duration and the number of requests and failed requests; and app crash events. We collect this information to improve the services we provide to you. The categories and amount of information collected depend on how you use our products and/or services. We collect information related to your activity on our websites or mobile apps, such as unique device identifiers, device model and system version. We aggregate this information to help us provide more useful information to our customers and to understand which parts of our websites, products and/or services interest customers most. For the purposes of this privacy policy, aggregated data is considered non-personal information. If we combine non-personal information with personal information, such information will be treated as personal information for the duration of the combined use.
+
+2. How we share, transfer and publicly disclose your personal information
+(1) Sharing:
+We do not sell any personal information to third parties. We may sometimes share your personal information with third parties in order to provide or improve our products and/or services, including providing products and/or services at your request. If you no longer wish to allow us to share this information, please contact us at https://privacy.mi.com/support.
+
+1. Sharing you actively choose
+With your explicit consent or at your active choice, we share information within the scope you authorize with third parties you designate.
+
+2. Sharing within our group
+To conduct business smoothly and provide you with all the functions of our products and/or services, we may from time to time share your personal information with other Xiaomi affiliates.
+
+3. Sharing your personal information with third-party service providers
+Some services in this business are provided by third-party service providers, so we need to provide some of your personal information to them. See (https://privacy.mi.com/PCManager_SDK/zh_CN/) for the cases in which we share your personal information with affiliates, partners and third parties. If we share your personal information with these third parties, we will use encryption and other means to protect your information. We will reasonably review the data security environment of the companies and organizations with which we share personal information, sign strict data processing agreements with them, and require them to take adequate measures to protect your information and strictly comply with relevant laws, regulations and regulatory requirements.
+
+(2) Transfer
+Xiaomi will not transfer your information to any entity except in the following cases:
+
+• With your explicit consent.
+
+• If Xiaomi is involved in a merger, acquisition or sale of all or part of its assets that may affect your personal information, we will notify you by email and/or a prominent notice on our website or by other appropriate means of any change in ownership or use of your personal information, and of any choices you may have regarding your personal information.
+
+• In cases explained in this privacy policy or otherwise notified to you.
+
+(3) Public disclosure
+Xiaomi may publicly disclose your personal information in the following cases: • When we need to announce the winners of promotions, contests or sweepstakes, we will only publish limited information.
+
+• When we have obtained your explicit consent, or you have disclosed the information through our services such as social media pages or public forums.
+
+• Public disclosure based on law or reasonable grounds: including laws and regulations, legal procedures, litigation or requests from competent government authorities.
+
+3. How we store and protect your personal information
+(1) Security measures
+We are committed to keeping your personal information secure. To prevent unauthorized access, disclosure or other similar risks, we have implemented all legally required physical, electronic and administrative procedures to protect the information we collect from your mobile device. We will ensure that your personal information is protected in accordance with applicable law.
+
+All of your personal information is stored on secure servers and protected in controlled facilities. We classify your information by importance and sensitivity and ensure that your personal information has the corresponding level of security. Likewise, we have dedicated access controls for cloud-based data storage, and we regularly review our information collection, storage and processing practices, including physical security measures, to prevent any unauthorized access and use.
+
+We conduct due diligence on third-party service providers and business partners to ensure they are capable of protecting your personal information. We also check whether third parties apply appropriate security standards by imposing appropriate contractual restrictions and, where necessary, conducting audits and assessments. In addition, we ensure that employees, third-party service providers and business partners who access this information to help provide products and/or services to you are bound by strict contractual confidentiality obligations.
+
+We hold security and privacy protection training courses and tests to raise our employees' awareness of the importance of protecting personal information. We will take all feasible and legally required measures to protect your personal information. However, you should be aware that use of the internet is not always secure, so we cannot guarantee the security or integrity of any personal information transmitted in either direction over the internet.
+
+We will handle personal information breaches as required by applicable data protection regulations and, where necessary, promptly notify the relevant supervisory authorities and data subjects of the breach.
+
+(2) What can you do?
+You can avoid disclosing your sign-in password or account information to anyone (unless formally authorized by you), and you can set a unique password for Xiaomi to prevent password leaks on other websites from compromising the security of your Xiaomi account. At no time should you disclose a verification code you receive to anyone (including people claiming to be Xiaomi customer service). Whenever you sign in to Xiaomi as a Xiaomi Account user, especially on someone else's computer or a public internet terminal, you should always sign out at the end of the session.
+
+When you leave Xiaomi PC Manager products and/or services and browse or use other products and/or services provided by third parties, the privacy statements or related policies of those third parties apply to any personal information you provide to them. Once you leave Xiaomi PC Manager products and/or services, we have no ability or direct obligation to protect any personal information you provide to third parties; please protect your personal information properly and read the privacy statements or related policies of those third parties carefully.
+
+Xiaomi is not responsible for security lapses caused by third-party access to your personal information resulting from your failure to keep your personal information private. Notwithstanding the above, if any other internet user uses your account without authorization or any other security breach occurs, you should notify us immediately.
+
+Your assistance will help us protect the privacy of your personal information.
+
+(3) Retention policy
+We retain personal information for the period necessary for the purposes of collection described in this privacy policy, or as required by applicable law. We will stop retaining personal information and delete or anonymize it once the purpose of collection has been fulfilled, after we confirm your request for deletion or account closure, or after we stop operating the corresponding product and/or service. If it is for purposes of public interest, scientific or historical research or statistics, we will continue to retain the relevant data in accordance with applicable law, even if further processing is unrelated to the original purpose of collection. Your information will be stored within the People's Republic of China.
+
+4. Your rights
+(1) Control settings
+We recognize that privacy concerns differ from person to person. Therefore, we provide some examples of the ways Xiaomi PC Manager offers for you to limit the collection, use, disclosure or processing of your personal information and to control your privacy settings:
+
+• You can submit a request to withdraw consent via "Settings - About - View privacy policy - Withdraw consent".
+
+If you previously agreed to our use of your personal information for the purposes above, you can change your decision at any time in writing or by contacting us at https://privacy.mi.com/support.
+
+(2) Your rights regarding your personal information
+Depending on the laws and regulations of the country or region that apply to you, you have the right to request access to, correction of and deletion of any personal information about you that we hold (hereinafter "requests").
+
+For more details about the personal information in your Xiaomi Account, you can access, change and delete it at https://account.xiaomi.com/ or by signing in to your account on your device. For other information, please write to us or contact us at https://privacy.mi.com/support.
+
+Most laws require requests from personal information subjects to follow specific requirements. This privacy policy requires that your request meet the following conditions:
+
+• It is made through our dedicated request channel and, to protect the security of your information, in writing (unless local law explicitly recognizes verbal requests);
+
+• It provides enough information for us to verify your identity and ensure that the requester is the subject of the requested information or a lawfully authorized person;
+
+Once we have enough information to confirm that we can process your request, we will respond within the time required by applicable data protection law. Specifically:
+
+• Based on your request and applicable law, we can provide free of charge a record of the personal information about you that we have collected and processed. If you make other requests regarding the relevant information, we may charge you a reasonable fee based on applicable law and the actual administrative cost.
+
+• If you believe that any information we hold about you is incorrect or incomplete, you can request that the personal information be corrected or completed based on the purpose of use.
+
+• Depending on the laws and regulations that apply to you, you have the right to ask us to delete your personal data. We will assess your deletion request and, if it meets the relevant requirements, take appropriate steps, including technical measures, to process it. After you delete, or we help you delete, the relevant information, we may be unable to delete it from backup systems immediately due to applicable law and security technology; we will securely store your personal information and isolate it from any further processing until the backup can be cleared or anonymized. For example, under the E-Commerce Law of the People's Republic of China, information about your goods and services and transaction information must be retained for no less than three years from the date the transaction is completed.
+
+We have the right to refuse to process requests that are meaningless or repetitive and vexatious, requests that would infringe the privacy of others, extremely impractical requests, requests requiring disproportionate technical effort, requests that need not be granted under local law, information that is already public, and information given under conditions of confidentiality. We may also refuse if we believe that certain aspects of a request to delete or access data could prevent us from lawfully using the data for the anti-fraud and security purposes described above.
+
+(3) Obtaining a copy of your personal information
+You can obtain a copy of your personal information by contacting us at https://privacy.mi.com/support. After verifying your identity, we will provide, at your request, the personal information you provided while using our services.
+
+(4) Withdrawing consent
+You can submit a request to withdraw consent, including to the collection, use and/or disclosure of your personal information that we hold or control, via "Settings - About - View privacy policy - Withdraw consent". Depending on the specific service you use, you can contact us at https://privacy.mi.com/support to do so. We will process your request within fifteen working days after you make it and, in accordance with your request, will no longer collect, use and/or disclose your personal information thereafter. Please note that withdrawing consent has certain legal consequences. Depending on the scope of processing you authorized, it may mean that you can no longer enjoy Xiaomi's products and/or services. However, your decision to withdraw consent or authorization does not affect personal information processing previously carried out based on your authorization.
+
+(5) Closing a service or account
+If you wish to close a specific product and/or service and the privacy policy of that product and/or service specifies how, you can apply to close the service that way; unless otherwise specified, you can contact us at https://privacy.mi.com/support to close the service.
+
+If you wish to close your Xiaomi Account, please be careful, because closing it will prevent you from using all Xiaomi products and/or services. To protect the lawful rights and interests of you or others, we will determine whether to support your closure request based on your use of Xiaomi products and/or services. For example, if there are unpaid installments, we cannot support your request immediately.
+
+5. Third-party websites and services
+Our privacy policy does not apply to products and/or services provided by third parties. Depending on the products and/or services you use, they may include third-party products and/or services, provided for example as links to third-party websites or integrated as SDKs, APIs and similar. These products and/or services may also collect your information when you use them. Therefore, we strongly recommend that you take the time to read the third party's privacy policy just as you read ours. We are not responsible for, and cannot control, how third parties use the personal information they collect from you. Our privacy policy does not apply to other websites linked through our services.
+
+6. Contact us
+We have a dedicated personal information protection department. If you have any comments or questions about this privacy policy, or any questions about our collection, use or disclosure of your personal information, please contact us at the address below or at https://privacy.mi.com/support. We will generally reply within fifteen working days. We have a professional team to handle your requests regarding personal information rights and your questions. If your question involves a significant matter, we may ask you for more information. If you are not satisfied with the reply you receive, you can refer your complaint to the relevant supervisory authority in your jurisdiction. If you consult us, we will provide information on applicable complaint channels based on your actual situation.
+
+Address: No. 018, 8th Floor, Building 6, Yard 33, Middle Xierqi Road, Haidian District, Beijing, China
+
+Postal code: 100085

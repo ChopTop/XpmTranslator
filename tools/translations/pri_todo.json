@@ -1,0 +1,3308 @@
+[
+{
+"zh": "接收",
+"names": [
+"PcControlCenter/Resources/Accept/Text",
+"PcControlCenter/Resources/Receive/Text"
+]
+},
+{
+"zh": "添加文件",
+"names": [
+"PcControlCenter/Resources/AddFile/Text"
+]
+},
+{
+"zh": "若想体验\"小米澎湃AI搜索\"，请打开",
+"names": [
+"PcControlCenter/Resources/AISearchContent/Text"
+]
+},
+{
+"zh": "已向",
+"names": [
+"PcControlCenter/Resources/AleadyDirectedTo/Text"
+]
+},
+{
+"zh": "已取消",
+"names": [
+"PcControlCenter/Resources/AleradyCancel/Text"
+]
+},
+{
+"zh": "的全局搜索-搜索设置-设置项，同意\"AI搜索\"权限",
+"names": [
+"PcControlCenter/Resources/AuthAISearchContent/Text"
+]
+},
+{
+"zh": "建议前往手机进行AI搜索服务授权",
+"names": [
+"PcControlCenter/Resources/AuthAISearchTitle/Text"
+]
+},
+{
+"zh": "请重新尝试连接，并在手机上进行授权",
+"names": [
+"PcControlCenter/Resources/AuthFailContent/Text"
+]
+},
+{
+"zh": "请重新尝试连接，并且根据提示输入正确的锁屏密码",
+"names": [
+"PcControlCenter/Resources/AuthFailPinContent/Text"
+]
+},
+{
+"zh": "身份认证授权失败",
+"names": [
+"PcControlCenter/Resources/AuthFailPinTitle/Text"
+]
+},
+{
+"zh": "手机授权已超时/取消",
+"names": [
+"PcControlCenter/Resources/AuthFailTitle/Text"
+]
+},
+{
+"zh": "的设置-互联互通-互联权限设置，授权文件权限后使用",
+"names": [
+"PcControlCenter/Resources/AuthGuideContent/Text",
+"PcControlCenter/Resources/AuthRejectContent/Text"
+]
+},
+{
+"zh": "前往手机开启互联权限",
+"names": [
+"PcControlCenter/Resources/AuthGuideTitle/Text"
+]
+},
+{
+"zh": "允许此电脑访问手机文件",
+"names": [
+"PcControlCenter/Resources/AuthingContent/Text"
+]
+},
+{
+"zh": "前往手机进行授权",
+"names": [
+"PcControlCenter/Resources/AuthingTitle/Text"
+]
+},
+{
+"zh": "手机拒绝本机访问文件",
+"names": [
+"PcControlCenter/Resources/AuthRejectTitle/Text"
+]
+},
+{
+"zh": "手机状态发生变化，请打开",
+"names": [
+"PcControlCenter/Resources/AuthRiskChangeContent/Text"
+]
+},
+{
+"zh": "输入锁屏密码以信任此电脑",
+"names": [
+"PcControlCenter/Resources/AuthRiskContent/Text"
+]
+},
+{
+"zh": "距离上次访问已超过7天，请打开",
+"names": [
+"PcControlCenter/Resources/AuthRiskTimeoutContent/Text"
+]
+},
+{
+"zh": "重新启用跨设备身份认证",
+"names": [
+"PcControlCenter/Resources/AuthRiskTitle/Text"
+]
+},
+{
+"zh": "为保证手机文件安全，建议手机设置锁屏密码，电脑设置PIN或指纹",
+"names": [
+"PcControlCenter/Resources/AuthTipPinContent/Text"
+]
+},
+{
+"zh": "跨设备访问文件",
+"names": [
+"PcControlCenter/Resources/AuthTipPinTitle/Text"
+]
+},
+{
+"zh": "蓝牙连接失败，未传输任务已取消，请确认双方设备蓝牙状态后，重新发送",
+"names": [
+"PcControlCenter/Resources/BleError/Text"
+]
+},
+{
+"zh": "您可使用附近相同小米账号的手机摄像头来进行视频通话。",
+"names": [
+"PcControlCenter/Resources/CameraPopUpPageContent1/Text"
+]
+},
+{
+"zh": " · 在视频通话的应用中点击选择摄像头，直接选中小米手机即可使用。",
+"names": [
+"PcControlCenter/Resources/CameraPopUpPageContent2/Text"
+]
+},
+{
+"zh": " · 首次使用需要您在手机上同意授权，后续即可直接调用。",
+"names": [
+"PcControlCenter/Resources/CameraPopUpPageContent3/Text"
+]
+},
+{
+"zh": " · 您可在小米手机设置中关闭此功能。",
+"names": [
+"PcControlCenter/Resources/CameraPopUpPageContent4/Text"
+]
+},
+{
+"zh": "摄像头协同",
+"names": [
+"PcControlCenter/Resources/CameraPopUpPageTitle/Text"
+]
+},
+{
+"zh": "取消所有任务",
+"names": [
+"PcControlCenter/Resources/CancelAllTasks/Text"
+]
+},
+{
+"zh": "取消",
+"names": [
+"PcControlCenter/Resources/CancelBtn/Content",
+"PcControlCenter/Resources/CancelButton/Text",
+"PcControlCenter/Resources/Common_Cancel",
+"PcControlCenter/Resources/NetCollab_Cancel",
+"Resources/AppStartFailedCancelBtn/Content",
+"Resources/CloseNotifyPageCancelButton/Content",
+"Resources/FirstPowerSavePopUp/cancelText",
+"Resources/OTACancelUpdateButton/Content",
+"Resources/OTAPromptCancelButton/Content",
+"Resources/RecordCancelUpdateButton/Content",
+"Resources/RecordFailCancelButton/Content",
+"Resources/RecordPageCancelButton/Content",
+"Resources/UnableUpdateCancelButton/Content",
+"Resources/WithdrawAgreementCancelButton/Content",
+"Resources/WithdrawCancelButton/Content",
+"SubtitleTranscriptor/Resources/CancelTxt"
+]
+},
+{
+"zh": "已经取消接收文件",
+"names": [
+"PcControlCenter/Resources/CanceledReceive/Text"
+]
+},
+{
+"zh": "对方已取消互传文件",
+"names": [
+"PcControlCenter/Resources/CanceleDrop/Text"
+]
+},
+{
+"zh": "已取消发送",
+"names": [
+"PcControlCenter/Resources/CanceledSend/Text"
+]
+},
+{
+"zh": "取消接收",
+"names": [
+"PcControlCenter/Resources/CancelReceiving/Text",
+"PcControlCenter/Resources/ClipboardSyncLButton"
+]
+},
+{
+"zh": "取消发送?",
+"names": [
+"PcControlCenter/Resources/CancelSending/Text"
+]
+},
+{
+"zh": "”的投屏码",
+"names": [
+"PcControlCenter/Resources/CastVerifyEndDes/Text"
+]
+},
+{
+"zh": "验证码错误，请重新输入“",
+"names": [
+"PcControlCenter/Resources/CastVerifyErrorStartDes/Text"
+]
+},
+{
+"zh": "请输入“",
+"names": [
+"PcControlCenter/Resources/CastVerifyStartDes/Text"
+]
+},
+{
+"zh": "投屏验证",
+"names": [
+"PcControlCenter/Resources/CastVerifyTitle/Text"
+]
+},
+{
+"zh": "请关闭移动热点或无线投屏后重试",
+"names": [
+"PcControlCenter/Resources/ChannelOccupied/Text"
+]
+},
+{
+"zh": "充电盒",
+"names": [
+"PcControlCenter/Resources/ChargingBox/Text"
+]
+},
+{
+"zh": "查看任务列表",
+"names": [
+"PcControlCenter/Resources/CheckTaskList/Text"
+]
+},
+{
+"zh": "客户端",
+"names": [
+"PcControlCenter/Resources/Client/Text"
+]
+},
+{
+"zh": "关闭",
+"names": [
+"PcControlCenter/Resources/Close/Text",
+"Resources/ClosePanelButton"
+]
+},
+{
+"zh": "打开",
+"names": [
+"PcControlCenter/Resources/ComeOn/Text",
+"PcControlCenter/Resources/OpenBrowse"
+]
+},
+{
+"zh": "连接",
+"names": [
+"PcControlCenter/Resources/ConnectBtn/Content"
+]
+},
+{
+"zh": "连 接",
+"names": [
+"PcControlCenter/Resources/ConnectButton/Text"
+]
+},
+{
+"zh": "对方设备正忙",
+"names": [
+"PcControlCenter/Resources/ConnectDeviceBusy/Text"
+]
+},
+{
+"zh": "请前往“{0}”关闭移动热点",
+"names": [
+"PcControlCenter/Resources/ConnectDeviceWlanError/Text"
+]
+},
+{
+"zh": "已连接",
+"names": [
+"PcControlCenter/Resources/Connected/Text",
+"PcControlCenter/Resources/ConnectedStatus"
+]
+},
+{
+"zh": "正在连接...",
+"names": [
+"PcControlCenter/Resources/Connecting/Text"
+]
+},
+{
+"zh": "连接失败，请检查网络环境后重试",
+"names": [
+"PcControlCenter/Resources/ConnectingError/Text"
+]
+},
+{
+"zh": "连接中...",
+"names": [
+"PcControlCenter/Resources/ConnectingTxt/Text"
+]
+},
+{
+"zh": "正在连接中...",
+"names": [
+"PcControlCenter/Resources/ConnectionCreating/Text"
+]
+},
+{
+"zh": "连接失败，请重试",
+"names": [
+"PcControlCenter/Resources/ConnectionFailed/Text",
+"PcControlCenter/Resources/NetCollab_Toast_kToastConnectFailed_Reconn"
+]
+},
+{
+"zh": "控制中心",
+"names": [
+"PcControlCenter/Resources/ControlCenter/Text"
+]
+},
+{
+"zh": "1小时",
+"names": [
+"PcControlCenter/Resources/DelayOneHour/Content"
+]
+},
+{
+"zh": "10分钟",
+"names": [
+"PcControlCenter/Resources/DelayTenMin/Content"
+]
+},
+{
+"zh": "30分钟",
+"names": [
+"PcControlCenter/Resources/DelayThirtyMin/Content"
+]
+},
+{
+"zh": "2小时",
+"names": [
+"PcControlCenter/Resources/DelayTwoHour/Content"
+]
+},
+{
+"zh": "设备正忙",
+"names": [
+"PcControlCenter/Resources/DeviceBussy/Text",
+"PcControlCenter/Resources/OtherBusinessBusy/Text",
+"PcControlCenter/Resources/NetCollab_Toast_kNCDeviceBusy"
+]
+},
+{
+"zh": "融合设备中心",
+"names": [
+"PcControlCenter/Resources/DeviceCenterTxt/Text"
+]
+},
+{
+"zh": "设备发现中",
+"names": [
+"PcControlCenter/Resources/DeviceDiscovery/Text"
+]
+},
+{
+"zh": "请保持手机和电脑的Wi-Fi、蓝牙打开并登录同一小米账号",
+"names": [
+"PcControlCenter/Resources/DeviceNotFound/Text"
+]
+},
+{
+"zh": "当前手机无法连接",
+"names": [
+"PcControlCenter/Resources/DeviceNotFoundTitle/Text"
+]
+},
+{
+"zh": "设备下线，任务未创建",
+"names": [
+"PcControlCenter/Resources/DeviceOffline/Text"
+]
+},
+{
+"zh": "设备正忙，请稍后再试",
+"names": [
+"PcControlCenter/Resources/DeviceReject/Text",
+"PcControlCenter/Resources/SmartShareDesktopConflict/Text"
+]
+},
+{
+"zh": "设备查找中",
+"names": [
+"PcControlCenter/Resources/DeviceSearching/Text"
+]
+},
+{
+"zh": "请确保接收方处于可见位置",
+"names": [
+"PcControlCenter/Resources/DeviceSearchingDes/Text"
+]
+},
+{
+"zh": "设备协同",
+"names": [
+"PcControlCenter/Resources/DeviceSynergy/Text"
+]
+},
+{
+"zh": "断开跨屏合作",
+"names": [
+"PcControlCenter/Resources/DisconnectCrossScreenCollaboration/Text"
+]
+},
+{
+"zh": "连接已断开",
+"names": [
+"PcControlCenter/Resources/Disconnected/Text"
+]
+},
+{
+"zh": "若发现不到设备，请确认电视与本机在同一 Wi-Fi",
+"names": [
+"PcControlCenter/Resources/DiscoveryDes/Text"
+]
+},
+{
+"zh": "存储空间不足，请清理后重新传输",
+"names": [
+"PcControlCenter/Resources/DiskFull/Text"
+]
+},
+{
+"zh": "下载安装",
+"names": [
+"PcControlCenter/Resources/DownloadButton/Text"
+]
+},
+{
+"zh": "拖拽文件到设备头像",
+"names": [
+"PcControlCenter/Resources/DragFileToDevice/Text"
+]
+},
+{
+"zh": "将文件放到此处",
+"names": [
+"PcControlCenter/Resources/DragFileToHere/Text"
+]
+},
+{
+"zh": "将文件拖放到此区域即可发送",
+"names": [
+"PcControlCenter/Resources/DrapFile/Text"
+]
+},
+{
+"zh": "通透",
+"names": [
+"PcControlCenter/Resources/EarphoneTransparent/Text"
+]
+},
+{
+"zh": "继续向边缘移动指针开始共享，实现电脑与平板的跨端操作",
+"names": [
+"PcControlCenter/Resources/EdgeTeachingTip/Text"
+]
+},
+{
+"zh": "文件无法发送",
+"names": [
+"PcControlCenter/Resources/FileCanNotSend/Text"
+]
+},
+{
+"zh": "文件被改变，请重新发送",
+"names": [
+"PcControlCenter/Resources/FileChanged/Text"
+]
+},
+{
+"zh": "个文件",
+"names": [
+"PcControlCenter/Resources/FileCount/Text"
+]
+},
+{
+"zh": "文件名过长请您修改文件名后重试",
+"names": [
+"PcControlCenter/Resources/FileNameTooLong/Text"
+]
+},
+{
+"zh": "接收文件夹无效或不可用，传输失败",
+"names": [
+"PcControlCenter/Resources/FileNotExit/Text"
+]
+},
+{
+"zh": "接收文件夹不可用，更换文件夹后重试",
+"names": [
+"PcControlCenter/Resources/FilePathNotExist/Text"
+]
+},
+{
+"zh": "文件右键",
+"names": [
+"PcControlCenter/Resources/FileRightButton/Text"
+]
+},
+{
+"zh": "知道了",
+"names": [
+"PcControlCenter/Resources/FirstCloseButton/Text",
+"PcControlCenter/Resources/SmartShareDesktopBotton/Text",
+"PcControlCenter/Resources/GotitText",
+"Resources/OpenedPowerSavePopUp/know",
+"Resources/UpdateDriverRightButton"
+]
+},
+{
+"zh": "单击「控制中心」图标，双击图标打开客户端。",
+"names": [
+"PcControlCenter/Resources/FirstCloseContent/Text"
+]
+},
+{
+"zh": "点击图标可呼出控制中心",
+"names": [
+"PcControlCenter/Resources/FirstCloseTitle/Text"
+]
+},
+{
+"zh": "从",
+"names": [
+"PcControlCenter/Resources/From/Text"
+]
+},
+{
+"zh": "个",
+"names": [
+"PcControlCenter/Resources/ge/Text"
+]
+},
+{
+"zh": "去验证",
+"names": [
+"PcControlCenter/Resources/GoVerify/Text"
+]
+},
+{
+"zh": "拒绝",
+"names": [
+"PcControlCenter/Resources/Ignore/Text",
+"Resources/AgreementRejectButton/Content"
+]
+},
+{
+"zh": "可以在电脑上下载【{0}】以获得更好的接力体验，请问是否下载？",
+"names": [
+"PcControlCenter/Resources/InstallContent/Text"
+]
+},
+{
+"zh": "需要在电脑上下载【{0}】以体验应用接力功能，请问是否下载？",
+"names": [
+"PcControlCenter/Resources/InstallContent_fail/Text"
+]
+},
+{
+"zh": "检测到【{0}】正在使用此应用。通过下载移动应用引擎，同时在电脑上安装【{1}】，获得更好的应用接力体验。",
+"names": [
+"PcControlCenter/Resources/InstallContent_yyb/Text"
+]
+},
+{
+"zh": "安装中",
+"names": [
+"PcControlCenter/Resources/Installing/Text"
+]
+},
+{
+"zh": "下载应用以获得更好体验",
+"names": [
+"PcControlCenter/Resources/InstallTitle/Text"
+]
+},
+{
+"zh": "应用未安装",
+"names": [
+"PcControlCenter/Resources/InstallTitle_fail/Text"
+]
+},
+{
+"zh": "下载应用宝以获得更好的接力体验",
+"names": [
+"PcControlCenter/Resources/InstallTitle_yyb/Text"
+]
+},
+{
+"zh": "AMD显卡未就绪",
+"names": [
+"PcControlCenter/Resources/kAmdGraphicsNotReady/Text"
+]
+},
+{
+"zh": "设备的WLAN正被使用，请稍后再试",
+"names": [
+"PcControlCenter/Resources/kChannelOccupied/Text"
+]
+},
+{
+"zh": "请检查驱动状态",
+"names": [
+"PcControlCenter/Resources/kCheckDriverStatus/Text"
+]
+},
+{
+"zh": "连接被拒绝",
+"names": [
+"PcControlCenter/Resources/kConnectReject/Text"
+]
+},
+{
+"zh": "英特尔显卡未就绪",
+"names": [
+"PcControlCenter/Resources/kIntelGraphicsNotReady/Text"
+]
+},
+{
+"zh": "请断开外置的显示器",
+"names": [
+"PcControlCenter/Resources/kMultiMonitor/Text"
+]
+},
+{
+"zh": "需要修改设置",
+"names": [
+"PcControlCenter/Resources/kNeedModifySetting/Text"
+]
+},
+{
+"zh": "需要更新驱动",
+"names": [
+"PcControlCenter/Resources/kNeedUpdateDriver/Text"
+]
+},
+{
+"zh": "未知错误",
+"names": [
+"PcControlCenter/Resources/kOthers/Text"
+]
+},
+{
+"zh": "发送Payload错误",
+"names": [
+"PcControlCenter/Resources/kSendPayloadError/Text"
+]
+},
+{
+"zh": "左",
+"names": [
+"PcControlCenter/Resources/Left/Text",
+"PcControlCenter/Resources/Left_Txt"
+]
+},
+{
+"zh": "小米云服务连接...",
+"names": [
+"PcControlCenter/Resources/MiCloudConnecting/Text"
+]
+},
+{
+"zh": "小米互传",
+"names": [
+"PcControlCenter/Resources/MiDrop/Text"
+]
+},
+{
+"zh": "找不到设备？",
+"names": [
+"PcControlCenter/Resources/MiDropCanNotFind/Text",
+"PcControlCenter/Resources/CanNotFindDeviceText"
+]
+},
+{
+"zh": "正在搜索支持的相关设备",
+"names": [
+"PcControlCenter/Resources/MiDropSearchingDes/Text",
+"PcControlCenter/Resources/FindingDeviceText"
+]
+},
+{
+"zh": "需要更改投影设置，将其他设备投影到此电脑设置改为\"始终关闭\"",
+"names": [
+"PcControlCenter/Resources/MiracastSetting/Text"
+]
+},
+{
+"zh": "我的",
+"names": [
+"PcControlCenter/Resources/My/Text"
+]
+},
+{
+"zh": "网络连接异常，请确保WLAN、蓝牙开启，再重试",
+"names": [
+"PcControlCenter/Resources/NetworkError/Text"
+]
+},
+{
+"zh": "暂无设备",
+"names": [
+"PcControlCenter/Resources/NoDevices/Text"
+]
+},
+{
+"zh": "附近暂无可使用设备",
+"names": [
+"PcControlCenter/Resources/NoDevicesDes/Text"
+]
+},
+{
+"zh": "降噪",
+"names": [
+"PcControlCenter/Resources/NoiseReduction/Text"
+]
+},
+{
+"zh": "请确保手机和电脑登录同一小米账号",
+"names": [
+"PcControlCenter/Resources/NotSameAccountDevice/Text"
+]
+},
+{
+"zh": "非同账号手机不支持添加到桌面",
+"names": [
+"PcControlCenter/Resources/NotSameAccountDeviceTitle/Text"
+]
+},
+{
+"zh": "麦克风降噪",
+"names": [
+"PcControlCenter/Resources/NsMicTitle/Text"
+]
+},
+{
+"zh": "突出音源中的人声，听对方的声音更清楚",
+"names": [
+"PcControlCenter/Resources/NsSpeakerSubtitle/Text"
+]
+},
+{
+"zh": "扬声器/耳机降噪",
+"names": [
+"PcControlCenter/Resources/NsSpeakerTitle/Text"
+]
+},
+{
+"zh": "确定",
+"names": [
+"PcControlCenter/Resources/OKButton/Text",
+"PcControlCenter/Resources/NetCollab_OK",
+"Resources/UpDateRecordingPageConfirmButton/Content",
+"SubtitleTranscriptor/Resources/EnsureTxt"
+]
+},
+{
+"zh": "{0}正在使用{1}，需先断开后再试",
+"names": [
+"PcControlCenter/Resources/OnUsingP2pConflict/Text"
+]
+},
+{
+"zh": "立即开启",
+"names": [
+"PcControlCenter/Resources/OpenButton/Text"
+]
+},
+{
+"zh": "打开文件失败，请检查文件是否被占用",
+"names": [
+"PcControlCenter/Resources/OpenFileError/Text"
+]
+},
+{
+"zh": "发现新版本：",
+"names": [
+"PcControlCenter/Resources/OTANewVersionTitleTextBlock/Text",
+"Resources/OTANewVersionTitleTextBlock/Text"
+]
+},
+{
+"zh": "正在使用其他互联业务，请结束后再试",
+"names": [
+"PcControlCenter/Resources/OtherBusinessBusyDescription/Text"
+]
+},
+{
+"zh": "其他人将无法发现你的设备",
+"names": [
+"PcControlCenter/Resources/OthersCanNotFindYourDevice/Text"
+]
+},
+{
+"zh": "对方存储空间不足，已停止发送",
+"names": [
+"PcControlCenter/Resources/PeerDiskFull/Text"
+]
+},
+{
+"zh": "请打开",
+"names": [
+"PcControlCenter/Resources/PleaseOpen/Text",
+"PcControlCenter/Resources/VerifyFailedContent/Text"
+]
+},
+{
+"zh": "设备处于隐身模式，无法接收文件",
+"names": [
+"PcControlCenter/Resources/PopWndTipText/Text"
+]
+},
+{
+"zh": "准备接收",
+"names": [
+"PcControlCenter/Resources/PrepareReceive/Text"
+]
+},
+{
+"zh": "准备发送",
+"names": [
+"PcControlCenter/Resources/PrepareSend/Text"
+]
+},
+{
+"zh": "正在准备文件...",
+"names": [
+"PcControlCenter/Resources/PrepareSendindFile/Text"
+]
+},
+{
+"zh": "请按住充电盒的按钮2秒",
+"names": [
+"PcControlCenter/Resources/PressedChargBoxButton/Text"
+]
+},
+{
+"zh": "投影设置",
+"names": [
+"PcControlCenter/Resources/ProjectionSetting/Text"
+]
+},
+{
+"zh": "收到了超过200个文件",
+"names": [
+"PcControlCenter/Resources/Receive200File/Text"
+]
+},
+{
+"zh": "接收取消",
+"names": [
+"PcControlCenter/Resources/ReceiveCanceled/Text"
+]
+},
+{
+"zh": "收到了",
+"names": [
+"PcControlCenter/Resources/Received/Text"
+]
+},
+{
+"zh": "接收失败",
+"names": [
+"PcControlCenter/Resources/ReceivedFailed/Text"
+]
+},
+{
+"zh": "接收成功",
+"names": [
+"PcControlCenter/Resources/ReceivedSuccess/Text"
+]
+},
+{
+"zh": "正在接收",
+"names": [
+"PcControlCenter/Resources/Receiving/Text"
+]
+},
+{
+"zh": "正在接收文件，来自",
+"names": [
+"PcControlCenter/Resources/ReceivingFrom/Text"
+]
+},
+{
+"zh": "最近连接过",
+"names": [
+"PcControlCenter/Resources/RecentlyConnected/Text"
+]
+},
+{
+"zh": "重新连接",
+"names": [
+"PcControlCenter/Resources/ReconnectButton/Text"
+]
+},
+{
+"zh": "对方已拒绝",
+"names": [
+"PcControlCenter/Resources/Reject/Text"
+]
+},
+{
+"zh": "对方已拒绝接收文件，发送停止",
+"names": [
+"PcControlCenter/Resources/RejectFile/Text"
+]
+},
+{
+"zh": "重 试",
+"names": [
+"PcControlCenter/Resources/RetryButton/Text"
+]
+},
+{
+"zh": "右",
+"names": [
+"PcControlCenter/Resources/Right/Text",
+"PcControlCenter/Resources/Right_Txt"
+]
+},
+{
+"zh": "右键菜单交互",
+"names": [
+"PcControlCenter/Resources/RightButtonFromMenu/Text"
+]
+},
+{
+"zh": "同帐号设备",
+"names": [
+"PcControlCenter/Resources/SameAccountDevice/Text"
+]
+},
+{
+"zh": "秒",
+"names": [
+"PcControlCenter/Resources/SecondTxt/Text"
+]
+},
+{
+"zh": "发送",
+"names": [
+"PcControlCenter/Resources/Send/Text"
+]
+},
+{
+"zh": "发送超过200个文件",
+"names": [
+"PcControlCenter/Resources/Send200File/Text"
+]
+},
+{
+"zh": "发送已取消",
+"names": [
+"PcControlCenter/Resources/SendCanceled/Text"
+]
+},
+{
+"zh": "发送失败",
+"names": [
+"PcControlCenter/Resources/SendFailed/Text"
+]
+},
+{
+"zh": "发送成功",
+"names": [
+"PcControlCenter/Resources/SendSuccess/Text"
+]
+},
+{
+"zh": "向您发送了",
+"names": [
+"PcControlCenter/Resources/SendToYou/Text"
+]
+},
+{
+"zh": "设置",
+"names": [
+"PcControlCenter/Resources/SettingButton/Text",
+"Resources/OpenSettingMenu/Content"
+]
+},
+{
+"zh": "当前应用已添加",
+"names": [
+"PcControlCenter/Resources/ShortcutAlreadyExist/Text"
+]
+},
+{
+"zh": "设备热点已开启，请关闭热点重试",
+"names": [
+"PcControlCenter/Resources/SmartShareDesktopApUsed/Text"
+]
+},
+{
+"zh": "手机未开启妙享桌面",
+"names": [
+"PcControlCenter/Resources/SmartShareDesktopClosed/Text"
+]
+},
+{
+"zh": "请前往手机的设置-互联互通打开妙享桌面开关",
+"names": [
+"PcControlCenter/Resources/SmartShareDesktopClosedNotify/Text"
+]
+},
+{
+"zh": "窗口数量超过限制，请先关闭开启的窗口后再尝试打开新的应用",
+"names": [
+"PcControlCenter/Resources/SmartShareDesktopMaxScreenWarn/Text"
+]
+},
+{
+"zh": "请前往\"",
+"names": [
+"PcControlCenter/Resources/SmartShareDesktopPermission/Text"
+]
+},
+{
+"zh": "\"的设置-互联互通-互联权限，授权屏幕权限后使用",
+"names": [
+"PcControlCenter/Resources/SmartShareDesktopPermissions/Text"
+]
+},
+{
+"zh": "请前往互联设备开启权限",
+"names": [
+"PcControlCenter/Resources/SmartShareDesktopPermissionTitle/Text"
+]
+},
+{
+"zh": "当前设备不支持",
+"names": [
+"PcControlCenter/Resources/SmartShareDesktopUnSupport/Text"
+]
+},
+{
+"zh": "正在",
+"names": [
+"PcControlCenter/Resources/StartingFrom/Text"
+]
+},
+{
+"zh": "隐藏",
+"names": [
+"PcControlCenter/Resources/Stealth/Text",
+"PcControlCenter/Resources/ClipboardSyncRButton"
+]
+},
+{
+"zh": "已成功传输",
+"names": [
+"PcControlCenter/Resources/SuccessTransfered/Text"
+]
+},
+{
+"zh": "延后",
+"names": [
+"PcControlCenter/Resources/SystemUpdateDelayBtn/Content"
+]
+},
+{
+"zh": "重新启动",
+"names": [
+"PcControlCenter/Resources/SystemUpdateRestartBtn/Content"
+]
+},
+{
+"zh": "过了下列时间后提醒我:",
+"names": [
+"PcControlCenter/Resources/SystemUpdateTimeInfo/Text"
+]
+},
+{
+"zh": "重启系统前请保存您的文件",
+"names": [
+"PcControlCenter/Resources/SystemUpdateTip/Text"
+]
+},
+{
+"zh": "系统更新",
+"names": [
+"PcControlCenter/Resources/SystemUpdateTitle/Text"
+]
+},
+{
+"zh": "小米电脑管家",
+"names": [
+"PcControlCenter/Resources/TaskbarTooltip/ToolTipText",
+"Resources/AppProductName"
+]
+},
+{
+"zh": "任务已创建",
+"names": [
+"PcControlCenter/Resources/TaskCreate/Text"
+]
+},
+{
+"zh": "接听",
+"names": [
+"PcControlCenter/Resources/TeleCoopAnswerBtn/Content"
+]
+},
+{
+"zh": "挂断",
+"names": [
+"PcControlCenter/Resources/TeleCoopHangupBtn/Content"
+]
+},
+{
+"zh": "拒接",
+"names": [
+"PcControlCenter/Resources/TeleCoopRejectBtn/Content"
+]
+},
+{
+"zh": "静音",
+"names": [
+"PcControlCenter/Resources/TeleCoopSilenceBtn/Content"
+]
+},
+{
+"zh": "对方将无法接收到此文件",
+"names": [
+"PcControlCenter/Resources/TheOtherPartyWillNotReceiveTheFile/Text"
+]
+},
+{
+"zh": "连接超时，请重试",
+"names": [
+"PcControlCenter/Resources/TimeOut/Text"
+]
+},
+{
+"zh": "向",
+"names": [
+"PcControlCenter/Resources/To/Text"
+]
+},
+{
+"zh": "去设置",
+"names": [
+"PcControlCenter/Resources/ToSetting/Text"
+]
+},
+{
+"zh": "传输",
+"names": [
+"PcControlCenter/Resources/Transfer/Text"
+]
+},
+{
+"zh": "传输已取消",
+"names": [
+"PcControlCenter/Resources/TransferCanceled/Text"
+]
+},
+{
+"zh": "传输遇到问题，请重试",
+"names": [
+"PcControlCenter/Resources/TransferError/Text"
+]
+},
+{
+"zh": "传输失败",
+"names": [
+"PcControlCenter/Resources/TransferFailed/Text",
+"PcControlCenter/Resources/PadCoopTitleFileTransferFailed"
+]
+},
+{
+"zh": "传输已拒绝",
+"names": [
+"PcControlCenter/Resources/TransferReject/Text"
+]
+},
+{
+"zh": "正在传输",
+"names": [
+"PcControlCenter/Resources/Transferring/Text"
+]
+},
+{
+"zh": "正在向",
+"names": [
+"PcControlCenter/Resources/TransferringTo/Text"
+]
+},
+{
+"zh": "输入正确锁屏密码",
+"names": [
+"PcControlCenter/Resources/VerifyFailedContentAfter/Text"
+]
+},
+{
+"zh": "前往手机认证",
+"names": [
+"PcControlCenter/Resources/VerifyFailedTitle/Text"
+]
+},
+{
+"zh": "输入电脑密码或指纹以信任",
+"names": [
+"PcControlCenter/Resources/VerifyPinContent/Text"
+]
+},
+{
+"zh": "启用跨设备身份认证",
+"names": [
+"PcControlCenter/Resources/VerifyPinTitle/Text"
+]
+},
+{
+"zh": "正在通过",
+"names": [
+"PcControlCenter/Resources/Via/Text"
+]
+},
+{
+"zh": "查看",
+"names": [
+"PcControlCenter/Resources/View/Text",
+"SubtitleTranscriptor/Resources/ViewTxt"
+]
+},
+{
+"zh": "存储位置查看",
+"names": [
+"PcControlCenter/Resources/ViewOnStorageLocation/Text"
+]
+},
+{
+"zh": "查看接收文件",
+"names": [
+"PcControlCenter/Resources/ViewReceiveFileButton/Text"
+]
+},
+{
+"zh": "等待建立连接...",
+"names": [
+"PcControlCenter/Resources/WaitConnecting/Text"
+]
+},
+{
+"zh": "等待从",
+"names": [
+"PcControlCenter/Resources/WaitingFrom/Text"
+]
+},
+{
+"zh": "等待向",
+"names": [
+"PcControlCenter/Resources/WaitingTo/Text"
+]
+},
+{
+"zh": "等待对方接收...",
+"names": [
+"PcControlCenter/Resources/WaitReceiving/Text"
+]
+},
+{
+"zh": "与其他设备传输文件，需要断开与当前设备的协同状态，是否断开设备连接？",
+"names": [
+"PcControlCenter/Resources/WhetherToDisconnectDevice/Text"
+]
+},
+{
+"zh": "您将取消所有与该设备传输的任务",
+"names": [
+"PcControlCenter/Resources/YouWillCancelAllTaskAboutTheDevice/Text"
+]
+},
+{
+"zh": "您将无法接收到此文件",
+"names": [
+"PcControlCenter/Resources/YouWillNotBeAbleToReceiveThisFile/Text"
+]
+},
+{
+"zh": "张",
+"names": [
+"PcControlCenter/Resources/zhang/Text"
+]
+},
+{
+"zh": "上",
+"names": [
+"PcControlCenter/Resources/Above_Txt"
+]
+},
+{
+"zh": "当前账号切换，请检查账号后重试。",
+"names": [
+"PcControlCenter/Resources/AccountSwitch"
+]
+},
+{
+"zh": "%，建议开启省电模式，开启后可继续使用",
+"names": [
+"PcControlCenter/Resources/ActivatePowerSavingMode"
+]
+},
+{
+"zh": "AI文件搜索",
+"names": [
+"PcControlCenter/Resources/AiFileSearchTxt"
+]
+},
+{
+"zh": "当前应用已设置应用锁，无法跨设备打开",
+"names": [
+"PcControlCenter/Resources/AppLockWarning"
+]
+},
+{
+"zh": "来自",
+"names": [
+"PcControlCenter/Resources/AudioShareContent",
+"PcControlCenter/Resources/TeleCoopComefrom"
+]
+},
+{
+"zh": "手机音乐接力播放",
+"names": [
+"PcControlCenter/Resources/AudioShareTitle"
+]
+},
+{
+"zh": "当前无法与对端建立协同或连接，请检查对端权限后重试。",
+"names": [
+"PcControlCenter/Resources/AuthorizationFailed"
+]
+},
+{
+"zh": "下",
+"names": [
+"PcControlCenter/Resources/Below_Txt"
+]
+},
+{
+"zh": "蓝牙未开启",
+"names": [
+"PcControlCenter/Resources/BluetoothNotOpen"
+]
+},
+{
+"zh": "底",
+"names": [
+"PcControlCenter/Resources/Bottom_Txt"
+]
+},
+{
+"zh": "计算器",
+"names": [
+"PcControlCenter/Resources/CalcTxt"
+]
+},
+{
+"zh": "在{0}上授权使用相机",
+"names": [
+"PcControlCenter/Resources/CameraAuthorization"
+]
+},
+{
+"zh": "请检查摄像头是否正被其他应用占用",
+"names": [
+"PcControlCenter/Resources/CameraCheckLocalIsUsed"
+]
+},
+{
+"zh": "请确认摄像头状态",
+"names": [
+"PcControlCenter/Resources/CameraCheckStateTitle"
+]
+},
+{
+"zh": "请稍后重试",
+"names": [
+"PcControlCenter/Resources/CameraConnectFailContent"
+]
+},
+{
+"zh": "相机连接失败",
+"names": [
+"PcControlCenter/Resources/CameraConnectFailed"
+]
+},
+{
+"zh": "连接失败",
+"names": [
+"PcControlCenter/Resources/CameraConnectFailTitle",
+"PcControlCenter/Resources/FuncConnectionFailed",
+"PcControlCenter/Resources/NetCollab_Toast_kToastConnectFailed"
+]
+},
+{
+"zh": "跨设备相机连接已断开",
+"names": [
+"PcControlCenter/Resources/CameraDisconnectedTitle"
+]
+},
+{
+"zh": "摄像头暂不可用，点击确定打开设备管理器，确认照相机处于可用状态",
+"names": [
+"PcControlCenter/Resources/CameraDriverError"
+]
+},
+{
+"zh": "无法使用摄像头",
+"names": [
+"PcControlCenter/Resources/CameraLocalCannotUseTitle"
+]
+},
+{
+"zh": "本机正在使用其他互联功能，请先断开后再试",
+"names": [
+"PcControlCenter/Resources/CameraLocalPreemptFailed"
+]
+},
+{
+"zh": "请前往{0}的设置-互联互通-互联权限设置-相机，授权本机权限后使用。",
+"names": [
+"PcControlCenter/Resources/CameraPermissionFutureDenied"
+]
+},
+{
+"zh": "授权后，本设备可以使用“{0}”的相机，用于拍摄照片和录制视频。",
+"names": [
+"PcControlCenter/Resources/CameraPermissionPrompt"
+]
+},
+{
+"zh": "请前往”{0}“的设置-互联互通-互联权限设置-相机，授权本机权限后使用",
+"names": [
+"PcControlCenter/Resources/CameraPermissionRejectPrompt"
+]
+},
+{
+"zh": "设备正忙，请稍后重试。",
+"names": [
+"PcControlCenter/Resources/CameraPreemptFailed"
+]
+},
+{
+"zh": "请关闭手机热点后重试",
+"names": [
+"PcControlCenter/Resources/CameraRemoteWifiApUsed"
+]
+},
+{
+"zh": "相机协同异常",
+"names": [
+"PcControlCenter/Resources/CameraSynergyException"
+]
+},
+{
+"zh": "相机正在电脑上使用",
+"names": [
+"PcControlCenter/Resources/CameraSynergyTips",
+"PcControlCenter/Resources/PhoneCameraDes"
+]
+},
+{
+"zh": "请确认双端设备蓝牙、WLAN开关已开启",
+"names": [
+"PcControlCenter/Resources/CheckBleAndWifiOpen"
+]
+},
+{
+"zh": "剪贴板",
+"names": [
+"PcControlCenter/Resources/ClipboardEntry"
+]
+},
+{
+"zh": "设备正忙，请稍后再试。",
+"names": [
+"PcControlCenter/Resources/ClipboardSyncConflictTip"
+]
+},
+{
+"zh": "粘贴自",
+"names": [
+"PcControlCenter/Resources/ClipboardSyncTitle"
+]
+},
+{
+"zh": "镜像屏幕到平板",
+"names": [
+"PcControlCenter/Resources/CloneCastToPad_Normal"
+]
+},
+{
+"zh": "正在镜像屏幕到平板",
+"names": [
+"PcControlCenter/Resources/CloneCastToPad_Opened"
+]
+},
+{
+"zh": "镜像屏幕到电视",
+"names": [
+"PcControlCenter/Resources/CloneCastToTV_Normal"
+]
+},
+{
+"zh": "正在镜像屏幕到电视",
+"names": [
+"PcControlCenter/Resources/CloneCastToTV_Opened"
+]
+},
+{
+"zh": "立即打开",
+"names": [
+"PcControlCenter/Resources/Common_OpenNow"
+]
+},
+{
+"zh": "设备可能不在附近",
+"names": [
+"PcControlCenter/Resources/ConnectErrorTip"
+]
+},
+{
+"zh": "正在连接",
+"names": [
+"PcControlCenter/Resources/ConnectingStatus"
+]
+},
+{
+"zh": "连接耳机",
+"names": [
+"PcControlCenter/Resources/ConnectToEarphone"
+]
+},
+{
+"zh": "已复制到剪贴板",
+"names": [
+"PcControlCenter/Resources/CopyToClipboard"
+]
+},
+{
+"zh": "跨设备相机",
+"names": [
+"PcControlCenter/Resources/CrossCameraDeviceTxt"
+]
+},
+{
+"zh": "跨设备速绘",
+"names": [
+"PcControlCenter/Resources/CrossDeviceQuickDrawTxt"
+]
+},
+{
+"zh": "副屏镜像",
+"names": [
+"PcControlCenter/Resources/DefaultAppName"
+]
+},
+{
+"zh": "加载失败，请重试",
+"names": [
+"PcControlCenter/Resources/DeviceConnectFailedTxt"
+]
+},
+{
+"zh": "设备异常",
+"names": [
+"PcControlCenter/Resources/DeviceException"
+]
+},
+{
+"zh": "对端设备热点已开启，请关闭热点重试",
+"names": [
+"PcControlCenter/Resources/DevicePinUse"
+]
+},
+{
+"zh": "响铃失败，请重试",
+"names": [
+"PcControlCenter/Resources/DeviceRingFailedText"
+]
+},
+{
+"zh": "设备正在响铃",
+"names": [
+"PcControlCenter/Resources/DeviceRingingText"
+]
+},
+{
+"zh": "与本机摄像头组合",
+"names": [
+"PcControlCenter/Resources/DeviceSelectTitleTxt_ForCameraSynthetic"
+]
+},
+{
+"zh": "连接热点",
+"names": [
+"PcControlCenter/Resources/DeviceSelectTitleTxt_ForHotSpot"
+]
+},
+{
+"zh": "键鼠共享",
+"names": [
+"PcControlCenter/Resources/DeviceSelectTitleTxt_ForKeyboardMouseShare",
+"PcControlCenter/Resources/KeyboardMouseShareTxt",
+"PcControlCenter/Resources/PadShareTriggerTitle"
+]
+},
+{
+"zh": "投屏",
+"names": [
+"PcControlCenter/Resources/DeviceSelectTitleTxt_ForMiracast",
+"PcControlCenter/Resources/MiracastTxt"
+]
+},
+{
+"zh": "妙享桌面",
+"names": [
+"PcControlCenter/Resources/DeviceSelectTitleTxt_ForSmartshareDesktop",
+"PcControlCenter/Resources/SmartShareDesktopTxt"
+]
+},
+{
+"zh": "已传输",
+"names": [
+"PcControlCenter/Resources/DragDropTransferProgressContent"
+]
+},
+{
+"zh": "取消传输",
+"names": [
+"PcControlCenter/Resources/DragDropTransferRButton"
+]
+},
+{
+"zh": "正在传输...",
+"names": [
+"PcControlCenter/Resources/DragDropTransferTitle"
+]
+},
+{
+"zh": "耳机",
+"names": [
+"PcControlCenter/Resources/EarphoneTxt"
+]
+},
+{
+"zh": "请前往{0}开启权限",
+"names": [
+"PcControlCenter/Resources/EnableCameraPermission"
+]
+},
+{
+"zh": "设备互联需要开启WLAN，是否确认开启？",
+"names": [
+"PcControlCenter/Resources/EnsureOpenWlan"
+]
+},
+{
+"zh": "确认",
+"names": [
+"PcControlCenter/Resources/EnsureTxt",
+"Resources/CloseNotifyPageConfirmButton/Content",
+"Resources/OTAPromptConfirmButton/Content"
+]
+},
+{
+"zh": "立即退出",
+"names": [
+"PcControlCenter/Resources/ExitImmediately"
+]
+},
+{
+"zh": "扩展屏幕到平板",
+"names": [
+"PcControlCenter/Resources/ExtendCastToPad_Normal"
+]
+},
+{
+"zh": "正在扩展屏幕到平板",
+"names": [
+"PcControlCenter/Resources/ExtendCastToPad_Opened"
+]
+},
+{
+"zh": "扩展屏幕到电视",
+"names": [
+"PcControlCenter/Resources/ExtendCastToTV_Normal"
+]
+},
+{
+"zh": "正在扩展屏幕到电视",
+"names": [
+"PcControlCenter/Resources/ExtendCastToTV_Opened"
+]
+},
+{
+"zh": "将画面从屏幕{0}侧拖出",
+"names": [
+"PcControlCenter/Resources/ExtendDescription"
+]
+},
+{
+"zh": "过滤环境音突出人声，对方听的更清楚。连接外设时不支持单人、多人降噪模式设置",
+"names": [
+"PcControlCenter/Resources/ExternalMicSubtitle"
+]
+},
+{
+"zh": "源文件已删除",
+"names": [
+"PcControlCenter/Resources/FileNoExist"
+]
+},
+{
+"zh": "文件搜索",
+"names": [
+"PcControlCenter/Resources/FileSearchTxt"
+]
+},
+{
+"zh": "将小米电脑管家添加至Windows防火墙白名单以启用设备互联功能，是否现在添加？",
+"names": [
+"PcControlCenter/Resources/FirewallRepairContent"
+]
+},
+{
+"zh": "添加",
+"names": [
+"PcControlCenter/Resources/FirewallRepairRButton"
+]
+},
+{
+"zh": "启用设备互联",
+"names": [
+"PcControlCenter/Resources/FirewallRepairTitle"
+]
+},
+{
+"zh": "当前无法接收到协同设备的相机拍摄画面，请检查本机显卡处于可用状态，重启双端设备蓝牙、WLAN 后重试。",
+"names": [
+"PcControlCenter/Resources/HardwareException"
+]
+},
+{
+"zh": "已切换到其他设备",
+"names": [
+"PcControlCenter/Resources/HasSwitchedTo"
+]
+},
+{
+"zh": "网络协同",
+"names": [
+"PcControlCenter/Resources/HotSpotShareTxt"
+]
+},
+{
+"zh": "小时",
+"names": [
+"PcControlCenter/Resources/Hours"
+]
+},
+{
+"zh": "系统内部错误，请重试。",
+"names": [
+"PcControlCenter/Resources/InnerError"
+]
+},
+{
+"zh": "请在“设备管理器-显示适配器”中启用AMD显卡后重试",
+"names": [
+"PcControlCenter/Resources/kAmdGraphicsNotReadyContent",
+"PcControlCenter/Resources/PadCoopDesGraphicAMD"
+]
+},
+{
+"zh": "无法投屏到电视，AMD显卡被禁用",
+"names": [
+"PcControlCenter/Resources/kAmdGraphicsNotReadyTitle"
+]
+},
+{
+"zh": "请在“设置-网络和Internet”设置页，关闭“移动热点”后重试。\n建议尝试重复开关“移动热点”按钮。",
+"names": [
+"PcControlCenter/Resources/kChannelOccupiedContent"
+]
+},
+{
+"zh": "无法投屏到电视，热点被占用",
+"names": [
+"PcControlCenter/Resources/kChannelOccupiedTitle"
+]
+},
+{
+"zh": "请在“设备管理器”中确认Virtual Display、Virtual Audio两个驱动状态是否正常，若被禁用请重新启用，若找不到相关驱动请前往小米电脑助手重新安装小米电脑管家",
+"names": [
+"PcControlCenter/Resources/kCheckDriverStatusContent"
+]
+},
+{
+"zh": "请在“设备管理器-显示适配器”中启用Intel显卡后重试",
+"names": [
+"PcControlCenter/Resources/kIntelGraphicsNotReadyContent",
+"PcControlCenter/Resources/PadCoopDesGraphicIntel"
+]
+},
+{
+"zh": "无法投屏到电视，Intel显卡被禁用",
+"names": [
+"PcControlCenter/Resources/kIntelGraphicsNotReadyTitle"
+]
+},
+{
+"zh": "与平板共享键鼠",
+"names": [
+"PcControlCenter/Resources/KMShareToPad_Normal"
+]
+},
+{
+"zh": "正在与平板共享键鼠",
+"names": [
+"PcControlCenter/Resources/KMShareToPad_Opened"
+]
+},
+{
+"zh": "检测到有其他显示设备接入，若要继续使用投屏功能请先断开其他设备的连接后重试",
+"names": [
+"PcControlCenter/Resources/kMultiMonitorContent"
+]
+},
+{
+"zh": "无法投屏到电视",
+"names": [
+"PcControlCenter/Resources/kMultiMonitorTitle"
+]
+},
+{
+"zh": "请通过桌面右键选择“NVIDIA控制面板”，点击“管理3D设置”，将首选图形处理器设置为“自动选择”或“集成图形”",
+"names": [
+"PcControlCenter/Resources/kNeedModifySettingContent",
+"PcControlCenter/Resources/PadCoopDesGraphicSetting"
+]
+},
+{
+"zh": "无法投屏到电视，请修改显卡设置后重试",
+"names": [
+"PcControlCenter/Resources/kNeedModifySettingTitle"
+]
+},
+{
+"zh": "当前显卡驱动版本低，是否进行更新",
+"names": [
+"PcControlCenter/Resources/kNeedUpdateDriverContent"
+]
+},
+{
+"zh": "取消更新",
+"names": [
+"PcControlCenter/Resources/kNeedUpdateDriverLeftButton"
+]
+},
+{
+"zh": "更新驱动",
+"names": [
+"PcControlCenter/Resources/kNeedUpdateDriverRightButton"
+]
+},
+{
+"zh": "驱动更新",
+"names": [
+"PcControlCenter/Resources/kNeedUpdateDriverTitle"
+]
+},
+{
+"zh": "请检查“小米电脑管家”是否安装正常或重启电脑后重试",
+"names": [
+"PcControlCenter/Resources/kVirtualDeviceErrorContent"
+]
+},
+{
+"zh": "无法投屏到电视，驱动异常",
+"names": [
+"PcControlCenter/Resources/kVirtualDeviceErrorTitle"
+]
+},
+{
+"zh": "左下",
+"names": [
+"PcControlCenter/Resources/LeftBottom_Txt"
+]
+},
+{
+"zh": "左上",
+"names": [
+"PcControlCenter/Resources/LeftTop_Txt"
+]
+},
+{
+"zh": "本地相机不可用",
+"names": [
+"PcControlCenter/Resources/LocalCameraDisabled"
+]
+},
+{
+"zh": "本地相机初始化失败",
+"names": [
+"PcControlCenter/Resources/LocalCameraInitError"
+]
+},
+{
+"zh": "麦克风设备无法使用，请修复后重试",
+"names": [
+"PcControlCenter/Resources/MicrophoneTerminate"
+]
+},
+{
+"zh": "互传",
+"names": [
+"PcControlCenter/Resources/MiDropTxt"
+]
+},
+{
+"zh": "摄像机正在通话中，暂时无法使用",
+"names": [
+"PcControlCenter/Resources/MiJiaDeviceCalling"
+]
+},
+{
+"zh": "跨设备相机连接失败",
+"names": [
+"PcControlCenter/Resources/MiJiaDeviceCallingTitle"
+]
+},
+{
+"zh": "连接失败，摄像头已离线",
+"names": [
+"PcControlCenter/Resources/MiJiaDeviceOffline"
+]
+},
+{
+"zh": "摄像机已休眠，请结束休眠后使用",
+"names": [
+"PcControlCenter/Resources/MiJiaDeviceSleep"
+]
+},
+{
+"zh": "设备升级中，请在升级完成后使用",
+"names": [
+"PcControlCenter/Resources/MiJiaDeviceUpdate"
+]
+},
+{
+"zh": "已超过最大连接数",
+"names": [
+"PcControlCenter/Resources/MiJiaServerNotAvailable"
+]
+},
+{
+"zh": "分钟",
+"names": [
+"PcControlCenter/Resources/Minutes"
+]
+},
+{
+"zh": "投屏需要停止互传，是否停止",
+"names": [
+"PcControlCenter/Resources/MiracastOnMiDropProcessing"
+]
+},
+{
+"zh": "打开手机桌面",
+"names": [
+"PcControlCenter/Resources/MirrorFromPhone_Normal"
+]
+},
+{
+"zh": "正在使用手机桌面",
+"names": [
+"PcControlCenter/Resources/MirrorFromPhone_Opened"
+]
+},
+{
+"zh": "更多设备",
+"names": [
+"PcControlCenter/Resources/MoreDeviceTxt"
+]
+},
+{
+"zh": "小米电脑管家未开启，无法打开手机应用。",
+"names": [
+"PcControlCenter/Resources/NeedRunPCManager"
+]
+},
+{
+"zh": "请先启动小米电脑管家",
+"names": [
+"PcControlCenter/Resources/NeedRunPCManagerTitle"
+]
+},
+{
+"zh": "立即切换",
+"names": [
+"PcControlCenter/Resources/NetCollab_Confirm"
+]
+},
+{
+"zh": "附近暂无可用网络，可启用热点",
+"names": [
+"PcControlCenter/Resources/NetCollab_InitiateConn_Content"
+]
+},
+{
+"zh": "下次自动连接：附近有同账号无网设备需要联网时，自动开启手机热点并连接（可在手机网络协同设置中关闭）",
+"names": [
+"PcControlCenter/Resources/NetCollab_InitiateConn_RadioContent"
+]
+},
+{
+"zh": "”的热点",
+"names": [
+"PcControlCenter/Resources/NetCollab_InitiateConn_Title_after",
+"PcControlCenter/Resources/NetCollab_Toast_kToastCarConnectSuccess_after"
+]
+},
+{
+"zh": "连接“",
+"names": [
+"PcControlCenter/Resources/NetCollab_InitiateConn_Title_before"
+]
+},
+{
+"zh": "蓝牙连接超时",
+"names": [
+"PcControlCenter/Resources/NetCollab_Toast_kNCErrorConnectBtTimeOut"
+]
+},
+{
+"zh": "开启后电脑将使用当前连接设备的热点上网，设备互联功能使用会更加流畅，但同时会增加手机/平板耗电",
+"names": [
+"PcControlCenter/Resources/NetCollab_Toast_kNCOnAdviseSwitchToPhoneAp"
+]
+},
+{
+"zh": "建议切换到热点模式",
+"names": [
+"PcControlCenter/Resources/NetCollab_Toast_kNCOnAdviseSwitchToPhoneApTitle"
+]
+},
+{
+"zh": "上车后，若本机无网络，且汽车热点已开启，自动连接同账号汽车热点",
+"names": [
+"PcControlCenter/Resources/NetCollab_Toast_kNCSetAutoConnectCar"
+]
+},
+{
+"zh": "下次自动连接",
+"names": [
+"PcControlCenter/Resources/NetCollab_Toast_kNCSetAutoConnectCarTitle"
+]
+},
+{
+"zh": "已自动连接“",
+"names": [
+"PcControlCenter/Resources/NetCollab_Toast_kToastCarConnectSuccess_before"
+]
+},
+{
+"zh": "”的个人热点，可在手机个人热点页面设置单次热点流量限额",
+"names": [
+"PcControlCenter/Resources/NetCollab_Toast_kToastConnectSuccess_after"
+]
+},
+{
+"zh": "已自动开启连接“",
+"names": [
+"PcControlCenter/Resources/NetCollab_Toast_kToastConnectSuccess_before"
+]
+},
+{
+"zh": "连接蓝牙和Wi-Fi",
+"names": [
+"PcControlCenter/Resources/NetErrorTitleTxt"
+]
+},
+{
+"zh": "当前网路断开，请检查网络后重试。",
+"names": [
+"PcControlCenter/Resources/NetWorkDisconnect"
+]
+},
+{
+"zh": "请开启麦克风阵列后重试",
+"names": [
+"PcControlCenter/Resources/NoiseReductionSettingContent"
+]
+},
+{
+"zh": "启动失败",
+"names": [
+"PcControlCenter/Resources/NoiseReductionSettingTitle"
+]
+},
+{
+"zh": "会议降噪",
+"names": [
+"PcControlCenter/Resources/NoiseReductionTxt"
+]
+},
+{
+"zh": "记事本",
+"names": [
+"PcControlCenter/Resources/NotebookTxt"
+]
+},
+{
+"zh": "未登录",
+"names": [
+"PcControlCenter/Resources/NotLoginText"
+]
+},
+{
+"zh": "不再提示",
+"names": [
+"PcControlCenter/Resources/NotTips"
+]
+},
+{
+"zh": "当前",
+"names": [
+"PcControlCenter/Resources/Now"
+]
+},
+{
+"zh": "拾取屏幕正前方的人声，对方听的更清楚",
+"names": [
+"PcControlCenter/Resources/NsMicItem1SubTitle"
+]
+},
+{
+"zh": "单人语音降噪",
+"names": [
+"PcControlCenter/Resources/NsMicItem1Title"
+]
+},
+{
+"zh": "360度拾取多人声音，远距离收音，对方听的更清楚",
+"names": [
+"PcControlCenter/Resources/NsMicItem2SubTitle"
+]
+},
+{
+"zh": "多人语音降噪",
+"names": [
+"PcControlCenter/Resources/NsMicItem2Title"
+]
+},
+{
+"zh": "录制声纹后，跟踪拾取录制人的声音，对方听的更清楚",
+"names": [
+"PcControlCenter/Resources/NsMicItem3SubTitle"
+]
+},
+{
+"zh": "智能跟踪降噪",
+"names": [
+"PcControlCenter/Resources/NsMicItem3Title"
+]
+},
+{
+"zh": "过滤环境音突出人声，对方听的更清楚",
+"names": [
+"PcControlCenter/Resources/NsMicSubtitle"
+]
+},
+{
+"zh": "打开设备管理器",
+"names": [
+"PcControlCenter/Resources/OpenDeviceManger"
+]
+},
+{
+"zh": "开启WLAN",
+"names": [
+"PcControlCenter/Resources/OpenWlan"
+]
+},
+{
+"zh": "其他互联功能",
+"names": [
+"PcControlCenter/Resources/OtherInterconnectedTxt"
+]
+},
+{
+"zh": "Pad正在浏览",
+"names": [
+"PcControlCenter/Resources/PadBrowseing"
+]
+},
+{
+"zh": "已连接其他显示设备，请断开其他显示设备后重试。",
+"names": [
+"PcControlCenter/Resources/PadCoopDesAlreadyConnect"
+]
+},
+{
+"zh": "请在\"设备管理器\"中确认Xiaomi Bus Enumerator驱动状态是否正常，若被禁用，请重新启用。若找不到相关驱动，请重新安装\"小米电脑管家\"",
+"names": [
+"PcControlCenter/Resources/PadCoopDesCheckDriver"
+]
+},
+{
+"zh": "网络不稳定，请检查网络或断开重试",
+"names": [
+"PcControlCenter/Resources/PadCoopDesCheckNetwork"
+]
+},
+{
+"zh": "连接超时，请稍后重试",
+"names": [
+"PcControlCenter/Resources/PadCoopDesConnectTimeOut"
+]
+},
+{
+"zh": "暂不支持文件夹的拖拽传输",
+"names": [
+"PcControlCenter/Resources/PadCoopDesDragFolder"
+]
+},
+{
+"zh": "无法连接到平板，请确认电脑和平板的蓝牙和WLAN是否正常开启并在连接范围内",
+"names": [
+"PcControlCenter/Resources/PadCoopDesDropFileFailed"
+]
+},
+{
+"zh": "无法获取该文件",
+"names": [
+"PcControlCenter/Resources/PadCoopDesEmptyFileList"
+]
+},
+{
+"zh": "本地驱动加载失败，请检查驱动状态后重试",
+"names": [
+"PcControlCenter/Resources/PadCoopDesLocalDriverRegFailed"
+]
+},
+{
+"zh": "未知错误，请重试",
+"names": [
+"PcControlCenter/Resources/PadCoopDesNormal"
+]
+},
+{
+"zh": "设备已离线，请稍后重试",
+"names": [
+"PcControlCenter/Resources/PadCoopDesOffline"
+]
+},
+{
+"zh": "检测到有其他显示设备接入，若要继续使用协同功能请先断开其他设备的连接后重试",
+"names": [
+"PcControlCenter/Resources/PadCoopDesOtherDeviceSwitch"
+]
+},
+{
+"zh": "设备正忙，请稍候重试",
+"names": [
+"PcControlCenter/Resources/PadCoopDesP2PNotAvailable"
+]
+},
+{
+"zh": "当前平板系统不支持该功能，请升级至MIUI14及以上版本后重试",
+"names": [
+"PcControlCenter/Resources/PadCoopDesPadVersion"
+]
+},
+{
+"zh": "暂不支持电脑纵向显示模式下与平板互联",
+"names": [
+"PcControlCenter/Resources/PadCoopDesPortraitNotSupport"
+]
+},
+{
+"zh": "平板端正在使用远程控制，需先断开后再试",
+"names": [
+"PcControlCenter/Resources/PadCoopDesRemoteControlAlreadyConnect"
+]
+},
+{
+"zh": "平板驱动加载失败，请稍后重试",
+"names": [
+"PcControlCenter/Resources/PadCoopDesRemoteDriverRegFailed"
+]
+},
+{
+"zh": "请确认电脑和平板的蓝牙和WLAN正常开启并在连接范围内",
+"names": [
+"PcControlCenter/Resources/PadCoopDesSuspendInWork"
+]
+},
+{
+"zh": "文件状态发生变化（如重命名、被删除等），请重新传输",
+"names": [
+"PcControlCenter/Resources/PadCoopDesTransferError"
+]
+},
+{
+"zh": "无法连接到平板",
+"names": [
+"PcControlCenter/Resources/PadCoopTitleCannotConnect"
+]
+},
+{
+"zh": "请检查网络",
+"names": [
+"PcControlCenter/Resources/PadCoopTitleCheckNetwork"
+]
+},
+{
+"zh": "无法连接到平板，AMD显卡被禁用",
+"names": [
+"PcControlCenter/Resources/PadCoopTitleGraphicAMDNotReady"
+]
+},
+{
+"zh": "无法连接到平板，Intel显卡被禁用",
+"names": [
+"PcControlCenter/Resources/PadCoopTitleGraphicIntelNotReady"
+]
+},
+{
+"zh": "无法连接到平板，请修改显卡设置后重试",
+"names": [
+"PcControlCenter/Resources/PadCoopTitleGraphicSetting"
+]
+},
+{
+"zh": "设备协同提示",
+"names": [
+"PcControlCenter/Resources/PadCoopTitleNormal"
+]
+},
+{
+"zh": "请升级平板系统",
+"names": [
+"PcControlCenter/Resources/PadCoopTitlePadVersion"
+]
+},
+{
+"zh": "连接中断",
+"names": [
+"PcControlCenter/Resources/PadCoopTitleSuspend"
+]
+},
+{
+"zh": "连接超时",
+"names": [
+"PcControlCenter/Resources/PadCoopTitleTimeOut"
+]
+},
+{
+"zh": "传输中断",
+"names": [
+"PcControlCenter/Resources/PadCoopTitleTransferError"
+]
+},
+{
+"zh": "正在电脑上使用",
+"names": [
+"PcControlCenter/Resources/PadScreenCloneDes",
+"PcControlCenter/Resources/PhoneCastDes"
+]
+},
+{
+"zh": "将鼠标从屏幕{0}侧拖出",
+"names": [
+"PcControlCenter/Resources/PadShareSubtileTxt"
+]
+},
+{
+"zh": "键鼠共享连接失败，请确认电脑和平板的蓝牙和WLAN是否正常开启并在连接范围内",
+"names": [
+"PcControlCenter/Resources/PadShareTriggerDes"
+]
+},
+{
+"zh": "1.在底部托盘或控制中心可找到并打开全新剪贴板，支持查看本机及附近设备复制内容并粘贴使用\n2.剪贴板支持复制粘贴文字、图文、图片、文件等多种类型的内容",
+"names": [
+"PcControlCenter/Resources/PcClipboardContent"
+]
+},
+{
+"zh": "跨设备剪贴板",
+"names": [
+"PcControlCenter/Resources/PcClipboardTitle"
+]
+},
+{
+"zh": "手机正在浏览",
+"names": [
+"PcControlCenter/Resources/PhoneBrowseing"
+]
+},
+{
+"zh": "电话正在电脑上接听",
+"names": [
+"PcControlCenter/Resources/PhoneCallDes"
+]
+},
+{
+"zh": "请佩戴耳机后使用",
+"names": [
+"PcControlCenter/Resources/PodsNotSingleWearingErrorTxt"
+]
+},
+{
+"zh": "请双耳佩戴耳机后使用",
+"names": [
+"PcControlCenter/Resources/PodsNotWearingErrorTxt"
+]
+},
+{
+"zh": "人像居中",
+"names": [
+"PcControlCenter/Resources/PortraitCenterTxt"
+]
+},
+{
+"zh": "手机电量低",
+"names": [
+"PcControlCenter/Resources/PowerLow"
+]
+},
+{
+"zh": "电量低于",
+"names": [
+"PcControlCenter/Resources/PowerLowerThan"
+]
+},
+{
+"zh": "手机已开启省电模式",
+"names": [
+"PcControlCenter/Resources/PowerSavingModeActivated"
+]
+},
+{
+"zh": "已开启省电模式，充电至50%或充满时自动退出",
+"names": [
+"PcControlCenter/Resources/PowerSavingModeActivatedTips"
+]
+},
+{
+"zh": "请尝试重新复制源文件",
+"names": [
+"PcControlCenter/Resources/RetryReCopySource"
+]
+},
+{
+"zh": "重试",
+"names": [
+"PcControlCenter/Resources/RetryText",
+"SubtitleTranscriptor/Resources/RetryTxt"
+]
+},
+{
+"zh": "右下",
+"names": [
+"PcControlCenter/Resources/RightBottom_Txt"
+]
+},
+{
+"zh": "右上",
+"names": [
+"PcControlCenter/Resources/RightTop_Txt"
+]
+},
+{
+"zh": "响铃查找",
+"names": [
+"PcControlCenter/Resources/RingSearch_Normal"
+]
+},
+{
+"zh": "停止响铃",
+"names": [
+"PcControlCenter/Resources/RingSearch_Opened"
+]
+},
+{
+"zh": "截屏",
+"names": [
+"PcControlCenter/Resources/ScreenShotTxt"
+]
+},
+{
+"zh": "开启相关服务进程，确保功能正常使用",
+"names": [
+"PcControlCenter/Resources/ServiceDescription"
+]
+},
+{
+"zh": "应用已卸载",
+"names": [
+"PcControlCenter/Resources/SmartShareDesktopPhoneAppUninstalled"
+]
+},
+{
+"zh": "扬声器设备无法使用，请修复后重试",
+"names": [
+"PcControlCenter/Resources/SpeakerTerminate"
+]
+},
+{
+"zh": "开启服务",
+"names": [
+"PcControlCenter/Resources/StartService"
+]
+},
+{
+"zh": "停止互传",
+"names": [
+"PcControlCenter/Resources/StopMiDrop"
+]
+},
+{
+"zh": "字幕转录",
+"names": [
+"PcControlCenter/Resources/SubtitleTranscriptionTxt",
+"SubtitleTranscriptor/Resources/SubtitleTranscription"
+]
+},
+{
+"zh": "工具箱",
+"names": [
+"PcControlCenter/Resources/SystemOptimizationTxt"
+]
+},
+{
+"zh": "任务管理器",
+"names": [
+"PcControlCenter/Resources/TaskManagerTxt"
+]
+},
+{
+"zh": "正在通话中 |",
+"names": [
+"PcControlCenter/Resources/TeleCoopAnswering"
+]
+},
+{
+"zh": "电话接力提示",
+"names": [
+"PcControlCenter/Resources/TeleCoopInfo"
+]
+},
+{
+"zh": "通话已在其他设备上接听",
+"names": [
+"PcControlCenter/Resources/TeleCoopTransfer"
+]
+},
+{
+"zh": "顶",
+"names": [
+"PcControlCenter/Resources/Top_Txt"
+]
+},
+{
+"zh": "电视投屏功能需打开 Wi-Fi 和蓝牙才能使用",
+"names": [
+"PcControlCenter/Resources/TvNeedWiFiAndBluetoothDes"
+]
+},
+{
+"zh": "查看帮助",
+"names": [
+"PcControlCenter/Resources/ViewHelp"
+]
+},
+{
+"zh": "蓝牙与 Wi-Fi 未开启",
+"names": [
+"PcControlCenter/Resources/WifiAndBtNotOpen"
+]
+},
+{
+"zh": "开启可发现附近设备，体验设备控制与协同功能",
+"names": [
+"PcControlCenter/Resources/WifiBtDes"
+]
+},
+{
+"zh": "Wi-Fi 模块未开启",
+"names": [
+"PcControlCenter/Resources/WifiNotOpen"
+]
+},
+{
+"zh": "蓝牙或 Wi-Fi 模块未开启",
+"names": [
+"PcControlCenter/Resources/WiFiOrBluetoothClosed"
+]
+},
+{
+"zh": "该应用暂不支持组合摄像头",
+"names": [
+"PcControlCenter/Resources/WithoutWhiteName"
+]
+},
+{
+"zh": "小爱同学",
+"names": [
+"PcControlCenter/Resources/XiaoaiAppTxt"
+]
+},
+{
+"zh": "同意",
+"names": [
+"Resources/AgreementAgreeButton/Content"
+]
+},
+{
+"zh": "设置成功后，点击按键将启动对应功能",
+"names": [
+"Resources/AppsListTip/Text"
+]
+},
+{
+"zh": "自定义其他应用",
+"names": [
+"Resources/AppsListTitle/Text"
+]
+},
+{
+"zh": "检测到您自定义的应用运行异常，无法启动。\n请检查此应用状态，或重新设置按键。",
+"names": [
+"Resources/AppStartFailedContent/Text"
+]
+},
+{
+"zh": "重新设置",
+"names": [
+"Resources/AppStartFailedResetBtn/Content"
+]
+},
+{
+"zh": "应用启动异常",
+"names": [
+"Resources/AppStartFailedTitle/Text"
+]
+},
+{
+"zh": "你的设备电量低于20%，狂暴模式耗电较大，建议切换到极速模式使用！",
+"names": [
+"Resources/Battery20PopUp/context"
+]
+},
+{
+"zh": "你的设备电量低于30%，狂暴模式功耗较大，建议切换为智能模式使用！",
+"names": [
+"Resources/Battery30PopUp/context"
+]
+},
+{
+"zh": "你的设备电量低于70%，狂暴模式耗电较大，建议切换到极速模式使用！",
+"names": [
+"Resources/Battery70PopUp/context"
+]
+},
+{
+"zh": "坚持使用",
+"names": [
+"Resources/BatteryPopUp/keepUsing"
+]
+},
+{
+"zh": "开启智能模式",
+"names": [
+"Resources/BatteryPopUp/openIntelligence"
+]
+},
+{
+"zh": "开启极速模式",
+"names": [
+"Resources/BatteryPopUp/openSpeed"
+]
+},
+{
+"zh": "电池电量提醒",
+"names": [
+"Resources/BatteryPopUp/title"
+]
+},
+{
+"zh": "不再提示我",
+"names": [
+"Resources/CloseNotifyPageCheckBox/Text",
+"Resources/CheckBoxNotPromptText"
+]
+},
+{
+"zh": "退出小米电脑管家",
+"names": [
+"Resources/CloseNotifyPageTitle/Text"
+]
+},
+{
+"zh": "下载隐私政策PDF",
+"names": [
+"Resources/DownLoadPrivacyPDF/Content"
+]
+},
+{
+"zh": "您还没有连接无线耳机",
+"names": [
+"Resources/EarphoneNotFound/Text"
+]
+},
+{
+"zh": "退出",
+"names": [
+"Resources/ExitMenu/Content"
+]
+},
+{
+"zh": "取消({0}s)",
+"names": [
+"Resources/FirstPowerSavePopUp/cancel"
+]
+},
+{
+"zh": "开启省电模式后，仅支持连接同一WLAN网络的设备使用互联互通功能。小米互传、耳机快连将无法建立新的连接。",
+"names": [
+"Resources/FirstPowerSavePopUp/context"
+]
+},
+{
+"zh": "仍要开启",
+"names": [
+"Resources/FirstPowerSavePopUp/keepOpen"
+]
+},
+{
+"zh": "开启省电模式",
+"names": [
+"Resources/FirstPowerSavePopUp/title"
+]
+},
+{
+"zh": "打开客户端",
+"names": [
+"Resources/OpenClientMenu/Content"
+]
+},
+{
+"zh": "您已开启省电模式，此模式下仅支持连接同一WLAN网络的设备使用互联互通功能。",
+"names": [
+"Resources/OpenedPowerSavePopUp/context"
+]
+},
+{
+"zh": "查看详情",
+"names": [
+"Resources/OpenedPowerSavePopUp/detail"
+]
+},
+{
+"zh": "省电模式已开启",
+"names": [
+"Resources/OpenedPowerSavePopUp/title"
+]
+},
+{
+"zh": "当前版本已经是最新版本",
+"names": [
+"Resources/OTAPromptTextBlock/Text"
+]
+},
+{
+"zh": "提示",
+"names": [
+"Resources/OTAPromptTitleTextBlock/Text"
+]
+},
+{
+"zh": "立即更新",
+"names": [
+"Resources/OTAUpdateButton/Content",
+"Resources/UpdateWindowOnLowerRightCornerRightButtonContent"
+]
+},
+{
+"zh": "狂暴模式需要在连接电源时使用，性能模式已切换至均衡模式",
+"names": [
+"Resources/PowerRemovePopUp/content"
+]
+},
+{
+"zh": "电源已断开",
+"names": [
+"Resources/PowerRemovePopUp/title"
+]
+},
+{
+"zh": "狂暴模式需要在连接电源时使用，性能模式已切换至智能模式",
+"names": [
+"Resources/PowerRemovePopUpToIntelligence/content"
+]
+},
+{
+"zh": "网络异常，请稍后重试",
+"names": [
+"Resources/PrivacyPageNetorkError/Text"
+]
+},
+{
+"zh": "小米电脑管家隐私政策",
+"names": [
+"Resources/PrivacyTitleTextBox/Text"
+]
+},
+{
+"zh": "重新录制",
+"names": [
+"Resources/RecordAgainButton/Content"
+]
+},
+{
+"zh": "取消录制",
+"names": [
+"Resources/RecordCancelButton/Content",
+"Resources/RecordClearButton/Content"
+]
+},
+{
+"zh": "举头望明月，低头思故乡。",
+"names": [
+"Resources/RecordContentBottom/Text"
+]
+},
+{
+"zh": "床前明月光，疑是地上霜。",
+"names": [
+"Resources/RecordContentTop/Text"
+]
+},
+{
+"zh": "录制失败",
+"names": [
+"Resources/RecordFailedTitle/Text"
+]
+},
+{
+"zh": "您周边的噪音较大，建议您在安静的环境中进行录制",
+"names": [
+"Resources/RecordFailInfo/Text",
+"Resources/NoiseEnrollFailInfo"
+]
+},
+{
+"zh": "完成",
+"names": [
+"Resources/RecordFinishButton/Content"
+]
+},
+{
+"zh": "点击“开始录制”按钮后，请持续朗读以下文字直到录制完成：",
+"names": [
+"Resources/RecordRules/Text"
+]
+},
+{
+"zh": "开始录制",
+"names": [
+"Resources/RecordStartUpdateButton/Content"
+]
+},
+{
+"zh": "电脑助手",
+"names": [
+"Resources/TaskbarTooltip/ToolTipText"
+]
+},
+{
+"zh": "无法检查更新",
+"names": [
+"Resources/UnableUpdateTitleTextBox/Text"
+]
+},
+{
+"zh": "去同意",
+"names": [
+"Resources/UnableUpdateToAgreeButton/Content"
+]
+},
+{
+"zh": "您已录制过声纹信息，重新录制将会覆盖已有声纹信息，确定要重新录制吗？",
+"names": [
+"Resources/UpDateRecordInfo/Text"
+]
+},
+{
+"zh": "更新声纹信息",
+"names": [
+"Resources/UpDateVoiceprintRecordingPageTitle/Text"
+]
+},
+{
+"zh": "录制声纹信息",
+"names": [
+"Resources/VoiceprintRecordingPageTitle/Text"
+]
+},
+{
+"zh": "撤回",
+"names": [
+"Resources/WithdrawAgreementButton/Content",
+"Resources/WithDrawButtonContent"
+]
+},
+{
+"zh": "撤回失败，请稍后重试",
+"names": [
+"Resources/WithDrawFailTextBlock/Text"
+]
+},
+{
+"zh": "撤回同意",
+"names": [
+"Resources/WithdrawTextTitleBox/Text"
+]
+},
+{
+"zh": "退出后附近设备将无法发现{0}的小米本，是否确认退出？",
+"names": [
+"Resources/CloseNotifyPageContent"
+]
+},
+{
+"zh": "录制超时，请您重试",
+"names": [
+"Resources/DelayedEnrollFailInfo"
+]
+},
+{
+"zh": "不支持外接设备录制，请您移除设备后重试                       ",
+"names": [
+"Resources/ExternalMicrophoneInfo"
+]
+},
+{
+"zh": "问题提交失败，请重新提交反馈",
+"names": [
+"Resources/FeedbackFailedPopUpWindowContent"
+]
+},
+{
+"zh": "反馈提交失败",
+"names": [
+"Resources/FeedbackFailedPopUpWindowTitle"
+]
+},
+{
+"zh": "问题已成功提交",
+"names": [
+"Resources/FeedbackSuccessedPopUpWindowBehindContent"
+]
+},
+{
+"zh": "您反馈的",
+"names": [
+"Resources/FeedbackSuccessedPopUpWindowFrontContent"
+]
+},
+{
+"zh": "反馈提交成功",
+"names": [
+"Resources/FeedbackSuccessedPopUpWindowTitle"
+]
+},
+{
+"zh": "当前麦克风异常或处于静音状态，无法录制声纹信息，请您修复后重试",
+"names": [
+"Resources/MicErrorInfo"
+]
+},
+{
+"zh": "轻轻的我走了，正如我轻轻的来；\n我轻轻的招手，作别西天的云彩。\n那河畔的金柳，是夕阳中的新娘；\n波光里的艳影，在我的心头荡漾。\n悄悄的我走了，正如我悄悄的来；\n我挥一挥衣袖，不带走一片云彩。",
+"names": [
+"Resources/RecordContent"
+]
+},
+{
+"zh": "录音服务不可用，无法录制声纹信息，请您修复后重试",
+"names": [
+"Resources/RecordServiceErrorInfo"
+]
+},
+{
+"zh": "驱动更新已完成，需要重启计算机后生效",
+"names": [
+"Resources/RestartContent"
+]
+},
+{
+"zh": "立即重启",
+"names": [
+"Resources/RestartImmediatelyRightButton"
+]
+},
+{
+"zh": "稍后手动重启",
+"names": [
+"Resources/RestartLaterLeftButton"
+]
+},
+{
+"zh": "驱动更新已完成",
+"names": [
+"Resources/RestartTitle"
+]
+},
+{
+"zh": "系统错误，请您重试",
+"names": [
+"Resources/ServiceEnrollFailInfo"
+]
+},
+{
+"zh": "检测到有驱动更新，正在帮您升级驱动以优化使用体验",
+"names": [
+"Resources/UpdateDriverContent"
+]
+},
+{
+"zh": "检测到驱动更新",
+"names": [
+"Resources/UpdateDriverTitle"
+]
+},
+{
+"zh": "暂不更新",
+"names": [
+"Resources/UpdateWindowOnLowerRightCornerLeftButtonContent"
+]
+},
+{
+"zh": "撤回（ {0} s ）",
+"names": [
+"Resources/WithDrawButtonCountdownContent"
+]
+},
+{
+"zh": "声源：麦克风",
+"names": [
+"SubtitleTranscriptor/Resources/AudioMicrophone"
+]
+},
+{
+"zh": "声源：混合",
+"names": [
+"SubtitleTranscriptor/Resources/AudioMix"
+]
+},
+{
+"zh": "声源：系统",
+"names": [
+"SubtitleTranscriptor/Resources/AudioSystem"
+]
+},
+{
+"zh": "同时导出音频",
+"names": [
+"SubtitleTranscriptor/Resources/ExportAudio"
+]
+},
+{
+"zh": "导出失败",
+"names": [
+"SubtitleTranscriptor/Resources/ExportFailed"
+]
+},
+{
+"zh": "正在导出......",
+"names": [
+"SubtitleTranscriptor/Resources/Exporting"
+]
+},
+{
+"zh": "导出位置",
+"names": [
+"SubtitleTranscriptor/Resources/ExportPath"
+]
+},
+{
+"zh": "字幕已成功导出",
+"names": [
+"SubtitleTranscriptor/Resources/ExportSuccess"
+]
+},
+{
+"zh": "字幕和音频已成功导出",
+"names": [
+"SubtitleTranscriptor/Resources/ExportSuccessWithAudio"
+]
+},
+{
+"zh": "导出",
+"names": [
+"SubtitleTranscriptor/Resources/ExportTxt"
+]
+},
+{
+"zh": "隐藏原文",
+"names": [
+"SubtitleTranscriptor/Resources/HideOriginTxt"
+]
+},
+{
+"zh": "语言：英文",
+"names": [
+"SubtitleTranscriptor/Resources/LanguageEn"
+]
+},
+{
+"zh": "语言：中文",
+"names": [
+"SubtitleTranscriptor/Resources/LanguageZh"
+]
+},
+{
+"zh": "正在聆听麦克风声音...",
+"names": [
+"SubtitleTranscriptor/Resources/ListeningTxtZhMic"
+]
+},
+{
+"zh": "正在聆听系统和麦克风声音...",
+"names": [
+"SubtitleTranscriptor/Resources/ListeningTxtZhMix"
+]
+},
+{
+"zh": "正在聆听系统声音...",
+"names": [
+"SubtitleTranscriptor/Resources/ListeningTxtZhSystem"
+]
+},
+{
+"zh": "帐号登录失败，请重试。",
+"names": [
+"SubtitleTranscriptor/Resources/LoginFailedContent"
+]
+},
+{
+"zh": "登陆失败",
+"names": [
+"SubtitleTranscriptor/Resources/LoginFailedTitle"
+]
+},
+{
+"zh": "使用字幕转录功能需要先登录小米帐号。",
+"names": [
+"SubtitleTranscriptor/Resources/LoginInfoContent"
+]
+},
+{
+"zh": "登录小米帐号",
+"names": [
+"SubtitleTranscriptor/Resources/LoginInfoTitle"
+]
+},
+{
+"zh": "登录",
+"names": [
+"SubtitleTranscriptor/Resources/LoginTxt"
+]
+},
+{
+"zh": "麦克风状态异常，请稍候重试",
+"names": [
+"SubtitleTranscriptor/Resources/MicErrorTxt"
+]
+},
+{
+"zh": "麦克风状态异常",
+"names": [
+"SubtitleTranscriptor/Resources/MicErrorZhTxt"
+]
+},
+{
+"zh": "帐号登录",
+"names": [
+"SubtitleTranscriptor/Resources/MiLoginInfoTitle"
+]
+},
+{
+"zh": "网络已断开，请在联网后重试",
+"names": [
+"SubtitleTranscriptor/Resources/NetErrorTxt"
+]
+},
+{
+"zh": "网络已断开",
+"names": [
+"SubtitleTranscriptor/Resources/NetErrorZhTxt"
+]
+},
+{
+"zh": "不再提醒",
+"names": [
+"SubtitleTranscriptor/Resources/NotNoticeTip"
+]
+},
+{
+"zh": "双语对照",
+"names": [
+"SubtitleTranscriptor/Resources/ShowBothLanguage"
+]
+},
+{
+"zh": "关闭面板并结束识别，已识别的字幕内容不会保存。",
+"names": [
+"SubtitleTranscriptor/Resources/StopCaptureTip"
+]
+},
+{
+"zh": "结束识别",
+"names": [
+"SubtitleTranscriptor/Resources/StopCaptureTitle"
+]
+},
+{
+"zh": "结束",
+"names": [
+"SubtitleTranscriptor/Resources/StopTxt"
+]
+},
+{
+"zh": "字幕将被导出为.txt文件，选择导出路径：",
+"names": [
+"SubtitleTranscriptor/Resources/SubtitleContentTip"
+]
+},
+{
+"zh": "导出字幕",
+"names": [
+"SubtitleTranscriptor/Resources/SubtitleContentTitle"
+]
+},
+{
+"zh": "暂时没有听到声音，请在会议或播放视频时使用",
+"names": [
+"SubtitleTranscriptor/Resources/SuspendTxtZh"
+]
+}
+]

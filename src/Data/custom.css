@@ -1,0 +1,120 @@
+/* English layout fixes for Xiaomi PC Manager web UI (loaded after main.css). */
+
+/* Device Connect cards: let descriptions wrap to two lines instead of running off the card */
+[class*="device-content-box-desc--"] {
+  white-space: normal !important;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  line-height: 1.35;
+}
+[class*="device-content-box-title--"] {
+  line-height: 1.2;
+}
+
+/* Sidebar labels: English words are wider than two Chinese glyphs; keep one word per line */
+[class*="nav-btn__label--"],
+[class*="nav-label--"] {
+  font-size: .55rem !important;
+  line-height: .75rem !important;
+  width: auto !important;
+  max-width: none !important;
+  white-space: nowrap !important;
+  word-break: normal !important;
+  text-align: center;
+}
+[class*="avatar__text--"] {
+  font-size: .55rem !important;
+  text-overflow: clip !important;
+}
+
+/* Original bug: width:100% plus 3rem side margins made the page 3rem wider than the window.
+   Use padding instead and leave room for the vertical scrollbar so 3 cards still fit per row. */
+[class*="device-connect--"] {
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 1.2rem 0 3rem;
+  box-sizing: border-box;
+}
+[class*="device-content--"] {
+  max-width: 37rem;
+}
+/* cards grow with two-line English titles/descriptions instead of spilling into the next row */
+[class*="device-content-box--"] {
+  height: auto !important;
+  min-height: 8.6rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* Toolbox cards */
+[class*="card--Dg6xw"] {
+  height: auto !important;
+  min-height: 7.7rem;
+}
+[class*="card--Dg6xw"] [class*="title--wUeVK"] {
+  font-size: .8rem !important;
+  white-space: nowrap;
+}
+
+/* Settings: drop-downs wide enough for the longest English option, buttons sized to text */
+[class*="form-row-select--"] {
+  box-sizing: border-box;
+  flex: 0 0 auto;
+  width: 8.6rem !important;
+}
+/* the inner rc-select carries its own fixed width class (screen-select, service-select, ...) */
+[class*="form-row-select--"] .rc-select {
+  box-sizing: border-box;
+  width: 100% !important;
+}
+[class*="form-row-select--"] .rc-select-selection-wrap {
+  min-width: 0;
+  overflow: hidden;
+}
+[class*="form-row-select--"] .rc-select-selection-item {
+  min-width: 0;
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+[class*="form-row-button--"] {
+  width: auto !important;
+  min-width: 5.8rem;
+  white-space: nowrap;
+  flex: 0 0 auto;
+}
+[class*="form-row-text--"] {
+  min-width: 0;
+  flex: 1 1 auto;
+  padding-right: 1rem;
+}
+
+/* Device Connect header: long English title must not push the Sign in button off-screen */
+[class*="device-header-content--"] {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+[class*="device-header-title--"] {
+  font-size: 1.2rem !important;
+  line-height: 1.5rem !important;
+}
+[class*="device-header-btn--"] {
+  flex: 0 0 auto;
+  width: auto !important;
+  min-width: 4.4rem;
+  margin-left: auto !important;
+  margin-right: 1rem;
+  white-space: nowrap;
+}
+
+/* All buttons: never wrap the label; grow past the fixed Chinese-sized width only when needed */
+[class*="button--3DTo5"],
+[class*="btn--"],
+button {
+  white-space: nowrap;
+  min-width: max-content;
+}
